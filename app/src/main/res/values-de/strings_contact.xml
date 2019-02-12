@@ -6,33 +6,28 @@
 
     <string name="contact_body">Dear Printoid developer,\n\n
     Following is my own configuration:\n\n
-    - Device model: %1$s\n
-    - Android version: %2$s\n
-    - Fingerprint: %3$s\n
-    - 3D Printer: %4$s\n\n
-    - OctoPrint version: %5$s\n\n
-    My message:\n\n\n\n
-    %6$s\n\n\n\n
+    - Device model:\n\u0020\u0020\u0020\u0020\u0020[%1$s]\n
+    - Android version:\n\u0020\u0020\u0020\u0020\u0020[%2$s]\n
+    - Fingerprint:\n\u0020\u0020\u0020\u0020\u0020[%3$s]\n
+    - 3D Printer:\n\u0020\u0020\u0020\u0020\u0020[%4$s]\n
+    - OctoPrint version:\n\u0020\u0020\u0020\u0020\u0020[%5$s]\n\n
+    My message:\n\n\n
+    %6$s\n\n\n
     Best regards</string>
-
-    <string name="alert_contact_title">Softwareentwickler kontaktieren</string>
-
-    <string name="alert_contact_email_msg">\nBevor die Entwickler in Kontakt gebracht, sind Sie sicher, dass:\n\n
-     - Printoid aktuell?\n
-     - Hast du die Tutorials nochmal angeschaut? ?\n
-     - Haben Sie die häufig gestellten Fragen konsultiert (F.A.Q.)?\n
-     - Sie höflich und höflich sein?\n\n
-    Wenn Sie diese Bedingungen nicht einhalten, <b>kann der Entwickler Ihnen nicht helfen</b>.</string>
-
-    <string name="alert_contact_traces_msg">Bevor die Entwickler in Kontakt gebracht, sind Sie sicher, dass:\n
-     - Printoid aktuell?\n
-     - Hast du die Tutorials nochmal angeschaut? ?\n
-     - Haben Sie die häufig gestellten Fragen konsultiert (F.A.Q.)?\n
-     - Sie werden alle notwendigen Details mit diesen Schritten zur Verfügung stellen?\n
-     - Sie höflich und höflich sein?\n\n
-    Wenn Sie diese Bedingungen nicht einhalten, <b>kann der Entwickler Ihnen nicht helfen</b>.</string>
 
     <string name="alert_contact_tutorials_label">Anleitungen</string>
     <string name="alert_contact_faq_label">F.A.Q.</string>
+
+    <string name="alert_contact_title">Softwareentwickler kontaktieren</string>
+
+    <string name="contact_conditions_title">Before contacting the developer, please ensure that:</string>
+    <string name="contact_condition_1">Printoid is up-to-date</string>
+    <string name="contact_condition_2">OctoPrint is up-to-date</string>
+    <string name="contact_condition_3">I have read the tutorials</string>
+    <string name="contact_condition_4">I have read the Frequently Asked Questions (F.A.Q.)</string>
+    <string name="contact_condition_5">I will be polite and courteous</string>
+
+    <string name="contact_form_title">Please write your message to Anthony, the developer of Printoid:</string>
+    <string name="contact_form_hint">Hello, I want to tell you that…</string>
 
 </resources>

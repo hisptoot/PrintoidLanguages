@@ -7,37 +7,32 @@
 
     <string name="contact_body">Dear Printoid developer,\n\n
     Following is my own configuration:\n\n
-    - Device model: %1$s\n
-    - Android version: %2$s\n
-    - Fingerprint: %3$s\n
-    - 3D Printer: %4$s\n\n
-    - OctoPrint version: %5$s\n\n
-    My message:\n\n\n\n
-    %6$s\n\n\n\n
+    - Device model:\n\u0020\u0020\u0020\u0020\u0020[%1$s]\n
+    - Android version:\n\u0020\u0020\u0020\u0020\u0020[%2$s]\n
+    - Fingerprint:\n\u0020\u0020\u0020\u0020\u0020[%3$s]\n
+    - 3D Printer:\n\u0020\u0020\u0020\u0020\u0020[%4$s]\n
+    - OctoPrint version:\n\u0020\u0020\u0020\u0020\u0020[%5$s]\n\n
+    My message:\n\n\n
+    %6$s\n\n\n
     Best regards</string>
 
     <string name="contact_version_premium" translatable="false">PREMIUM</string>
     <string name="contact_version_pro" translatable="false">PRO</string>
     <string name="contact_version_trial" translatable="false">LITE</string>
 
-    <string name="alert_contact_title">Contact the developer</string>
-
-    <string name="alert_contact_email_msg">\nBefore contacting the developer, are you sure that:\n\n
-    - Printoid is up-to-date ?\n
-    - You have read the tutorials again?\n
-    - You have searched in the Frequently Asked Questions (F.A.Q.)?\n
-    - You will be polite and courteous?\n\n
-    If you do not respect these conditions, the developer <b>will not be able</b> to help you his best.</string>
-
-    <string name="alert_contact_traces_msg">Before sending the logs the developer, are you sure that:\n
-    - Printoid is up-to-date ?\n
-    - You have read the tutorials again?\n
-    - You have search in the Frequently Asked Questions (F.A.Q.)?\n
-    - You will be able to explain why you are sending the traces ?\n
-    - You will be polite and courteous?\n\n
-    If you do not respect these conditions, the developer <b>will not be able</b> to help you his best.</string>
-
     <string name="alert_contact_tutorials_label">Tutorials</string>
     <string name="alert_contact_faq_label">F.A.Q.</string>
+
+    <string name="alert_contact_title">Contact the developer</string>
+
+    <string name="contact_conditions_title">Before contacting the developer, please ensure that:</string>
+    <string name="contact_condition_1">Printoid is up-to-date</string>
+    <string name="contact_condition_2">OctoPrint is up-to-date</string>
+    <string name="contact_condition_3">I have read the tutorials</string>
+    <string name="contact_condition_4">I have read the Frequently Asked Questions (F.A.Q.)</string>
+    <string name="contact_condition_5">I will be polite and courteous</string>
+
+    <string name="contact_form_title">Please write your message to Anthony, the developer of Printoid:</string>
+    <string name="contact_form_hint">Hello, I want to tell you that…</string>
 
 </resources>

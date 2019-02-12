@@ -7,37 +7,32 @@
 
     <string name="contact_body">Caro desenvolvedor do Printoid,\n\n
     Segue minhas configurações:\n\n
-    - Modelo de meu dispositivo: %1$s\n
-    - Versão do Android: %2$s\n
-    - Fingerprint: %3$s\n
-    - Impressora 3D: %4$s\n\n
-    - Versão do OctoPrint: %5$s\n\n
-    Minha menssagem:\n\n\n\n
-    %6$s\n\n\n\n
+    - Modelo de meu dispositivo:\n\u0020\u0020\u0020\u0020\u0020[%1$s]\n
+    - Versão do Android:\n\u0020\u0020\u0020\u0020\u0020[%2$s]\n
+    - Fingerprint:\n\u0020\u0020\u0020\u0020\u0020[%3$s]\n
+    - Impressora 3D:\n\u0020\u0020\u0020\u0020\u0020[%4$s]\n
+    - Versão do OctoPrint:\n\u0020\u0020\u0020\u0020\u0020[%5$s]\n\n
+    Minha menssagem:\n\n\n
+    %6$s\n\n\n
     Best regards</string>
 
     <string name="contact_version_premium" translatable="false">PREMIUM</string>
     <string name="contact_version_pro" translatable="false">PRO</string>
     <string name="contact_version_trial" translatable="false">LITE</string>
 
-    <string name="alert_contact_title">Contate o desenvolvedor</string>
-
-    <string name="alert_contact_email_msg">\nAntes de entrar em contato com o desenvolvedor, você tem certeza de que:\n\n
-    - O Printoid está atualizado?\n
-    - Você leu os tutoriais novamente?\n
-    - Você pesquisou nas Perguntas Frequentemente Respondidas (F.A.Q.)?\n
-    - Você será educado e cortês?\n\n
-    Se você não respeitar essas condições, o desenvolvedor <b>não será capaz</b> de ajudar você no melhor dele.</string>
-
-    <string name="alert_contact_traces_msg">Antes de entrar em contato com o desenvolvedor, você tem certeza de que:\n
-    - O Printoid está atualizado?\n
-    - Você leu os tutoriais novamente?\n
-    - Você pesquisou nas Perguntas Frequentemente Respondidas (F.A.Q.)?\n
-    - Você será capaz de explicar por que você está enviando os traços?\n
-    - Você será educado e cortês?\n\n
-    Se você não respeitar essas condições, o desenvolvedor <b>não será capaz</b> de ajudar você no melhor dele.</string>
-
     <string name="alert_contact_tutorials_label">Tutoriais</string>
     <string name="alert_contact_faq_label">F.A.Q.</string>
+
+    <string name="alert_contact_title">Contate o desenvolvedor</string>
+
+    <string name="contact_conditions_title">Before contacting the developer, please ensure that:</string>
+    <string name="contact_condition_1">Printoid is up-to-date</string>
+    <string name="contact_condition_2">OctoPrint is up-to-date</string>
+    <string name="contact_condition_3">I have read the tutorials</string>
+    <string name="contact_condition_4">I have read the Frequently Asked Questions (F.A.Q.)</string>
+    <string name="contact_condition_5">I will be polite and courteous</string>
+
+    <string name="contact_form_title">Please write your message to Anthony, the developer of Printoid:</string>
+    <string name="contact_form_hint">Hello, I want to tell you that…</string>
 
 </resources>
