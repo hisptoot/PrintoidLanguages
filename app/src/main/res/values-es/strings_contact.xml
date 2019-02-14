@@ -20,14 +20,14 @@
 
     <string name="alert_contact_title">Contactar al desarrollador</string>
 
-    <string name="contact_conditions_title">Before contacting the developer, please ensure that:</string>
-    <string name="contact_condition_1">Printoid is up-to-date</string>
-    <string name="contact_condition_2">OctoPrint is up-to-date</string>
-    <string name="contact_condition_3">I have read the tutorials</string>
-    <string name="contact_condition_4">I have read the Frequently Asked Questions (F.A.Q.)</string>
-    <string name="contact_condition_5">I will be polite and courteous</string>
+    <string name="contact_conditions_title">Antes de contactar con el desarrollador, asegúrese de que:</string>
+    <string name="contact_condition_1">Printoid está al día</string>
+    <string name="contact_condition_2">OctoPrint está al día</string>
+    <string name="contact_condition_3">He leído los tutoriales</string>
+    <string name="contact_condition_4">He leído las Preguntas Frecuentes (F.A.Q.)</string>
+    <string name="contact_condition_5">Seré educado y cortés</string>
 
-    <string name="contact_form_title">Please write your message to Anthony, the developer of Printoid:</string>
-    <string name="contact_form_hint">Hello, I want to tell you that…</string>
+    <string name="contact_form_title">Por favor escribe tu mensaje a Anthony, el desarrollador de Printoid:</string>
+    <string name="contact_form_hint">Hola, quiero decirte que…</string>
 
 </resources>
