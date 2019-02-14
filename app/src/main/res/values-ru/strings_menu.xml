@@ -2,7 +2,10 @@
 <resources>
 
     <string name="menu_title_partners">Партнеры</string>
+    <string name="menu_title_configuration">Kонфигурация</string>
+    <string name="menu_title_help">Помогите &amp; помощь</string>
 
+    <string name="menu_account">Printoid учетная запись</string>
     <string name="menu_connect_server">Подключить OctoPrint сервер</string>
     <string name="menu_connect_printer">Подключить принтер</string>
     <string name="menu_disconnect_printer">Отключить принтер</string>
@@ -16,16 +19,16 @@
     <string name="menu_full_screen_slicer">Слайсер на весь экран</string>
     <string name="menu_full_screen_more_tools">Инструменты на весь экран</string>
     <string name="menu_minimize">Свернуть</string>
-    <string name="menu_printer_profiles_settings">OctoPrint\nсерверы</string>
+    <string name="menu_printer_profiles_settings">OctoPrint серверы</string>
     <string name="menu_app_settings">Настройки</string>
     <string name="menu_app_infos">Помощь</string>
     <string name="menu_octoprint_web">Web интерфейс OctoPrint</string>
     <string name="menu_files">Файлы</string>
     <string name="menu_spools">Kатушки</string>
-    <string name="menu_printoid_web">Сайт\nPrintoid</string>
+    <string name="menu_printoid_web">Сайт Printoid</string>
     <string name="menu_timelapse">Видеоролики</string>
     <string name="menu_alarms">Оповещения</string>
-    <string name="menu_contact_developer">Вопрос\nавтору</string>
+    <string name="menu_contact_developer">Вопрос автору</string>
     <string name="menu_plugins">Плагины OctoPrint</string>
 
     <string name="menu_lite_label_promote">Вам нравится Printoid Lite?</string>

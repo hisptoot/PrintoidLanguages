@@ -2,7 +2,10 @@
 <resources>
 
     <string name="menu_title_partners">Partners</string>
+    <string name="menu_title_configuration">Configuration</string>
+    <string name="menu_title_help">Help &amp; support</string>
 
+    <string name="menu_account">Printoid account</string>
     <string name="menu_psu_plugin_on" translatable="false">PSU on</string>
     <string name="menu_psu_plugin_off" translatable="false">PSU off</string>
     <string name="menu_tplink_plugin_on" translatable="false">TP Link on</string>
@@ -20,8 +23,8 @@
     <string name="menu_full_screen_slicer">Expand slicer</string>
     <string name="menu_full_screen_more_tools">Expand tools</string>
     <string name="menu_minimize">Minimize view</string>
-    <string name="menu_printer_profiles_settings">OctoPrint\nservers</string>
-    <string name="menu_app_settings">App\nsettings</string>
+    <string name="menu_printer_profiles_settings">OctoPrint servers</string>
+    <string name="menu_app_settings">App parameters</string>
     <string name="menu_alarms">Alerts manager</string>
     <string name="menu_plugins">OctoPrint\'s plugins</string>
     <string name="menu_spools">Spools manager</string>
@@ -30,9 +33,9 @@
     <string name="menu_files">Files</string>
     <string name="menu_cults" translatable="false">Cults</string>
     <string name="menu_myminifactory" translatable="false">MyMiniFactory</string>
-    <string name="menu_printoid_web">Printoid\nwebsite</string>
+    <string name="menu_printoid_web">Printoid website</string>
     <string name="menu_timelapse">Timelapses</string>
-    <string name="menu_contact_developer">Contact\ndeveloper</string>
+    <string name="menu_contact_developer">Contact the developer</string>
 
     <string name="menu_lite_label_promote">Do you like Printoid Lite?</string>
     <string name="menu_lite_text_promote">Support the developer and enjoy the PRO or PREMIUM full-featured version!</string>

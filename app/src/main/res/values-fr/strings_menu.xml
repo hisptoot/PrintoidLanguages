@@ -2,15 +2,18 @@
 <resources>
 
     <string name="menu_title_partners">Partenaires</string>
+    <string name="menu_title_configuration">Configuration</string>
+    <string name="menu_title_help">Aide &amp; support</string>
 
+    <string name="menu_account">Compte Printoid</string>
     <string name="menu_connect_server">Connecter OctoPrint</string>
     <string name="menu_connect_printer">Connecter l\'imprimante</string>
     <string name="menu_disconnect_printer">Déconnecter l\'imprimante</string>
     <string name="menu_connecting_printer">Connexion à l\'imprimante</string>
     <string name="menu_video_streaming">Streaming vidéo</string>
     <string name="menu_commands">Commandes</string>
-    <string name="menu_printer_profiles_settings">Serveurs\nOctoPrint</string>
-    <string name="menu_app_settings">Paramètres\nde l\'app</string>
+    <string name="menu_printer_profiles_settings">Serveurs OctoPrint</string>
+    <string name="menu_app_settings">Paramètres de l\'app</string>
     <string name="menu_app_infos">Assistance</string>
     <string name="menu_octoprint_web">Web-interface OctoPrint</string>
     <string name="menu_full_screen">Étendre la vue</string>
@@ -21,11 +24,11 @@
     <string name="menu_full_screen_more_tools">Étendre les outils</string>
     <string name="menu_minimize">Réduire</string>
     <string name="menu_spools">Gestion de bobines</string>
-    <string name="menu_printoid_web">Site web\nPrintoid</string>
+    <string name="menu_printoid_web">Site web de Printoid</string>
     <string name="menu_files">Fichiers</string>
     <string name="menu_timelapse">Timelapses</string>
     <string name="menu_alarms">Manager d\'alertes</string>
-    <string name="menu_contact_developer">Contacter le\ndéveloppeur</string>
+    <string name="menu_contact_developer">Contacter le développeur</string>
     <string name="menu_plugins">Plugins OctoPrint</string>
 
     <string name="menu_lite_label_promote">Vous aimez Printoid Lite?</string>
