@@ -4,7 +4,7 @@
     <string name="notif_channel_name_pull_service">Printoid background client</string>
 
     <string name="notif_foreground_service_title" translatable="false">@string/notif_channel_name_pull_service</string>
-    <string name="notif_foreground_service_msg">Printoid communicates with OctoPrint is background…</string>
+    <string name="notif_foreground_service_msg">Printoid communicates with OctoPrint in background…</string>
 
     <string name="notif_print_completed">Printing ended</string>
     <string name="notif_print_paused">Printing paused</string>
