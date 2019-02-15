@@ -20,7 +20,7 @@
 
     <string name="alert_contact_title">Вопрос разработчику</string>
 
-    <string name="contact_conditions_title">Прежде чем связаться с разработчиком, убедитесь, что:</string>
+    <string name="contact_conditions_title">Прежде чем связаться с разработчиком, пожалуйста, отметьте следующие поля:</string>
     <string name="contact_condition_1">Printoid актуален</string>
     <string name="contact_condition_2">OctoPrint является актуальной</string>
     <string name="contact_condition_3">Я прочитал учебники</string>
@@ -29,5 +29,7 @@
 
     <string name="contact_form_title">Пожалуйста, напишите ваше сообщение Anthony, разработчику Printoid:</string>
     <string name="contact_form_hint">Здравствуйте, я хочу сказать вам, что…</string>
+    <string name="contact_form_logs_attached">Журналы неудачных подключений будут автоматически добавлены в ваше сообщение разработчику, сохраняя вашу конфиденциальность.</string>
+    <string name="contact_form_with_logs_hint">Здравствуйте, я объясню вам мой контекст (это первый раз, когда я пытаюсь подключиться с помощью Printoid? Это работало хорошо раньше?…)</string>
 
 </resources>

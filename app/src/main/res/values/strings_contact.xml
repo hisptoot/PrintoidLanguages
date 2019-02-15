@@ -25,7 +25,7 @@
 
     <string name="alert_contact_title">Contact the developer</string>
 
-    <string name="contact_conditions_title">Before contacting the developer, please ensure that:</string>
+    <string name="contact_conditions_title">Before contacting the developer, please check the following boxes:</string>
     <string name="contact_condition_1">Printoid is up-to-date</string>
     <string name="contact_condition_2">OctoPrint is up-to-date</string>
     <string name="contact_condition_3">I have read the tutorials</string>
@@ -34,5 +34,7 @@
 
     <string name="contact_form_title">Please write your message to Anthony, the developer of Printoid:</string>
     <string name="contact_form_hint">Hello, I want to tell you that…</string>
+    <string name="contact_form_logs_attached">The failing connection logs will be automatically added to your message to the developer, still respecting your privacy.</string>
+    <string name="contact_form_with_logs_hint">Hello, I will explain you my context (is it the first time I try to connect using Printoid? Was it working well previously? …)</string>
 
 </resources>

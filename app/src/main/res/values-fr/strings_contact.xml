@@ -20,7 +20,7 @@
 
     <string name="alert_contact_title">Contacter le développeur</string>
 
-    <string name="contact_conditions_title">Avant de contacter le développeur, merci de vous assurer que :</string>
+    <string name="contact_conditions_title">Avant de contacter le développeur, merci de cocher les cases suivantes :</string>
     <string name="contact_condition_1">Printoid est à jour</string>
     <string name="contact_condition_2">OctoPrint est à jour</string>
     <string name="contact_condition_3">J\'ai lu les tutoriels</string>
@@ -29,5 +29,7 @@
 
     <string name="contact_form_title">Ecrivez ci-dessous votre message pour Anthony, le développeur de Printoid :</string>
     <string name="contact_form_hint">Bonjour, je souhaiterais vous dire que…</string>
+    <string name="contact_form_logs_attached">Les logs de connexion vont être automatiquement ajoutés à votre message au développeur, toujours en respectant votre vie privée.</string>
+    <string name="contact_form_with_logs_hint">Bonjour, je vais vous expliquer mon contexte (Est-ce ma première connexion ? Est-ce que la cela fonctionnait avant ? …)</string>
 
 </resources>

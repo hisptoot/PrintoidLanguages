@@ -20,7 +20,7 @@
 
     <string name="alert_contact_title">Neem contact op met de ontwikkelaar</string>
 
-    <string name="contact_conditions_title">Voordat u contact opneemt met de ontwikkelaar, moet u ervoor zorgen dat dit gebeurt:</string>
+    <string name="contact_conditions_title">Voordat u contact opneemt met de ontwikkelaar, Controleer de volgende vakken:</string>
     <string name="contact_condition_1">Printoid is up-to-date</string>
     <string name="contact_condition_2">OctoPrint is up-to-date</string>
     <string name="contact_condition_3">Ik heb de tutorials gelezen</string>
@@ -29,5 +29,7 @@
 
     <string name="contact_form_title">Schrijf alstublieft uw bericht aan Anthony, de ontwikkelaar van Printoid:</string>
     <string name="contact_form_hint">Hallo, ik wil je dat vertellen…</string>
+    <string name="contact_form_logs_attached">De mislukte verbindingslogboeken worden automatisch aan uw bericht toegevoegd aan de ontwikkelaar, met inachtneming van uw privacy.</string>
+    <string name="contact_form_with_logs_hint">Hallo, ik zal je mijn context uitleggen (is het de eerste keer dat ik probeer verbinding te maken met Printoid? Was het vroeger goed? …)</string>
 
 </resources>

@@ -20,7 +20,7 @@
 
     <string name="alert_contact_title">Softwareentwickler kontaktieren</string>
 
-    <string name="contact_conditions_title">Bevor Sie sich an den Entwickler wenden, stellen Sie dies sicher:</string>
+    <string name="contact_conditions_title">Bevor Sie sich an den Entwickler wenden, Bitte kreuzen Sie die folgenden Felder an:</string>
     <string name="contact_condition_1">Printoid ist aktuell</string>
     <string name="contact_condition_2">OctoPrint ist aktuell</string>
     <string name="contact_condition_3">Ich habe die Tutorials gelesen</string>
@@ -29,5 +29,7 @@
 
     <string name="contact_form_title">Bitte schreiben Sie Ihre Nachricht an Anthony, den Entwickler von Printoid:</string>
     <string name="contact_form_hint">Hallo, das möchte ich dir sagen…</string>
+    <string name="contact_form_logs_attached">Die fehlgeschlagenen Verbindungsprotokolle werden dem Entwickler automatisch zu Ihrer Nachricht hinzugefügt, wobei Ihre Privatsphäre gewahrt bleibt.</string>
+    <string name="contact_form_with_logs_hint">Hallo, ich werde dir meinen Kontext erklären (Ist es das erste Mal, dass ich versuche, mich mit Printoid zu verbinden? Hat es vorher gut funktioniert?…)</string>
 
 </resources>

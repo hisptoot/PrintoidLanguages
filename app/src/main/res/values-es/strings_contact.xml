@@ -20,7 +20,7 @@
 
     <string name="alert_contact_title">Contactar al desarrollador</string>
 
-    <string name="contact_conditions_title">Antes de contactar con el desarrollador, asegúrese de que:</string>
+    <string name="contact_conditions_title">Antes de contactar con el desarrollador, por favor marque las siguientes casillas:</string>
     <string name="contact_condition_1">Printoid está al día</string>
     <string name="contact_condition_2">OctoPrint está al día</string>
     <string name="contact_condition_3">He leído los tutoriales</string>
@@ -29,5 +29,7 @@
 
     <string name="contact_form_title">Por favor escribe tu mensaje a Anthony, el desarrollador de Printoid:</string>
     <string name="contact_form_hint">Hola, quiero decirte que…</string>
+    <string name="contact_form_logs_attached">Los registros de conexión anómalos se agregarán automáticamente a su mensaje al desarrollador, respetando su privacidad.</string>
+    <string name="contact_form_with_logs_hint">Hola, le explicaré mi contexto (¿Es la primera vez que intento conectarme utilizando Printoid? ¿Funcionaba bien anteriormente? …)</string>
 
 </resources>
