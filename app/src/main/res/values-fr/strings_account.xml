@@ -21,6 +21,10 @@
     <string name="account_password_error_digit">Le mot de passe doit contenir un chiffre</string>
     <string name="account_password_confirm_does_not_match">Les mots de passe ne correspondent pas</string>
 
+    <string name="account_password_lost"><u>Mot de passe oublié</u></string>
+    <string name="account_password_lost_email_sent">Un e-mail a été envoyé à %s pour réinitialiser votre mot de passe.</string>
+    <string name="account_password_lost_email_error">Impossible de réinitialiser le mot de passe pour %s, réessayez plus tard.</string>
+
     <string name="account_backup">Backup des paramètres dans le compte</string>
     <string name="account_restore">Restorer paramètres depuis le compte</string>
     <string name="account_automatic_backup">Backup automatique</string>

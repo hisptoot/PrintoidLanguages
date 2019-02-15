@@ -21,6 +21,10 @@
     <string name="account_password_error_digit">Muss mindestens eine Ziffer enthalten</string>
     <string name="account_password_confirm_does_not_match">Passwörter stimmen nicht überein</string>
 
+    <string name="account_password_lost"><u>Ich habe mein Passwort verloren</u></string>
+    <string name="account_password_lost_email_sent">Eine E-Mail zum Zurücksetzen Ihres Passworts wurde an %s gesendet</string>
+    <string name="account_password_lost_email_error">Das Kennwort für %s kann nicht zurückgesetzt werden. Bitte versuchen Sie es später erneut.</string>
+
     <string name="account_backup">Sicherungseinstellungen im Konto</string>
     <string name="account_restore">Einstellungen vom Konto wiederherstellen</string>
     <string name="account_automatic_backup">Automatisches Backup</string>

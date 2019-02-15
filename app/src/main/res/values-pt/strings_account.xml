@@ -21,6 +21,10 @@
     <string name="account_password_error_digit">Deve conter pelo menos um dígito</string>
     <string name="account_password_confirm_does_not_match">As senhas não coincidem</string>
 
+    <string name="account_password_lost"><u>Perdi minha senha</u></string>
+    <string name="account_password_lost_email_sent">Um email para redefinir sua senha foi enviado para %s</string>
+    <string name="account_password_lost_email_error">Não é possível redefinir a senha para %s, tente novamente mais tarde..</string>
+
     <string name="account_backup">Backup de suas configurações de conta</string>
     <string name="account_restore">Restaurar configurações da conta</string>
     <string name="account_automatic_backup">Backup automático</string>

@@ -21,6 +21,10 @@
     <string name="account_password_error_digit">Contendrá al menos un dígito</string>
     <string name="account_password_confirm_does_not_match">Las contraseñas no coinciden</string>
 
+    <string name="account_password_lost"><u>He perdido mi contraseña</u></string>
+    <string name="account_password_lost_email_sent">Se ha enviado un correo electrónico para restablecer su contraseña a %s</string>
+    <string name="account_password_lost_email_error">No se puede restablecer la contraseña para %s, vuelva a intentarlo más tarde.</string>
+
     <string name="account_backup">Copia de ajustes en cuenta</string>
     <string name="account_restore">Restaurar ajustes de la cuenta</string>
     <string name="account_automatic_backup">Copia de seguridad automática</string>

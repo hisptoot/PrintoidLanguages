@@ -17,6 +17,10 @@
     <string name="account_password_error_digit">Shall contain at least one digit</string>
     <string name="account_password_confirm_does_not_match">Passwords do not match</string>
 
+    <string name="account_password_lost"><u>I have lost my password</u></string>
+    <string name="account_password_lost_email_sent">An email to reset your password has been sent to %s</string>
+    <string name="account_password_lost_email_error">Unable to reset password for %s, please retry later.</string>
+
     <string name="account_sign_in_with_email">Sign-in with email</string>
     <string name="account_sign_in_with_google">Sign-in with Google</string>
     <string name="account_sign_out">Sign-out</string>

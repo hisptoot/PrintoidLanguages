@@ -21,6 +21,10 @@
     <string name="account_password_error_digit">Должен содержать хотя бы одну цифру</string>
     <string name="account_password_confirm_does_not_match">Пароли не совпадают</string>
 
+    <string name="account_password_lost"><u>Я потерял свой пароль</u></string>
+    <string name="account_password_lost_email_sent">Письмо для сброса пароля было отправлено на адрес %s</string>
+    <string name="account_password_lost_email_error">Не удалось сбросить пароль для %s, повторите попытку позже.</string>
+
     <string name="account_backup">Резервное копирование настроек в аккаунте</string>
     <string name="account_restore">Восстановить настройки из аккаунта</string>
     <string name="account_automatic_backup">Автоматическое резервное копирование</string>

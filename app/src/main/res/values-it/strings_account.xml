@@ -17,6 +17,10 @@
     <string name="account_password_error_digit">Deve contenere almeno una cifra</string>
     <string name="account_password_confirm_does_not_match">le passwords non corrispondono</string>
 
+    <string name="account_password_lost"><u>Ho perso la mia password</u></string>
+    <string name="account_password_lost_email_sent">Un\'email per resettare la tua password è stata inviata a %s</string>
+    <string name="account_password_lost_email_error">Impossibile reimpostare la password per %s, riprova più tardi.</string>
+
     <string name="account_sign_in_with_email">Iscriviti con email</string>
     <string name="account_sign_in_with_google">Iscriviti con Google</string>
     <string name="account_sign_out">Disconnessione</string>

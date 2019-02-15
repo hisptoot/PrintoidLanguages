@@ -21,6 +21,10 @@
     <string name="account_password_error_digit">Moet ten minste één cijfer bevatten</string>
     <string name="account_password_confirm_does_not_match">Wachtwoorden komen niet overeen</string>
 
+    <string name="account_password_lost"><u>Ik ben mijn wachtwoord kwijt</u></string>
+    <string name="account_password_lost_email_sent">Een e-mail om uw wachtwoord te resetten is verzonden naar %s</string>
+    <string name="account_password_lost_email_error">Kon het wachtwoord voor %s niet opnieuw instellen, probeer het later opnieuw.</string>
+
     <string name="account_backup">Back-upinstellingen op account</string>
     <string name="account_restore">Herstel de instellingen vanuit uw account</string>
     <string name="account_automatic_backup">Automatische back-up</string>
