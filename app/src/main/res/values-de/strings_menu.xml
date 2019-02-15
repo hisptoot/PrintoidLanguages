@@ -30,6 +30,7 @@
     <string name="menu_alarms">Warnungen</string>
     <string name="menu_contact_developer">Contact developer</string>
     <string name="menu_plugins">Die Plugins von OctoPrint</string>
+    <string name="menu_tos">Nutzungsbedingungen</string>
 
     <string name="menu_lite_label_promote">Magst du Printoid Lite?</string>
     <string name="menu_lite_text_promote">Entfernen Sie Anzeigen und genießen Sie PRO und PREMIUM mit allen Funktionen!</string>
