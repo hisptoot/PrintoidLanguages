@@ -42,7 +42,7 @@
     <string name="set">Set</string>
     <string name="target">Ziel (°)</string>
     <string name="offset">Offset (°)</string>
-    <string name="extrude">Extrudiertem</string>
+    <string name="extrude">Extrudieren</string>
     <string name="retract">Einfahren</string>
     <string name="distance">Länge (mm)</string>
     <string name="current">(strom: %d)</string>
