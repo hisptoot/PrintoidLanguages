@@ -60,6 +60,8 @@
 
     <string name="default_currency">₽</string>
 
+    <string name="simple_day_offset_format">%1$s (д+%2$d)</string>
+
     <string name="simple_hour_format">hh:mm:ss a</string>
     <string name="simple_hour_reduced_format">hh:mm a</string>
     <string name="simple_date_format">@string/simple_date_format_12</string>

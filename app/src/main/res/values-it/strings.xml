@@ -60,6 +60,8 @@
 
     <string name="default_currency">$</string>
 
+    <string name="simple_day_offset_format">%1$s (G+%2$d)</string>
+
     <string name="simple_hour_format">hh:mm:ss a</string>
 
     <string name="simple_hour_reduced_format">hh:mm a</string>

@@ -60,6 +60,8 @@
 
     <string name="default_currency">R$</string>
 
+    <string name="simple_day_offset_format">%1$s (D+%2$d)</string>
+
     <string name="simple_hour_format">hh:mm:ss a</string>
     <string name="simple_hour_format_12" translatable="false">hh:mm:ss a</string>
     <string name="simple_hour_format_24" translatable="false">HH:mm:ss</string>

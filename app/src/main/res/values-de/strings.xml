@@ -60,6 +60,8 @@
 
     <string name="default_currency">€</string>
 
+    <string name="simple_day_offset_format">%1$s (T+%2$d)</string>
+
     <string name="simple_hour_format">HH:mm:ss</string>
     <string name="simple_hour_reduced_format">HH:mm</string>
     <string name="simple_date_format">@string/simple_date_format_24</string>
