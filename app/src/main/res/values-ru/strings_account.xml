@@ -45,4 +45,7 @@
     <string name="account_alert_settings_changed_title">Настройки из аккаунта изменены</string>
     <string name="account_alert_settings_changed_message">Настройки, сохраненные в вашей учетной записи Printoid, похоже, изменились. Вы хотите восстановить их сейчас на этом устройстве?\n\nПринтоид нужно будет перезагрузить после применения изменений.</string>
 
+    <string name="account_alert_settings_too_modern_title">Версия настроек не совпадает</string>
+    <string name="account_alert_settings_too_modern_message">Настройки, сохраненные в вашей учетной записи Printoid, похоже, относятся к более поздней версии Printoid. Пожалуйста, сначала обновите приложение на этом устройстве.</string>
+
 </resources>

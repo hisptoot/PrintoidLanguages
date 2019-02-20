@@ -45,4 +45,7 @@
     <string name="account_alert_settings_changed_title">Paramètres modifiées depuis le compte</string>
     <string name="account_alert_settings_changed_message">Les paramètres stockés dans votre compte Printoid semblent avoir changé. Souhaitez-vous les restaurer maintenant sur cet appareil ?\n\nPrintoid devra redémarrer pour prendre en compte les modifications.</string>
 
+    <string name="account_alert_settings_too_modern_title">La version des paramètres ne correspond pas</string>
+    <string name="account_alert_settings_too_modern_message">Les paramètres stockés dans votre compte Printoid semblent provenir d\'une version plus récente de Printoid. Veuillez mettre à jour l\'application sur cet appareil.</string>
+
 </resources>

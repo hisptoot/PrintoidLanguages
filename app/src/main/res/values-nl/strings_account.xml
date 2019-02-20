@@ -45,4 +45,7 @@
     <string name="account_alert_settings_changed_title">Instellingen van account veranderd</string>
     <string name="account_alert_settings_changed_message">De instellingen die zijn opgeslagen in uw Printoid-account lijken te zijn gewijzigd. Wilt u ze nu op dit apparaat herstellen?\n\nPrintoid moet opnieuw worden gestart nadat de wijzigingen zijn aangebracht.</string>
 
+    <string name="account_alert_settings_too_modern_title">De versie van de instellingen komt niet overeen</string>
+    <string name="account_alert_settings_too_modern_message">De instellingen die zijn opgeslagen in uw Printoid-account lijken afkomstig te zijn van een hogere versie van Printoid. Werk eerst de applicatie op dit apparaat bij.</string>
+
 </resources>

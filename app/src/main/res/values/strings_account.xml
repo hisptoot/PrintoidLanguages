@@ -45,4 +45,7 @@
     <string name="account_alert_settings_changed_title">Settings from account changed</string>
     <string name="account_alert_settings_changed_message">The settings stored in your Printoid account seem to have changed. Do you want to restore them now on this device?\n\nPrintoid will need to restart after applying the modifications.</string>
 
+    <string name="account_alert_settings_too_modern_title">Settings version does not match</string>
+    <string name="account_alert_settings_too_modern_message">The settings stored in your Printoid account seem to come from an higher version of Printoid. Please update the application on this device first.</string>
+
 </resources>

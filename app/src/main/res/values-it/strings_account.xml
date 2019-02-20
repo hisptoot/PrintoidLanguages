@@ -45,4 +45,7 @@
     <string name="account_alert_settings_changed_title">Le impostazioni dell\'account sono cambiate</string>
     <string name="account_alert_settings_changed_message">Le impostazioni memorizzate nel tuo account di Printoid sembrano essere cambiate. Vuoi ripristinarli ora su questo dispositivo?\n\nPrintoid sarà necessario riavviare dopo aver applicato le modifiche.</string>
 
+    <string name="account_alert_settings_too_modern_title">La versione delle impostazioni non corrisponde</string>
+    <string name="account_alert_settings_too_modern_message">Le impostazioni memorizzate nel tuo account di stampa sembrano provenire da una versione superiore di Printoid. Si prega di aggiornare prima l\'applicazione su questo dispositivo.</string>
+
 </resources>
