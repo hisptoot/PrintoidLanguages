@@ -74,11 +74,17 @@
     <string name="alert_disconnect_printer_message">Printer will be disconnected from your OctoPrint server. Are you sure you want to continue?</string>
     <string name="printer_disconnected">Printer disconnected</string>
 
-    <!-- TTY SELECTOR -->
+    <!-- PRINTER CONNECTION SETTINGS -->
     <string name="select_tty_title">Connection to a printer</string>
     <string name="select_tty_keep">Save connection settings</string>
     <string name="select_tty">Serial port</string>
     <string name="select_tty_profile">Printer profile</string>
     <string name="select_tty_auto_connect">Auto connect</string>
+
+    <!-- FAKE ACKNOWLEDGMENT -->
+    <string name="fake_ack_label">Send fake acknowledgment</string>
+    <string name="fake_ack_send">Send</string>
+    <string name="fake_ack_sent_success">Fake ack sent</string>
+    <string name="fake_ack_sent_failure">Fake ack failure</string>
 
 </resources>

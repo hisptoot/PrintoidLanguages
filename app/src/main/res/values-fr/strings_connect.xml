@@ -74,11 +74,17 @@
     <string name="alert_disconnect_printer_message">L\'imprimante va être déconnectée de votre serveur OctoPrint. Êtes-vous sûr de vouloir continuer ?</string>
     <string name="printer_disconnected">Imprimante déconnectée</string>
 
-    <!-- TTY SELECTOR -->
+    <!-- PRINTER CONNECTION SETTINGS -->
     <string name="select_tty_title">Connecter une imprimante</string>
     <string name="select_tty_keep">Sauver les préférences</string>
     <string name="select_tty">Port série</string>
     <string name="select_tty_profile">Profil d\'imprimante</string>
     <string name="select_tty_auto_connect">Connexion auto</string>
+
+    <!-- FAKE ACKNOWLEDGMENT -->
+    <string name="fake_ack_label">Simuler un acknowledment</string>
+    <string name="fake_ack_send">Envoyer</string>
+    <string name="fake_ack_sent_success">Acknowledgment simulé</string>
+    <string name="fake_ack_sent_failure">Impossible de simuler un acknowledment</string>
 
 </resources>
