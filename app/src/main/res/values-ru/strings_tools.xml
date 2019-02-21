@@ -17,6 +17,12 @@
     <string name="fan_level">Обдув\n%d%%</string>
     <string name="fan_level_index">Обдув %1$d\n%2$d%%</string>
 
+    <string name="printer_head_level_off">Экструдер\nвон</string>
+    <string name="printer_headX_level_off">Экструдер %d\nвон</string>
+    <string name="hot_bed_level_off">Стол\nвон</string>
+    <string name="fan_level_off">Обдув\nвон</string>
+    <string name="fan_level_index_off">Обдув %d\nвон</string>
+
     <string name="input_headX_level">Экструдер %d (°)</string>
     <string name="input_bed_level">Стол (°)</string>
     <string name="input_fan_level">Обдув %d (%%)</string>

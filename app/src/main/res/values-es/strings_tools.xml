@@ -14,8 +14,14 @@
     <string name="printer_head_level">Extrusor\n%d°</string>
     <string name="printer_headX_level">Extrusor %1$d\n%2$d°</string>
     <string name="hot_bed_level">Cama\n%d°</string>
-    <string name="fan_level">Nivel ventilador\n%d%%</string>
-    <string name="fan_level_index">Nivel ventilador %1$d\n%2$d%%</string>
+    <string name="fan_level">Ventilador\n%d%%</string>
+    <string name="fan_level_index">Ventilador %1$d\n%2$d%%</string>
+
+    <string name="printer_head_level_off">Extrusor\nAPAGADO</string>
+    <string name="printer_headX_level_off">Extrusor %d\nAPAGADO</string>
+    <string name="hot_bed_level_off">Cama\nAPAGADO</string>
+    <string name="fan_level_off">Ventilador\nAPAGADO</string>
+    <string name="fan_level_index_off">Ventilador %d\nAPAGADO</string>
 
     <string name="input_headX_level">Extrusor %d (°)</string>
     <string name="input_bed_level">Cama (°)</string>

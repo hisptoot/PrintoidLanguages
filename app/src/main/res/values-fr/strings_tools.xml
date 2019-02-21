@@ -17,6 +17,12 @@
     <string name="fan_level">Ventilation\n%d%%</string>
     <string name="fan_level_index">Ventilation %1$d\n%2$d%%</string>
 
+    <string name="printer_head_level_off">Extrudeur\nOFF</string>
+    <string name="printer_headX_level_off">Extrudeur %d\nOFF</string>
+    <string name="hot_bed_level_off">Lit\nOFF</string>
+    <string name="fan_level_off">Ventilation\nOFF</string>
+    <string name="fan_level_index_off">Ventilation %d\nOFF</string>
+
     <string name="input_headX_level">Extrudeur %d (°)</string>
     <string name="input_bed_level">Lit (°)</string>
     <string name="input_fan_level">Ventilation %d (%%)</string>
