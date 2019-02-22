@@ -23,17 +23,17 @@
 
     <!-- FRACTIONS WITH TARGET VALUE OFF -->
 
-    <!--  182.3°/-  -->
-    <string name="temperature_fraction_target_off" translatable="false">%1$.1f°/&#8212;</string>
-    <!--  182.3°/-  -->
-    <string name="temperature_fraction_target_off_colored" translatable="false"><![CDATA[<font color=\'#%2$s\'>%1$.1f°</font><font color=\'#FFFFFF\'>%4$s</font><font color=\'#%3$s\'>&#8212;</font>]]></string>
+    <!--  182.3°/OFF  -->
+    <string name="temperature_fraction_target_off" translatable="false">%1$.1f°/OFF</string>
+    <!--  182.3°/OFF  -->
+    <string name="temperature_fraction_target_off_colored" translatable="false"><![CDATA[<font color=\'#%2$s\'>%1$.1f°</font><font color=\'#FFFFFF\'>%4$s</font><font color=\'#%3$s\'>OFF</font>]]></string>
 
 
     <!-- FRACTIONS WITH CURRENT AND TARGET VALUES OFF -->
 
-    <!--  -/-  -->
-    <string name="temperature_fraction_off" translatable="false">&#8212;/&#8212;</string>
-    <!--  -/-  -->
-    c<string name="temperature_fraction_off_colored" translatable="false"><![CDATA[<font color=\'#%1$s\'>&#8212;</font><font color=\'#FFFFFF\'>%3$s</font><font color=\'#%2$s\'>&#8212;</font>]]></string>
+    <!--  -/OFF  -->
+    <string name="temperature_fraction_off" translatable="false">&#8212;/OFF</string>
+    <!--  -/OFF  -->
+    c<string name="temperature_fraction_off_colored" translatable="false"><![CDATA[<font color=\'#%1$s\'>&#8212;</font><font color=\'#FFFFFF\'>%3$s</font><font color=\'#%2$s\'>OFF</font>]]></string>
 
 </resources>
