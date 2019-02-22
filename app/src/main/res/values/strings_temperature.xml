@@ -32,8 +32,6 @@
     <!-- FRACTIONS WITH CURRENT AND TARGET VALUES OFF -->
 
     <!--  -/OFF  -->
-    <string name="temperature_fraction_off" translatable="false">&#8212;/OFF</string>
-    <!--  -/OFF  -->
-    c<string name="temperature_fraction_off_colored" translatable="false"><![CDATA[<font color=\'#%1$s\'>&#8212;</font><font color=\'#FFFFFF\'>%3$s</font><font color=\'#%2$s\'>OFF</font>]]></string>
+    <string name="temperature_fraction_off_colored" translatable="false"><![CDATA[<font color=\'#%1$s\'>&#8212;</font><font color=\'#FFFFFF\'>%3$s</font><font color=\'#%2$s\'>OFF</font>]]></string>
 
 </resources>
