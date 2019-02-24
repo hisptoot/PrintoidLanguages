@@ -265,6 +265,7 @@
     <string name="restore_error_permission">Произошла ошибка с правами на чтение</string>
     <string name="restore_error_unknown">Произошла неизвестная ошибка, пожалуйста свяжитесь с разработчиком Printoid</string>
 
+    <string name="baby_stepping_distance">Pасстояние Baby Stepping</string>
     <string name="baby_stepping_disabled">Инвалид</string>
 
 </resources>

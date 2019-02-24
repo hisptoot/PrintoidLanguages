@@ -265,6 +265,7 @@
     <string name="restore_error_permission">Si è verificato un errore con il permesso di lettura</string>
     <string name="restore_error_unknown">Si è verificato un errore sconosciuto, si prega di contattare lo sviluppatore di Printoid</string>
 
+    <string name="baby_stepping_distance">Distanza di Baby Stepping</string>
     <string name="baby_stepping_disabled">Disabilitato</string>
 
 </resources>

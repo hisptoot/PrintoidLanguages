@@ -265,6 +265,7 @@
     <string name="restore_error_permission">Er is een fout opgetreden met betrekking tot de lees permissies</string>
     <string name="restore_error_unknown">Onbekende fout bij het herstellen, neem contact op met de ontwikkelaar van Printoid</string>
 
+    <string name="baby_stepping_distance">Baby Stepping afstand</string>
     <string name="baby_stepping_disabled">Invalide</string>
 
 </resources>

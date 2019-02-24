@@ -265,6 +265,7 @@
     <string name="restore_error_permission">Une erreur s\'est produite avec la permission de lecture</string>
     <string name="restore_error_unknown">Erreur iconnue lors de la restauration, veuillez contacter le développeur de Printoid</string>
 
+    <string name="baby_stepping_distance">Distance de Baby Stepping</string>
     <string name="baby_stepping_disabled">Désactivé</string>
 
 </resources>

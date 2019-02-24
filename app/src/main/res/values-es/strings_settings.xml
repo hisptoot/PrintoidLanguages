@@ -265,6 +265,7 @@
     <string name="restore_error_permission">Ha ocurrido un error con los permisos de lectura</string>
     <string name="restore_error_unknown">Ha ocurrido un error desconocido, por favor contacte con el desarrollador de Printoid</string>
 
+    <string name="baby_stepping_distance">Distancia de Baby Stepping</string>
     <string name="baby_stepping_disabled">Discapacitado</string>
 
 </resources>

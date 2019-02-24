@@ -269,6 +269,7 @@
     <string name="restore_error_permission">An error has occurred with the read permission</string>
     <string name="restore_error_unknown">An unknown error has occurred, please contact the developer of Printoid</string>
 
+    <string name="baby_stepping_distance">Baby Stepping distance</string>
     <string name="baby_stepping_disabled">Disabled</string>
     <string name="baby_stepping_reprap_118" translatable="false">RepRapFirmware (v1.18+)</string>
     <string name="baby_stepping_reprap_121" translatable="false">RepRapFirmware (v1.21+)</string>
