@@ -31,6 +31,7 @@
     <string name="menu_timelapse">Timelapse</string>
     <string name="menu_contact_developer">Contatta sviluppatore</string>
     <string name="menu_tos">Termini di servizio</string>
+    <string name="menu_printer_tools">Strumenti di stampa</string>
 
     <string name="menu_lite_label_promote">Ti piace Printoid Lite?</string>
     <string name="menu_lite_text_promote">Supporta lo sviluppatore e goditi la versione completa PRO o PREMIUM!</string>
