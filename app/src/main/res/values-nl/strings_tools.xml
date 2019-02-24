@@ -31,7 +31,7 @@
     <string name="input_flowrate">Flow rate (%)</string>
     <string name="input_travel">Afstand verplaatsing (mm)</string>
     <string name="input_extruder">Afstand extrusie (mm)</string>
-    <string name="input_baby_stepping">Baby Stepping afstand (mm)</string>
+    <string name="input_baby_stepping">Baby Stepping afstand (/100 mm)</string>
 
     <string name="tool_plot_click_message">Lange klik op de grafiek\nvoor meer tools</string>
 

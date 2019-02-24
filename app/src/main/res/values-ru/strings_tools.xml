@@ -31,7 +31,7 @@
     <string name="input_flowrate">Поток (%)</string>
     <string name="input_travel">Расстояние перемещения (mm)</string>
     <string name="input_extruder">Длина экструзии (mm)</string>
-    <string name="input_baby_stepping">Pасстояние Baby Stepping (mm)</string>
+    <string name="input_baby_stepping">Pасстояние Baby Stepping (/100 mm)</string>
 
     <string name="tool_plot_click_message">Длинный щелчок на график для\nрасширенных инструментов</string>
 

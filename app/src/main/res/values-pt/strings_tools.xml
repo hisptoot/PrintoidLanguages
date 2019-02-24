@@ -31,7 +31,7 @@
     <string name="input_flowrate">Taxa de fluxo (%)</string>
     <string name="input_travel">Distancia de deslocamento (mm)</string>
     <string name="input_extruder">Comprimento extrusada (mm)</string>
-    <string name="input_baby_stepping">Distância de Baby Stepping (mm)</string>
+    <string name="input_baby_stepping">Distância de Baby Stepping (/100 mm)</string>
 
     <string name="tool_plot_click_message">Clique longamente no gráfico\npara ferramentas avançadas</string>
 

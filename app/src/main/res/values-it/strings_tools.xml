@@ -31,7 +31,7 @@
     <string name="input_flowrate">Portata (%)</string>
     <string name="input_travel">Distanza di viaggio (mm)</string>
     <string name="input_extruder">Lunghezza dell\'estrusione (mm)</string>
-    <string name="input_baby_stepping">Distanza di Baby Stepping (mm)</string>
+    <string name="input_baby_stepping">Distanza di Baby Stepping (/100 mm)</string>
 
     <string name="tool_plot_click_message">Fare un lungo clic sul grafico\nper strumenti avanzati</string>
 

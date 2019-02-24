@@ -59,7 +59,7 @@
     <string name="input_flowrate">Flow rate (%)</string>
     <string name="input_travel">Travel distance (mm)</string>
     <string name="input_extruder">Extrusion length (mm)</string>
-    <string name="input_baby_stepping">Baby Stepping distance (mm)</string>
+    <string name="input_baby_stepping">Baby Stepping distance (/100 mm)</string>
 
     <string name="tool_plot_click_message">Long-click on the graph\nfor advanced tools</string>
 
