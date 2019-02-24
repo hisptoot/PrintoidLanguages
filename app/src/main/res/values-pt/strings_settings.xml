@@ -125,7 +125,9 @@
     <string name="setting_enable_ask_profile">Mostrar perfis OctoPrint disponíveis na inicialização</string>
     <string name="setting_manage_account">Gerenciar conta</string>
     <string name="setting_enable_keyboard_control">Ativar controles com teclado</string>
+    <string name="setting_enable_baby_stepping">Ativar o Baby Stepping</string>
 
+    <string name="setting_enable_baby_stepping_tip">Permitir mover o eixo de forma transparente para o sistema de movimento</string>
     <string name="setting_enable_keyboard_control_tip">Controle a interface com um teclado físico</string>
     <string name="setting_manage_account_tip">Inscreva-se / faça login / logout em sua conta Printoid</string>
     <string name="setting_enable_ask_profile_tip">Solicitar qual perfil se conectar ao iniciar o aplicativo</string>
@@ -266,5 +268,7 @@
     <string name="restore_error_nothing">Nada a restaurar, por favor, certifique-se de que copiou a pasta /Printoid/settings/ no seu SDCARD</string>
     <string name="restore_error_permission">Ocorreu um erro com a permissão de leitura</string>
     <string name="restore_error_unknown">Ocorreu um erro desconhecido, favor contatar o desenvolvedor do Printoid</string>
+
+    <string name="baby_stepping_disabled">Desativado</string>
 
 </resources>

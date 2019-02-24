@@ -126,7 +126,9 @@
     <string name="setting_enable_ask_profile">Toon beschikbare OctoPrint-profielen bij het opstarten</string>
     <string name="setting_manage_account">Beheer account</string>
     <string name="setting_enable_keyboard_control">Schakel besturingselementen met toetsenbord in</string>
+    <string name="setting_enable_baby_stepping">Schakel de baby-stepping in</string>
 
+    <string name="setting_enable_baby_stepping_tip">Laat toe de as transparant naar het bewegingssysteem te verplaatsen</string>
     <string name="setting_enable_keyboard_control_tip">Bedien de interface met een fysiek toetsenbord</string>
     <string name="setting_manage_account_tip">Meld u aan / meld u aan bij uw Printoid-account</string>
     <string name="setting_enable_ask_profile_tip">Vraag welk profiel u wilt gebruiken bij het starten van de app</string>
@@ -262,5 +264,7 @@
     <string name="restore_error_nothing">Kon geen herstel instellingen vinden. Copieer de instellingen naar uw SD kaart naar de map /Printoid/settings/</string>
     <string name="restore_error_permission">Er is een fout opgetreden met betrekking tot de lees permissies</string>
     <string name="restore_error_unknown">Onbekende fout bij het herstellen, neem contact op met de ontwikkelaar van Printoid</string>
+
+    <string name="baby_stepping_disabled">Invalide</string>
 
 </resources>

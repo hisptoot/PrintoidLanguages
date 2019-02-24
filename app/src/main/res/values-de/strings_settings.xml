@@ -125,7 +125,9 @@
     <string name="setting_enable_ask_profile">Verfügbare Profile von OctoPrint beim Start anzeigen</string>
     <string name="setting_manage_account">Konto verwalten</string>
     <string name="setting_enable_keyboard_control">Aktivieren Sie Steuerelemente mit der Tastatur</string>
+    <string name="setting_enable_baby_stepping">Aktivieren Sie das Baby-Stepping</string>
 
+    <string name="setting_enable_baby_stepping_tip">Bewegen Sie die Achse transparent zum Bewegungssystem</string>
     <string name="setting_enable_keyboard_control_tip">Steuern Sie die Schnittstelle mit einer physischen Tastatur</string>
     <string name="setting_manage_account_tip">Anmelden / Anmelden / Abmelden bei Ihrem Printoid-Konto</string>
     <string name="setting_enable_ask_profile_tip">Fordern Sie an, welches Profil beim Starten der App verbunden werden soll</string>
@@ -262,5 +264,7 @@
     <string name="restore_error_nothing">Nichts zum Wiederherstellen verfügbar. Bitte überprüfe, ob du den Ordner /Printoid/settings/ korrekt auf deine neue SD-Karte kopiert hast</string>
     <string name="restore_error_permission">Es besteht ein Fehler bei der Leseberechtigung</string>
     <string name="restore_error_unknown">Ein unbekannter Fehler ist aufgetreten. Bitte kontaktiere den Entwickler von Printoid</string>
+
+    <string name="baby_stepping_disabled">Deaktiviert</string>
 
 </resources>

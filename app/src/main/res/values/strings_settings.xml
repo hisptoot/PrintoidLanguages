@@ -125,7 +125,9 @@
     <string name="setting_enable_ask_profile">Show available OctoPrint profiles on start-up</string>
     <string name="setting_manage_account">Manage account</string>
     <string name="setting_enable_keyboard_control">Enable controls with keyboard</string>
+    <string name="setting_enable_baby_stepping">Enable the Baby Stepping</string>
 
+    <string name="setting_enable_baby_stepping_tip">Allow to move the axis transparently to the motion system</string>
     <string name="setting_enable_keyboard_control_tip">Control the interface with a physical keyboard</string>
     <string name="setting_manage_account_tip">Sign-up / sign-in / sign-out to your Printoid account</string>
     <string name="setting_enable_ask_profile_tip">Request which profile to connect when starting the app</string>
@@ -266,5 +268,11 @@
     <string name="restore_error_nothing">Nothing to restore, please be sure you have copied the folder /Printoid/settings/ in your SDCARD</string>
     <string name="restore_error_permission">An error has occurred with the read permission</string>
     <string name="restore_error_unknown">An unknown error has occurred, please contact the developer of Printoid</string>
+
+    <string name="baby_stepping_disabled">Disabled</string>
+    <string name="baby_stepping_reprap_118" translatable="false">RepRapFirmware (v1.18+)</string>
+    <string name="baby_stepping_reprap_121" translatable="false">RepRapFirmware (v1.21+)</string>
+    <string name="baby_stepping_repetier" translatable="false">Repetier</string>
+    <string name="baby_stepping_marlin_117" translatable="false">Marlin (v1.1.7+)</string>
 
 </resources>
