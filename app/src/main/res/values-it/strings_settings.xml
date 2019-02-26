@@ -47,7 +47,7 @@
     <string name="setting_enable_flip_horizontal">Flip Orizzontale</string>
     <string name="setting_enable_haptic">Vibrazione</string>
     <string name="setting_enable_screensaver">Screen saver</string>
-    <string name="setting_enable_ssl">Comunicazione usando SSL</string>
+    <string name="setting_enable_ssl">Comunicazione usando HTTPS (SSL/TLS)</string>
     <string name="setting_enable_basic_auth">Autenticazione di base</string>
     <string name="setting_enable_overlay">Abilita icona Mobile</string>
     <string name="setting_enable_autostart_overlay">Avvia automaticamente icona mobile</string>

@@ -42,7 +42,7 @@
     <string name="setting_enable_fix_octoprint_updates">Fix des problèmes de connexion</string>
     <string name="setting_enable_axis_control_display">Afficher le contrôle des axes</string>
     <string name="setting_enable_printer_info_display">Afficher les informations du serveur OctoPrint</string>
-    <string name="setting_enable_ssl">Communication par SSL</string>
+    <string name="setting_enable_ssl">Communication par HTTPS (SSL/TLS)</string>
     <string name="setting_enable_basic_auth">Authentification basique</string>
     <string name="setting_enable_overlay">Activer l\'icône flottante</string>
     <string name="setting_enable_autostart_overlay">Démarrage automatique de l\'icône flottante</string>

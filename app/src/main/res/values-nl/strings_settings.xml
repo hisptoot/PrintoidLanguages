@@ -42,7 +42,7 @@
     <string name="setting_enable_fix_octoprint_updates">Fix verbindingsproblemen</string>
     <string name="setting_enable_axis_control_display">Toon bediening voor de assen</string>
     <string name="setting_enable_printer_info_display">Toon informatie over de OctoPrint server</string>
-    <string name="setting_enable_ssl">Communicatie via SSL</string>
+    <string name="setting_enable_ssl">Communicatie via HTTPS (SSL/TLS)</string>
     <string name="setting_enable_basic_auth">Basis Authentificatie</string>
     <string name="setting_enable_overlay">Activeer meebewegend icoon</string>
     <string name="setting_enable_autostart_overlay">Altijd starten met meebewegend icoon</string>

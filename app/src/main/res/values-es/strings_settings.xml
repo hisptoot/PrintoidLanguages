@@ -47,7 +47,7 @@
     <string name="setting_enable_flip_vertical">Espejo vertical</string>
     <string name="setting_enable_flip_horizontal">Espejo horizontal</string>
     <string name="setting_enable_haptic">Vibraciones</string>
-    <string name="setting_enable_ssl">Comunicación usando SSL</string>
+    <string name="setting_enable_ssl">Comunicación usando HTTPS (SSL/TLS)</string>
     <string name="setting_enable_basic_auth">Autenticación básica</string>
     <string name="setting_enable_overlay">Habilitar icono flotante</string>
     <string name="setting_enable_autostart_overlay">Auto iniciar icono flotante</string>

@@ -47,7 +47,7 @@
     <string name="setting_enable_flip_vertical">Vertikal spiegeln</string>
     <string name="setting_enable_flip_horizontal">Horizontal spiegeln</string>
     <string name="setting_enable_haptic">Vibration</string>
-    <string name="setting_enable_ssl">Kommunikation über SSL</string>
+    <string name="setting_enable_ssl">Kommunikation über HTTPS (SSL/TLS)</string>
     <string name="setting_enable_basic_auth">Basic Authentication</string>
     <string name="setting_enable_overlay">Aktiviere schwebendes Icon</string>
     <string name="setting_enable_autostart_overlay">Autostart des schwebendes Icons</string>

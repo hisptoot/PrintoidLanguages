@@ -47,7 +47,7 @@
     <string name="setting_enable_flip_horizontal">Inverter na horizontal</string>
     <string name="setting_enable_haptic">Vibrações</string>
     <string name="setting_enable_screensaver">Protetor de tela</string>
-    <string name="setting_enable_ssl">Comunicação usando SSL</string>
+    <string name="setting_enable_ssl">Comunicação usando HTTPS (SSL/TLS)</string>
     <string name="setting_enable_basic_auth">Autenticação Básica</string>
     <string name="setting_enable_overlay">Ativar ícone flutuante</string>
     <string name="setting_enable_autostart_overlay">Iniciar automaticamente ícone flutuante</string>

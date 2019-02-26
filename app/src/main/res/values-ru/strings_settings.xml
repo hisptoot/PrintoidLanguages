@@ -47,7 +47,7 @@
     <string name="setting_enable_flip_vertical">Отразить по вертикали</string>
     <string name="setting_enable_flip_horizontal">Отразить по горизонтали</string>
     <string name="setting_enable_haptic">Вибрация</string>
-    <string name="setting_enable_ssl">Соединение используя SSL</string>
+    <string name="setting_enable_ssl">Соединение используя HTTPS (SSL/TLS)</string>
     <string name="setting_enable_basic_auth">базовой авторизацией</string>
     <string name="setting_enable_overlay">Видео в окне</string>
     <string name="setting_tools_presets">Предустановленные значения</string>

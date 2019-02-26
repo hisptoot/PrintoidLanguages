@@ -47,7 +47,7 @@
     <string name="setting_enable_flip_horizontal">Horizontal flip</string>
     <string name="setting_enable_haptic">Vibrations</string>
     <string name="setting_enable_screensaver">Screen saver</string>
-    <string name="setting_enable_ssl">Communication using SSL</string>
+    <string name="setting_enable_ssl">Communication using HTTPS (SSL/TLS)</string>
     <string name="setting_enable_basic_auth">Basic authentication</string>
     <string name="setting_enable_overlay">Enable floating icon</string>
     <string name="setting_enable_autostart_overlay">Auto-start floating icon</string>
