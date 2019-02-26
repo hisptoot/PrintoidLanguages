@@ -84,7 +84,7 @@
     <string name="all_available_profiles">Todos os perfis disponíveis</string>
 
     <string name="search_wan_ip_loading_title">Recuperando IP público (WAN)</string>
-    <string name="search_wan_ip_loading_message">O Printoid está recuperando seu IP público (WAN), por favor aguarde alguns segundos ...</string>
+    <string name="search_wan_ip_loading_message">O Printoid está recuperando seu IP público (WAN), por favor aguarde alguns segundos…</string>
     <string name="search_wan_ip_dialog_title">Recuperação automática de IP público (WAN)</string>
     <string name="search_wan_ip_dialog_message">Certifique-se de que este dispositivo esteja conectado corretamente à mesma rede que o seu servidor OctoPrint..\n\n Depois disso, você também precisa garantir que tenha configurado seu roteador para tornar o seu servidor OctoPrint acessível pela Internet (por exemplo, 3G / 4G).</string>
 
@@ -101,5 +101,16 @@
     <string name="upnp_error_message">Erro ao carregar dispositivos</string>
 
     <string name="profile_last_connection">Última conexão %s atrás</string>
+
+    <string name="config_printer_name_help">Dê um nome a este perfil para uma melhor experiência</string>
+    <string name="config_lan_ip_help">O IP da LAN (ou nome do host) é o endereço usado para acessar seu servidor em sua rede local. Não defina uma porta para usar o valor padrão</string>
+    <string name="config_wan_ip_help">O IP da WAN (ou nome do host) é o endereço público do seu roteador para acessar seu servidor pela Internet. Por favor, leia as instruções disponíveis em https://printoid.net</string>
+    <string name="config_api_key_help">Sua chave de API do servidor OctoPrint pode ser encontrada nas configurações de sua interface da Web, na seção API</string>
+
+    <string name="config_ssl_help">HTTPS (com protocolos SSL / TLS) permite uma comunicação segura com o seu servidor. Isso precisa ser ativado primeiro na configuração do seu servidor</string>
+    <string name="config_basic_auth_help">As credenciais de autenticação básica HTTP. Isso precisa ser ativado primeiro na configuração do seu servidor</string>
+    <string name="config_octoprint_credentials_help">As credenciais que você usa para fazer login na sua interface da Web OctoPrint. Isso pode ser exigido pelo terminal e pelas integrações dos plugins</string>
+    <string name="config_ssh_credentials_help">As credenciais que você usa para entrar na máquina host do servidor, usadas para o recurso de comandos SSH personalizados. Definir um valor de porta pública para um acesso SSH distante, se necessário</string>
+
 
 </resources>

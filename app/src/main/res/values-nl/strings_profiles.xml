@@ -101,4 +101,15 @@
 
     <string name="profile_last_connection">Laatste verbinding %s geleden</string>
 
+    <string name="config_printer_name_help">Geef dit profiel een naam voor een betere ervaring</string>
+    <string name="config_lan_ip_help">De LAN IP (of hostnaam) is het adres dat wordt gebruikt om uw server op uw lokale netwerk te bereiken. Definieer geen poort om de standaardwaarde te gebruiken</string>
+    <string name="config_wan_ip_help">Het WAN IP (of hostnaam) is het openbare adres van uw router om vanaf het internet uw server te bereiken. Lees de instructies die beschikbaar zijn op https://printoid.net</string>
+    <string name="config_api_key_help">Uw OctoPrint-server API-sleutel is te vinden in de instellingen van zijn webinterface, in de API-sectie</string>
+
+    <string name="config_ssl_help">HTTPS (met SSL / TLS-protocollen) maakt beveiligde communicatie met uw server mogelijk. Dit moet eerst in uw serverconfiguratie worden geactiveerd</string>
+    <string name="config_basic_auth_help">De referenties voor HTTP Basic Authentication. Dit moet eerst in uw serverconfiguratie worden geactiveerd</string>
+    <string name="config_octoprint_credentials_help">De inloggegevens die u gebruikt om in te loggen op uw OctoPrint webinterface. Dit kan vereist zijn door de integratie van de terminal en de plug-ins</string>
+    <string name="config_ssh_credentials_help">De referenties die u gebruikt om in te loggen op de hostcomputer van uw server, gebruikt voor de aangepaste SSH-opdrachtenfunctie. Definieer een openbare poortwaarde voor een verre SSH-toegang indien nodig</string>
+
+
 </resources>

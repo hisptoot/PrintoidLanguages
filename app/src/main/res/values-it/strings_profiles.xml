@@ -104,4 +104,15 @@
 
     <string name="profile_last_connection">Ultima connessione %s </string>
 
+    <string name="config_printer_name_help">Dai un nome a questo profilo per un\'esperienza migliore</string>
+    <string name="config_lan_ip_help">L\'IP LAN (o nome host) è l\'indirizzo utilizzato per raggiungere il server sulla rete locale. Non definire una porta per utilizzare il valore predefinito</string>
+    <string name="config_wan_ip_help">L\'IP WAN (o nome host) è l\'indirizzo pubblico del router per raggiungere il server da Internet. Si prega di leggere le istruzioni disponibili su https://printoid.net</string>
+    <string name="config_api_key_help">La tua chiave API del server OctoPrint può essere trovata nelle impostazioni della sua interfaccia web, all\'interno della sezione API</string>
+
+    <string name="config_ssl_help">HTTPS (con i protocolli SSL/TLS) consente una comunicazione protetta con il tuo server. Questo deve essere attivato prima nella configurazione del tuo server</string>
+    <string name="config_basic_auth_help">Le credenziali di autenticazione di base HTTP. Questo deve essere attivato prima nella configurazione del tuo server</string>
+    <string name="config_octoprint_credentials_help">Le credenziali che usi per accedere all\'interfaccia web di OctoPrint. Questo potrebbe essere richiesto dal terminale e dalle integrazioni dei plugin</string>
+    <string name="config_ssh_credentials_help">Le credenziali utilizzate per l\'accesso sul computer host del server, utilizzate per la funzione di comandi SSH personalizzati. Definire un valore di porta pubblica per un accesso SSH distante, se necessario</string>
+
+
 </resources>
