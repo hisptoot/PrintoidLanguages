@@ -126,6 +126,7 @@
     <string name="setting_manage_account">Gerenciar conta</string>
     <string name="setting_enable_keyboard_control">Ativar controles com teclado</string>
     <string name="setting_enable_baby_stepping">Ativar o Baby Stepping</string>
+    <string name="settings_octoprint_credentials">Credenciais do servidor OctoPrint</string>
 
     <string name="setting_enable_baby_stepping_tip">Permitir mover o eixo de forma transparente para o sistema de movimento</string>
     <string name="setting_enable_keyboard_control_tip">Controle a interface com um teclado físico</string>

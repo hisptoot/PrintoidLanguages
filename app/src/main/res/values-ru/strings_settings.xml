@@ -126,6 +126,7 @@
     <string name="setting_manage_account">Управлять счетом</string>
     <string name="setting_enable_keyboard_control">Включить управление с клавиатуры</string>
     <string name="setting_enable_baby_stepping">Включить Baby Stepping</string>
+    <string name="settings_octoprint_credentials">Учетные данные сервера OctoPrint</string>
 
     <string name="setting_enable_baby_stepping_tip">Позволяют прозрачно перемещать ось в систему движения</string>
     <string name="setting_enable_keyboard_control_tip">Управление интерфейсом с помощью физической клавиатуры</string>

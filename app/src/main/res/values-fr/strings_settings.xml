@@ -127,6 +127,7 @@
     <string name="setting_manage_account">Gestion de votre compte</string>
     <string name="setting_enable_keyboard_control">Activer le  contrôle au clavier</string>
     <string name="setting_enable_baby_stepping">Activer le Baby Stepping</string>
+    <string name="settings_octoprint_credentials">Authentifiants du serveur OctoPrint</string>
 
     <string name="setting_enable_baby_stepping_tip">Permettre de déplacer les axes indépendamment du système de mouvement</string>
     <string name="setting_enable_keyboard_control_tip">Contrôler Printoid avec un clavier physique</string>

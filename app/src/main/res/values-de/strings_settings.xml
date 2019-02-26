@@ -126,6 +126,7 @@
     <string name="setting_manage_account">Konto verwalten</string>
     <string name="setting_enable_keyboard_control">Aktivieren Sie Steuerelemente mit der Tastatur</string>
     <string name="setting_enable_baby_stepping">Aktivieren Sie das Baby-Stepping</string>
+    <string name="settings_octoprint_credentials">OctoPrint-Server-Anmeldeinformationen</string>
 
     <string name="setting_enable_baby_stepping_tip">Bewegen Sie die Achse transparent zum Bewegungssystem</string>
     <string name="setting_enable_keyboard_control_tip">Steuern Sie die Schnittstelle mit einer physischen Tastatur</string>
