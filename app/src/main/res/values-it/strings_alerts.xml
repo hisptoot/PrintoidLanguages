@@ -101,4 +101,6 @@
     <string name="notif_overlay_running_title">Streaming per sovrapposizione aperto</string>
     <string name="notif_overlay_running_message">Clicca qui per chiudere il servizio di streaming</string>
 
+    <string name="alert_baby_stepping_sent">Baby Stepping %s inviato</string>
+
 </resources>

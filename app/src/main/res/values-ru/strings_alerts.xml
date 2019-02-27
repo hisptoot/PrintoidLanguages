@@ -100,4 +100,6 @@
     <string name="notif_overlay_running_title">Текущее видео</string>
     <string name="notif_overlay_running_message">Нажмите здесь, чтобы закрыть видео</string>
 
+    <string name="alert_baby_stepping_sent">Baby Stepping %s послал</string>
+
 </resources>

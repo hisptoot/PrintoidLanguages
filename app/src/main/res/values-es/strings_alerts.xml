@@ -101,4 +101,6 @@
     <string name="notif_overlay_running_title">Vídeo por superposición abierta</string>
     <string name="notif_overlay_running_message">Haga clic aquí para cerrar el servicio de vídeo</string>
 
+    <string name="alert_baby_stepping_sent">Baby Stepping %s expedido</string>
+
 </resources>

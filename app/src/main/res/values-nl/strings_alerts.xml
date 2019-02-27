@@ -100,4 +100,6 @@
     <string name="notif_overlay_running_title">Video door overlay geopend</string>
     <string name="notif_overlay_running_message">Klik hier om de videoservice te sluiten</string>
 
+    <string name="alert_baby_stepping_sent">Baby Stepping %s verzonden</string>
+
 </resources>

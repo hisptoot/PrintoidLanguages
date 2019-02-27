@@ -100,4 +100,6 @@
     <string name="notif_overlay_running_title">Streaming über Overlay geöffnet</string>
     <string name="notif_overlay_running_message">Klicken Sie hier, um den Streamingdienst zu schließen</string>
 
+    <string name="alert_baby_stepping_sent">Baby Stepping %s geschickt</string>
+
 </resources>

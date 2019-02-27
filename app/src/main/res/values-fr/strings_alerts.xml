@@ -101,5 +101,6 @@
     <string name="notif_overlay_running_title">Vidéo par superposition ouverte</string>
     <string name="notif_overlay_running_message">Cliquez ici pour arrêter la superposition</string>
 
+    <string name="alert_baby_stepping_sent">Baby Stepping %s envoyé</string>
 
 </resources>
