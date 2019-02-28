@@ -221,6 +221,8 @@
     <string name="setting_cost_plugin_cost_method_tip">How to compute the filament cost</string>
     <string name="setting_connection_ip_selection_mode_tip">How the app should select the IP to connect OctoPrint</string>
     <string name="setting_tplink_plugin_ip_tip">The LAN IP address of your TP Link Smartplug</string>
+    <string name="setting_certificate_tip">SSL/TLS Certificate file</string>
+    <string name="setting_certificate_select_tip">Select…</string>
 
     <string name="setting_hint_id" translatable="false">ID</string>
     <string name="setting_hint_temp" translatable="false">240</string>

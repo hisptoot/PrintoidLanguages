@@ -221,6 +221,8 @@
     <string name="setting_connection_ip_selection_mode_tip">Приоритет выбора IP для подключения OctoPrint</string>
     <string name="setting_tplink_plugin_ip_tip">IP-адрес LAN вашего TP Link Smartplug</string>
     <string name="setting_ssl_mode_tip">Использовать HTTPS в LAN и/или WAN</string>
+    <string name="setting_certificate_tip">Файл сертификата SSL / TLS</string>
+    <string name="setting_certificate_select_tip">Выбрать…</string>
 
     <string name="setting_hint_login">Логин</string>
     <string name="setting_hint_pwd">Пароль</string>

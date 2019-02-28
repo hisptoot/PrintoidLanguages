@@ -221,6 +221,8 @@
     <string name="setting_cost_plugin_cost_method_tip">Come calcolare il costo del filamento</string>
     <string name="setting_connection_ip_selection_mode_tip">In che modo l\'app deve selezionare l\'IP per connettere OctoPrint</string>
     <string name="setting_tplink_plugin_ip_tip">L\'indirizzo IP LAN del tuo TP Link Smartplug</string>
+    <string name="setting_certificate_tip">File certificato SSL/TLS</string>
+    <string name="setting_certificate_select_tip">Selezionare…</string>
 
     <string name="setting_hint_login">User name</string>
     <string name="setting_hint_pwd">Password</string>
