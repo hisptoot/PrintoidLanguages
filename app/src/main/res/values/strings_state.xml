@@ -70,10 +70,10 @@
     <string name="date_years">%d years</string>
 
     <string name="progress">Progress:</string>
-    <string name="progress_label_time">time</string>
-    <string name="progress_label_gcode">gcode</string>
-    <string name="progress_label_time_percent">time (%.1f%%)</string>
-    <string name="progress_label_gcode_percent">gcode (%.1f%%)</string>
+    <string name="progress_label_time">Expected progress</string>
+    <string name="progress_label_gcode">Real progress</string>
+    <string name="progress_label_time_percent">Expected progress (%.1f%%)</string>
+    <string name="progress_label_gcode_percent">Real progress (%.1f%%)</string>
 
     <string name="printing_completed_success_title">Printing ended</string>
     <string name="printing_completed_success_message">Printing ended with success!</string>

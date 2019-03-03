@@ -64,10 +64,10 @@
     <string name="date_years">%d jaren</string>
 
     <string name="progress">Voortgang:</string>
-    <string name="progress_label_time">tijd</string>
-    <string name="progress_label_gcode">gcode</string>
-    <string name="progress_label_time_percent">tijd (%.1f%%)</string>
-    <string name="progress_label_gcode_percent">gcode (%.1f%%)</string>
+    <string name="progress_label_time">Schatting</string>
+    <string name="progress_label_gcode">Echt</string>
+    <string name="progress_label_time_percent">Schatting (%.1f%%)</string>
+    <string name="progress_label_gcode_percent">Echt (%.1f%%)</string>
 
     <string name="printing_completed_success_title">Afdrukken is beëindigd</string>
     <string name="printing_completed_success_message">Afdrukken eindigde met succes!</string>

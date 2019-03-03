@@ -64,10 +64,10 @@
     <string name="date_years">%d лет</string>
 
     <string name="progress">Прогресс:</string>
-    <string name="progress_label_time">время</string>
-    <string name="progress_label_gcode">gcode</string>
-    <string name="progress_label_time_percent">время (%.1f%%)</string>
-    <string name="progress_label_gcode_percent">gcode (%.1f%%)</string>
+    <string name="progress_label_time">Ожидаемый</string>
+    <string name="progress_label_gcode">Pеальный</string>
+    <string name="progress_label_time_percent">Ожидаемый (%.1f%%)</string>
+    <string name="progress_label_gcode_percent">Реальный (%.1f%%)</string>
 
     <string name="printing_completed_success_title">Печать завершена</string>
     <string name="printing_completed_success_message">Печать закончилась успехом!</string>

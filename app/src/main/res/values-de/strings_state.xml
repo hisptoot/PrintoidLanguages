@@ -64,10 +64,10 @@
     <string name="date_years">%d Jahren</string>
 
     <string name="progress">Fortschritt:</string>
-    <string name="progress_label_time">Zeit</string>
-    <string name="progress_label_gcode">GCODE</string>
-    <string name="progress_label_time_percent">Zeit (%.1f%%)</string>
-    <string name="progress_label_gcode_percent">GCODE (%.1f%%)</string>
+    <string name="progress_label_time">Erwartet</string>
+    <string name="progress_label_gcode">Echt</string>
+    <string name="progress_label_time_percent">Erwartet (%.1f%%)</string>
+    <string name="progress_label_gcode_percent">Echt (%.1f%%)</string>
 
     <string name="printing_completed_success_title">Druck beendet</string>
     <string name="printing_completed_success_message">Der Druck endete mit Erfolg!</string>
