@@ -38,6 +38,7 @@
     <string name="menu_contact_developer">Contate o desenvolvedor</string>
     <string name="menu_tos">Termos de serviço</string>
     <string name="menu_printer_tools">Ferramentas de impressora</string>
+    <string name="menu_gcode_scripts">Scripts do Gcode</string>
 
     <string name="menu_lite_label_promote">Você gostou do Printoid Lite?</string>
     <string name="menu_lite_text_promote">Apoie o desenvolvedor e aproveite a versão PRO ou a mais completa PREMIUM!</string>

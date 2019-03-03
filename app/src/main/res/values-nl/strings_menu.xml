@@ -32,6 +32,7 @@
     <string name="menu_plugins">OctoPrint\'s plug-ins</string>
     <string name="menu_tos">Servicevoorwaarden</string>
     <string name="menu_printer_tools">Printerhulpmiddelen</string>
+    <string name="menu_gcode_scripts">Gcode-scripts</string>
 
     <string name="menu_lite_label_promote">Vind je Printoid Lite leuk?</string>
     <string name="menu_lite_text_promote">Verwijder advertenties en geniet van PRO en PREMIUM full-featured versie!</string>
