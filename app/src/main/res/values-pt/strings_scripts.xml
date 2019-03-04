@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="scripts_before_print_started">Antes de iniciar o trabalho de impressão</string>
+    <string name="scripts_after_print_done">Depois que o trabalho de impressão é concluído</string>
+    <string name="scripts_after_print_cancelled">Depois que o trabalho de impressão for cancelado</string>
+    <string name="scripts_after_print_paused">Depois que o trabalho de impressão é pausado</string>
+    <string name="scripts_before_print_resumed">Antes que o trabalho de impressão seja retomado</string>
+    <string name="scripts_before_tool_changed">Antes da troca de ferramenta</string>
+    <string name="scripts_after_tool_changed">Após a troca de ferramenta</string>
+    <string name="scripts_after_printer_connected">Após a conexão com a impressora ser estabelecida</string>
+    <string name="scripts_before_printer_disconnected">Antes da conexão com a impressora estar fechada</string>
+
+    <string name="scripts_hint">Adicione um script GCODE para executar na ação acionada…</string>
+
+</resources>

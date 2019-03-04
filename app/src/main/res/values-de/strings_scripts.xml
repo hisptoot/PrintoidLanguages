@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="scripts_before_print_started">Bevor der Druckauftrag beginnt</string>
+    <string name="scripts_after_print_done">Nachdem der Druckauftrag abgeschlossen ist</string>
+    <string name="scripts_after_print_cancelled">Nach dem Druckauftrag wird abgebrochen</string>
+    <string name="scripts_after_print_paused">Nachdem der Druckauftrag angehalten wurde</string>
+    <string name="scripts_before_print_resumed">Bevor der Druckauftrag fortgesetzt wird</string>
+    <string name="scripts_before_tool_changed">Vor dem Werkzeugwechsel</string>
+    <string name="scripts_after_tool_changed">Nach Werkzeugwechsel</string>
+    <string name="scripts_after_printer_connected">Nachdem die Verbindung zum Drucker hergestellt wurde</string>
+    <string name="scripts_before_printer_disconnected">Bevor die Verbindung zum Drucker geschlossen wird</string>
+
+    <string name="scripts_hint">Fügen Sie ein GCODE-Skript hinzu, das bei einer ausgelösten Aktion ausgeführt werden soll…</string>
+
+</resources>

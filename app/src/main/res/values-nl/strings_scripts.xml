@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="scripts_before_print_started">Voordat de afdruktaak begint</string>
+    <string name="scripts_after_print_done">Nadat de afdruktaak is voltooid</string>
+    <string name="scripts_after_print_cancelled">Nadat de afdruktaak is geannuleerd</string>
+    <string name="scripts_after_print_paused">Nadat de afdruktaak is gepauzeerd</string>
+    <string name="scripts_before_print_resumed">Voordat de afdruktaak wordt hervat</string>
+    <string name="scripts_before_tool_changed">Vóór gereedschapswisseling</string>
+    <string name="scripts_after_tool_changed">Na gereedschapswisseling</string>
+    <string name="scripts_after_printer_connected">Nadat de verbinding met de printer tot stand is gebracht</string>
+    <string name="scripts_before_printer_disconnected">Voordat de verbinding met de printer is gesloten</string>
+
+    <string name="scripts_hint">Voeg een GCODE-script toe om uit te voeren op geactiveerde actie…</string>
+
+</resources>

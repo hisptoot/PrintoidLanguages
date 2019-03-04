@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="scripts_before_print_started">Перед началом работы печати</string>
+    <string name="scripts_after_print_done">После завершения задания на печать</string>
+    <string name="scripts_after_print_cancelled">После отмены задания на печать</string>
+    <string name="scripts_after_print_paused">После того, как задание на печать приостановлено</string>
+    <string name="scripts_before_print_resumed">До возобновления печати</string>
+    <string name="scripts_before_tool_changed">Перед сменой инструмента</string>
+    <string name="scripts_after_tool_changed">После смены инструмента</string>
+    <string name="scripts_after_printer_connected">После подключения к принтеру</string>
+    <string name="scripts_before_printer_disconnected">До того, как соединение с принтером закрыто</string>
+
+    <string name="scripts_hint">Добавьте сценарий GCODE для выполнения при действии…</string>
+
+</resources>
