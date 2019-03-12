@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="contact_email" translatable="false">printoid.for.octoprint@gmail.com</string>
+    <string name="contact_email" translatable="false">contact@printoid.net</string>
     <string name="contact_subject">Printoid Support (installed version: v%1$s - %2$s)</string>
     <string name="contact_choose_client">Select your e-mail client:</string>
 

@@ -4,7 +4,7 @@
     <string name="plugins_title">OctoPrint plugins</string>
 
     <string name="plugins_help_title">OctoPrint plugins</string>
-    <string name="plugins_help_message">Questa è la lista dei plugin attualmente integrati in Printoid.\n\nTutti i plugin di OctoPrint non sono implementati in Printoid e io (lo sviluppatore) non li ho integrati tutti.\n\nPer favore contattami printoid.for.octoprint@gmail.com se vuoi vedere un nuovo plugin in Printoid. Penserò sulla sua integrazione (se e solo è possibile).</string>
+    <string name="plugins_help_message">Questa è la lista dei plugin attualmente integrati in Printoid.\n\nTutti i plugin di OctoPrint non sono implementati in Printoid e io (lo sviluppatore) non li ho integrati tutti.\n\nPer favore contattami contact@printoid.net se vuoi vedere un nuovo plugin in Printoid. Penserò sulla sua integrazione (se e solo è possibile).</string>
 
     <string name="plugin_desc_psu">Questo plugin OctoPrint controlla un alimentatore ATX / AUX per ridurre il consumo energetico e il rumore quando la stampante non è in uso.</string>
     <string name="plugin_desc_autoshutdown">Plugin per lo spegnimento automatico del sistema al termine della stampa. Può essere configurato solo quando il server è attivo.</string>
