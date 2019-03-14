@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="app_name_hub">Printoid Hub</string>
+    <string name="app_name_hub" translatable="false">Printoid Hub</string>
+
+    <string name="hub_start_description">The status of all your 3D printers on the same screen!</string>
 
 </resources>
