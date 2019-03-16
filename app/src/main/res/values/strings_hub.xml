@@ -8,4 +8,6 @@
     <string name="hub_no_managed_profiles">Add one of your OctoPrint profiles or more in this board to see their status!</string>
     <string name="hub_profile_already_managed">Your OctoPrint profile \'%s\' is already available in Printoid Hub</string>
 
+    <string name="hub_loading_profile_state">Loading OctoPrint status…</string>
+
 </resources>
