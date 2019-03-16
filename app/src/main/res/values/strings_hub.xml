@@ -11,4 +11,6 @@
     <string name="hub_connecting_to_server">Connecting to OctoPrint…</string>
     <string name="hub_loading_profile_state">Loading OctoPrint status…</string>
 
+    <string name="hub_error_connection_to_server">Can\'t connect to OctoPrint</string>
+
 </resources>
