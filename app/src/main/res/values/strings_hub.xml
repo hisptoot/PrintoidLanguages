@@ -3,6 +3,8 @@
 
     <string name="app_name_hub" translatable="false">Printoid Hub</string>
 
+    <string name="hub_settings">Settings</string>
+
     <string name="hub_start_description">The status of all your 3D printers on the same screen!</string>
 
     <string name="hub_no_managed_profiles">Add one of your OctoPrint profiles or more in this board to see their status!</string>
