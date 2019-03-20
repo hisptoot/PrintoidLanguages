@@ -66,8 +66,8 @@
     <string name="progress">Прогресс:</string>
     <string name="progress_label_time">Ожидаемый</string>
     <string name="progress_label_gcode">Pеальный</string>
-    <string name="progress_label_time_percent">Ожидаемый (%.1f%%)</string>
-    <string name="progress_label_gcode_percent">Реальный (%.1f%%)</string>
+    <string name="progress_label_time_percent"><![CDATA[Ожидаемый [<b>%.1f%%</b>]]]></string>
+    <string name="progress_label_gcode_percent"><![CDATA[Реальный [<b>%.1f%%</b>]]]></string>
 
     <string name="printing_completed_success_title">Печать завершена</string>
     <string name="printing_completed_success_message">Печать закончилась успехом!</string>

@@ -66,8 +66,8 @@
     <string name="progress">Progression :</string>
     <string name="progress_label_time">Estimation</string>
     <string name="progress_label_gcode">Réel</string>
-    <string name="progress_label_time_percent">Estimation (%.1f%%)</string>
-    <string name="progress_label_gcode_percent">Réel (%.1f%%)</string>
+    <string name="progress_label_time_percent"><![CDATA[Estimation [<b>%.1f%%</b>]]]></string>
+    <string name="progress_label_gcode_percent"><![CDATA[Réel [<b>%.1f%%</b>]]]></string>
 
     <string name="printing_completed_success_title">Impression terminée</string>
     <string name="printing_completed_success_message">Impression terminée avec succès !</string>

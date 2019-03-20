@@ -72,8 +72,8 @@
     <string name="progress">Progresso:</string>
     <string name="progress_label_time">Esperado</string>
     <string name="progress_label_gcode">Real</string>
-    <string name="progress_label_time_percent">Esperado (%.1f%%)</string>
-    <string name="progress_label_gcode_percent">Real (%.1f%%)</string>
+    <string name="progress_label_time_percent"><![CDATA[Esperado [<b>%.1f%%</b>]]]></string>
+    <string name="progress_label_gcode_percent"><![CDATA[Real [<b>%.1f%%</b>]]]></string>
 
     <string name="printing_completed_success_title">Impressão finalizada</string>
     <string name="printing_completed_success_message">A impressão terminou com sucesso!</string>
