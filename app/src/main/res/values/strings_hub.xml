@@ -7,6 +7,7 @@
 
     <string name="hub_introduction">Printoid Hub is a PREMIUM feature, which allows you to show the status of all your 3D printers at the same time, within the same screen!\n
         A new icon to start this feature has been added to your applications list. You can hide it from the settings of Printoid Hub.</string>
+    <string name="hub_introduction_short">Printoid Hub is a PREMIUM feature, which allows you to show the status of all your 3D printers at the same time, within the same screen!</string>
     <string name="hub_start_description">The status of all your 3D printers on the same screen!</string>
 
     <string name="hub_no_managed_profiles">Add one of your OctoPrint profiles or more in this board to see their status!</string>
@@ -16,5 +17,8 @@
     <string name="hub_loading_profile_state">Loading OctoPrint status…</string>
 
     <string name="hub_error_connection_to_server">Can\'t connect to OctoPrint</string>
+
+    <string name="hub_setting_hide_second_icon">Hide Printoid Hub icon</string>
+    <string name="hub_setting_hide_second_icon_tip">Hide the second app icon to start Printoid Hub from your app launcher</string>
 
 </resources>
