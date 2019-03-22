@@ -10,6 +10,10 @@
     <string name="hub_introduction_short">Printoid Hub is a PREMIUM feature, which allows you to show the status of all your 3D printers at the same time, within the same screen!</string>
     <string name="hub_start_description">The status of all your 3D printers on the same screen!</string>
 
+    <string name="hub_onboarding_message">Welcome in Printoid Hub!\n\nThis Premium feature shows you the status of all your configured OctoPrint servers within the same screen, at the same time!\n\n
+        Please note that the developer is still working on this feature, and it will be enhanced step by step in the future releases.\n\n
+        Not all information are currently shown in this screen, but don\'t worry, it will come in the next versions of the app!</string>
+
     <string name="hub_no_managed_profiles">Add one of your OctoPrint profiles or more in this board to see their status!</string>
     <string name="hub_profile_already_managed">Your OctoPrint profile \'%s\' is already available in Printoid Hub</string>
 
