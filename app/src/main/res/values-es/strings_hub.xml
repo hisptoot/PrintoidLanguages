@@ -11,9 +11,9 @@
     <string name="hub_no_managed_profiles">¡Agregue uno de sus perfiles OctoPrint o más en este tablero para ver su estado!</string>
     <string name="hub_profile_already_managed">Su perfil OctoPrint \'%s\' ya está disponible en Printoid Hub</string>
 
-    <string name="hub_onboarding_message">Welcome in Printoid Hub!\n\nThis Premium feature shows you the status of all your configured OctoPrint servers within the same screen, at the same time!\n\n
-        Please note that the developer is still working on this feature, and it will be enhanced step by step in the future releases.\n\n
-        Not all information are currently shown in this screen, but don\'t worry, it will come in the next versions of the app!</string>
+    <string name="hub_onboarding_message">¡Bienvenido a Printoid Hub!\n\nEsta función Premium le muestra el estado de todos los servidores OctoPrint configurados en la misma pantalla, al mismo tiempo!\n\n
+         Tenga en cuenta que el desarrollador todavía está trabajando en esta función, y se mejorará paso a paso en las futuras versiones.\n\n
+         No toda la información se muestra actualmente en esta pantalla (como la cámara), pero no se preocupe, vendrá en las próximas versiones de la aplicación.</string>
 
     <string name="hub_connecting_to_server">Conectando a OctoPrint…</string>
     <string name="hub_loading_profile_state">Cargando el estado de OctoPrint…</string>
