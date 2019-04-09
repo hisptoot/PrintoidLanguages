@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="settings_printer_profile"><![CDATA[Settings for <b>%s</b>]]></string>
-    <string name="settings_printer_profile_msg">Все эти настройки зависят от текущего профиля принтера</string>
-    <string name="settings_printer_profile_with_version_msg">Все эти настройки зависят от текущего профиля принтера (Printoid %1$s v%2$s)</string>
-
     <string name="setting_title_general">Основные настройки</string>
     <string name="setting_title_communication">Настройки связи</string>
     <string name="setting_title_ui_settings">Настройки интерфейса</string>

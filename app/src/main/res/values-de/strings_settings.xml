@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="settings_printer_profile"><![CDATA[Settings for <b>%s</b>]]></string>
-    <string name="settings_printer_profile_msg">Alle folgenden Einstellungen sind relativ zum aktuellen OctoPrint Profil</string>
-    <string name="settings_printer_profile_with_version_msg">Alle folgenden Einstellungen sind relativ zum aktuellen OctoPrint Profil (Printoid %1$s v%2$s)</string>
-
     <string name="setting_title_general">Allgemeine Einstellungen</string>
     <string name="setting_title_communication">Kommunikationseinstellungen</string>
     <string name="setting_title_ui_settings">App-Einstellungen</string>

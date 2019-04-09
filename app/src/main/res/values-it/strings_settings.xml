@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="settings_printer_profile"><![CDATA[Impostazioni per <b>%s</b>]]></string>
-    <string name="settings_printer_profile_msg">Tutte le seguenti impostazioni sono relative al profilo OctoPrint corrente</string>
-    <string name="settings_printer_profile_with_version_msg">Tutte le seguenti impostazioni sono relative al profilo OctoPrint corrente (Printoid %1$s v%2$s)</string>
-
     <string name="setting_title_general">Impostazioni Generali</string>
     <string name="setting_title_communication">Impostazioni di comunicazione</string>
     <string name="setting_title_ui_settings">HMI Impostazioni</string>

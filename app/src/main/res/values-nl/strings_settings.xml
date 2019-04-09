@@ -1,10 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="settings_printer_profile"><![CDATA[Instellingen mtb. <b>%s</b>]]></string>
-    <string name="settings_printer_profile_msg">Alle instellingen die volgen hebben betrekking op het actuele Printoid profiel</string>
-    <string name="settings_printer_profile_with_version_msg">Alle instelingen die volgen hebben betrekking op het actuele Printoid profiel (Printoid %1$s v%2$s)</string>
-
     <string name="setting_title_general">Instellingen - Algemeen</string>
     <string name="setting_title_communication">Instellingen - Communicatie</string>
     <string name="setting_title_ui_settings">Instellingen - Gebruikers interface</string>
