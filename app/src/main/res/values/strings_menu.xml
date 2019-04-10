@@ -25,6 +25,7 @@
     <string name="menu_minimize">Minimize view</string>
     <string name="menu_printer_profiles_settings">OctoPrint servers</string>
     <string name="menu_app_settings">App parameters</string>
+    <string name="menu_profile_settings">Server parameters</string>
     <string name="menu_alarms">Alerts manager</string>
     <string name="menu_plugins">OctoPrint\'s plugins</string>
     <string name="menu_spools">Spools manager</string>
