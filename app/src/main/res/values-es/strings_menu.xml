@@ -33,6 +33,7 @@
     <string name="menu_tos">Términos de servicio</string>
     <string name="menu_printer_tools">Herramientas de impresora</string>
     <string name="menu_gcode_scripts">Gcode scripts</string>
+    <string name="menu_profile_settings">Parámetros del servidor</string>
 
     <string name="menu_lite_label_promote">¿Te gusta Printoid Lite?</string>
     <string name="menu_lite_text_promote">¡Elimine anuncios y disfrute de la versión PRO y PREMIUM con todas las funciones!</string>
