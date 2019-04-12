@@ -3,6 +3,11 @@
 
     <string name="timelapse_title">Filmpjes</string>
 
+    <string name="timelapse_status_rendered">Timelapse gerenderd</string>
+    <string name="timelapse_status_processing">Timelapse verwerken…</string>
+    <string name="timelapse_status_recording">Timelapse opname…</string>
+    <string name="timelapse_status_rendering">Timelapse verwerking…</string>
+
     <string name="timelapse_no_file">Geen enkele film beschikbaar</string>
 
     <string name="timelapse_deleted">Verwijder film van OctoPrint</string>

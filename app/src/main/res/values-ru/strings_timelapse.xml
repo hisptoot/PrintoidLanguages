@@ -3,6 +3,11 @@
 
     <string name="timelapse_title">Ускоренное видео</string>
 
+    <string name="timelapse_status_rendered">Замедленная съемка</string>
+    <string name="timelapse_status_processing">Замедленная обработка…</string>
+    <string name="timelapse_status_recording">Замедленная запись…</string>
+    <string name="timelapse_status_rendering">Замедленная съемка…</string>
+
     <string name="timelapse_no_file">Нет ускоренного видео</string>
 
     <string name="timelapse_deleted">Ускоренное видео удалено из OctoPrint</string>

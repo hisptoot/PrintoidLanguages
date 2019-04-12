@@ -3,6 +3,11 @@
 
     <string name="timelapse_title">Zeitraffer</string>
 
+    <string name="timelapse_status_rendered">Zeitraffer gerendert</string>
+    <string name="timelapse_status_processing">Zeitraffer bearbeitet…</string>
+    <string name="timelapse_status_recording">Zeitraffer Aufzeichnung…</string>
+    <string name="timelapse_status_rendering">Zeitraffer Wiedergabe…</string>
+
     <string name="timelapse_no_file">Keine Zeitraffer verfügbar</string>
 
     <string name="timelapse_deleted">Zeitraffer von OctoPrint gelöscht</string>

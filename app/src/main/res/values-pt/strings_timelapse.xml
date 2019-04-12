@@ -3,6 +3,11 @@
 
     <string name="timelapse_title">Timelapses</string>
 
+    <string name="timelapse_status_rendered">Timelapse processado</string>
+    <string name="timelapse_status_processing">Processamento de timelapse…</string>
+    <string name="timelapse_status_recording">Gravação em timelapse…</string>
+    <string name="timelapse_status_rendering">Renderização de timelapse…</string>
+
     <string name="timelapse_no_file">Não há timelapse disponível</string>
 
     <string name="timelapse_deleted">Timelapse excluído do OctoPrint</string>
