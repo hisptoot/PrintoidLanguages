@@ -56,8 +56,8 @@
     <!-- NETWORK ISSUE -->
     <string name="alert_network_connecting_title">Connecting to a network…</string>
     <string name="alert_network_connecting_message">Your device is currently connecting to a network, please retry the connection in a few seconds</string>
-    <string name="alert_network_unavailable_title">Not connected to any network</string>
-    <string name="alert_network_unavailable_message">Your device is not connected to any network, Printoid can\'t access to your OctoPrint server</string>
+    <string name="alert_network_unavailable_title">Device not connected</string>
+    <string name="alert_network_unavailable_message">Your device has no connection to your local network / to Internet.\n\nThis way, Printoid can\'t communicate with your OctoPrint server, please double check your connectivity.</string>
 
     <!-- PRINTER CONNECTION -->
     <string name="connector_printer_connection_title">Printer connection…</string>
