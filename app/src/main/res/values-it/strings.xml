@@ -53,6 +53,8 @@
     <string name="render3d">Render 3D</string>
     <string name="manage">Gestire</string>
     <string name="password">Password</string>
+    <string name="copy">Copiare</string>
+    <string name="copied_to_clipboard">Copiato negli appunti</string>
 
     <string name="heated_bed">Heated bed</string>
     <string name="heated_head">Heated head %d</string>

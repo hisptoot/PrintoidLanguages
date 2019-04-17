@@ -53,6 +53,8 @@
     <string name="render3d">Render 3D</string>
     <string name="manage">Manage</string>
     <string name="password">Password</string>
+    <string name="copy">Copy</string>
+    <string name="copied_to_clipboard">Copied to clipboard</string>
 
     <string name="google_drive" translatable="false">Drive</string>
 
