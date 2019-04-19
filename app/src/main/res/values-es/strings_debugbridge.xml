@@ -1,0 +1,18 @@
+<resources>
+
+    <string name="debug_message">El Printoid Debug Bridge es una herramienta utilizada por el desarrollador de la aplicación cuando se encuentra con un problema relacionado con las características de OctoPrint. Úselo cuando lo solicite el desarrollador ;)</string>
+
+    <string name="debug_item_connection_desc">GET /api/connection devuelve la descripción del estado de conexión de la impresora actual.</string>
+    <string name="debug_item_files_desc">GET /api/files devuelve la descripción de todos los archivos almacenados, incluidas las carpetas.</string>
+    <string name="debug_item_job_desc">GET /api/job devuelve la descripción del trabajo de impresión actual.</string>
+    <string name="debug_item_bed_historic_desc">GET /api/printer/bed devuelve la descripción de las temperaturas históricas de la cama.</string>
+    <string name="debug_item_printer_profiles_desc">GET /api/printerprofiles devuelve la descripción de los perfiles de impresora configurados.</string>
+    <string name="debug_item_printer_state_desc">GET /api/printer devuelve la descripción del estado de la impresora, incluidas las temperaturas.</string>
+    <string name="debug_item_tools_historic_desc">GET /api/printer/tool devuelve la descripción de las temperaturas históricas de las herramientas.</string>
+    <string name="debug_item_settings_desc">GET /api/settings devuelve la descripción de la configuración del servidor y los complementos configurados.</string>
+    <string name="debug_item_slicers_desc">GET /api/slicing devuelve la descripción de los segmentadores y perfiles disponibles.</string>
+    <string name="debug_item_system_commands_desc">GET /api/system/commands devuelve la descripción de los comandos del sistema OctoPrint disponibles.</string>
+    <string name="debug_item_timelapses_desc">GET /api/timelapse devuelve la descripción de los timelapses disponibles.</string>
+    <string name="debug_item_version_desc">GET /api/version devuelve la descripción de la versión del servidor OctoPrint.</string>
+
+</resources>

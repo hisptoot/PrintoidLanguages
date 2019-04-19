@@ -1,0 +1,18 @@
+<resources>
+
+    <string name="debug_message">De Printoid Debug Bridge is een tool die wordt gebruikt door de ontwikkelaar van de toepassing wanneer u problemen ondervindt met betrekking tot de OctoPrint-functies. Gebruik het op verzoek van de ontwikkelaar ;)</string>
+
+    <string name="debug_item_connection_desc">GET /api/connection retourneert de beschrijving van de huidige status van de printerverbinding.</string>
+    <string name="debug_item_files_desc">GET /api/files retourneert de beschrijving van alle opgeslagen bestanden, inclusief mappen.</string>
+    <string name="debug_item_job_desc">GET /api/job retourneert de beschrijving van de huidige afdruktaak.</string>
+    <string name="debug_item_bed_historic_desc">GET /api/printer/bed geeft de beschrijving van de bedtemperaturen historisch weer.</string>
+    <string name="debug_item_printer_profiles_desc">GET /api/printerprofielen retourneert de beschrijving van de geconfigureerde printerprofielen.</string>
+    <string name="debug_item_printer_state_desc">GET /api/printer retourneert de beschrijving van de printerstatus, inclusief temperaturen.</string>
+    <string name="debug_item_tools_historic_desc">GET /api/printer/tool geeft de beschrijving van de tools temperaturen historisch weer.</string>
+    <string name="debug_item_settings_desc">GET /api/settings retourneert de beschrijving van de serverinstellingen en geconfigureerde plug-ins.</string>
+    <string name="debug_item_slicers_desc">GET /api/slicing retourneert de beschrijving van de beschikbare slicers en profielen.</string>
+    <string name="debug_item_system_commands_desc">GET /api/system/commands retourneert de beschrijving van de beschikbare OctoPrint-systeemopdrachten.</string>
+    <string name="debug_item_timelapses_desc">GET /api/timelapse retourneert de beschrijving van de beschikbare tijdzones.</string>
+    <string name="debug_item_version_desc">GET /api/version retourneert de beschrijving van de OctoPrint-serverversie.</string>
+
+</resources>

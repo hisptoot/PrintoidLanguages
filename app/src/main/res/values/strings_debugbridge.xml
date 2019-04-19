@@ -1,17 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="debug_item_connection">Connection</string>
-    <string name="debug_item_files">Files</string>
-    <string name="debug_item_job">Job</string>
-    <string name="debug_item_bed_historic">Bed historic</string>
-    <string name="debug_item_printer_profiles">Printer profiles</string>
-    <string name="debug_item_printer_state">Printer state</string>
-    <string name="debug_item_tools_historic">Tools historic</string>
-    <string name="debug_item_settings">Settings</string>
-    <string name="debug_item_slicers">Slicers</string>
-    <string name="debug_item_system_commands">System commands</string>
-    <string name="debug_item_timelapses">Timelapses</string>
-    <string name="debug_item_version">Versions</string>
+    <string name="debug_item_connection" translatable="false">Connection</string>
+    <string name="debug_item_files" translatable="false">Files</string>
+    <string name="debug_item_job" translatable="false">Job</string>
+    <string name="debug_item_bed_historic" translatable="false">Bed historic</string>
+    <string name="debug_item_printer_profiles" translatable="false">Printer profiles</string>
+    <string name="debug_item_printer_state" translatable="false">Printer state</string>
+    <string name="debug_item_tools_historic" translatable="false">Tools historic</string>
+    <string name="debug_item_settings" translatable="false">Settings</string>
+    <string name="debug_item_slicers" translatable="false">Slicing</string>
+    <string name="debug_item_system_commands" translatable="false">System commands</string>
+    <string name="debug_item_timelapses" translatable="false">Timelapses</string>
+    <string name="debug_item_version" translatable="false">Versions</string>
+
+    <string name="debug_message">The Printoid Debug Bridge is a tool used by the developer of the application when you run into issue regarding the OctoPrint features. Please use it when requested by the developer ;)</string>
+
+    <string name="debug_item_connection_desc">GET /api/connection returns the description of the current printer connection status.</string>
+    <string name="debug_item_files_desc">GET /api/files returns the description of all the stored files, including folders.</string>
+    <string name="debug_item_job_desc">GET /api/job returns the description of the current printing job.</string>
+    <string name="debug_item_bed_historic_desc">GET /api/printer/bed returns the description of the bed temperatures historic.</string>
+    <string name="debug_item_printer_profiles_desc">GET /api/printerprofiles returns the description of the configured printer profiles.</string>
+    <string name="debug_item_printer_state_desc">GET /api/printer returns the description of the printer status, including temperatures.</string>
+    <string name="debug_item_tools_historic_desc">GET /api/printer/tool returns the description of the tools temperatures historic.</string>
+    <string name="debug_item_settings_desc">GET /api/settings returns the description of the server settings and configured plugins.</string>
+    <string name="debug_item_slicers_desc">GET /api/slicing returns the description of the available slicers and profiles.</string>
+    <string name="debug_item_system_commands_desc">GET /api/system/commands returns the description of the available OctoPrint system commands.</string>
+    <string name="debug_item_timelapses_desc">GET /api/timelapse returns the description of the available timelapses.</string>
+    <string name="debug_item_version_desc">GET /api/version returns the description of the OctoPrint server version.</string>
 
 </resources>

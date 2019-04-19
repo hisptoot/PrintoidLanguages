@@ -1,0 +1,18 @@
+<resources>
+
+    <string name="debug_message">Il Printoid Debug Bridge è uno strumento utilizzato dallo sviluppatore dell\'applicazione quando si verifica un problema relativo alle funzionalità di OctoPrint. Si prega di usarlo quando richiesto dallo sviluppatore ;)</string>
+
+    <string name="debug_item_connection_desc">GET /api/connection restituisce la descrizione dello stato corrente della connessione della stampante.</string>
+    <string name="debug_item_files_desc">GET /api/files restituisce la descrizione di tutti i file memorizzati, comprese le cartelle.</string>
+    <string name="debug_item_job_desc">GET /api/job restituisce la descrizione del lavoro di stampa corrente.</string>
+    <string name="debug_item_bed_historic_desc">GET /api/printer/bed restituisce la descrizione delle temperature del letto storica.</string>
+    <string name="debug_item_printer_profiles_desc">GET /api/printerprofiles restituisce la descrizione dei profili stampante configurati.</string>
+    <string name="debug_item_printer_state_desc">GET /api/printer restituisce la descrizione dello stato della stampante, comprese le temperature.</string>
+    <string name="debug_item_tools_historic_desc">GET /api/printer/tool restituisce la descrizione delle temperature degli strumenti storiche.</string>
+    <string name="debug_item_settings_desc">GET /api/settings restituisce la descrizione delle impostazioni del server e dei plugin configurati.</string>
+    <string name="debug_item_slicers_desc">GET /api/slicing restituisce la descrizione degli slicer e dei profili disponibili.</string>
+    <string name="debug_item_system_commands_desc">GET /api/system/commands restituisce la descrizione dei comandi di sistema OctoPrint disponibili.</string>
+    <string name="debug_item_timelapses_desc">GET /api/timelapse restituisce la descrizione dei time-lapse disponibili.</string>
+    <string name="debug_item_version_desc">GET /api/version restituisce la descrizione della versione del server OctoPrint.</string>
+
+</resources>

@@ -1,0 +1,18 @@
+<resources>
+
+    <string name="debug_message">Printoid Debug Bridge - это инструмент, используемый разработчиком приложения, когда вы сталкиваетесь с проблемой, касающейся функций OctoPrint. Пожалуйста, используйте его по требованию разработчика ;)</string>
+
+    <string name="debug_item_connection_desc">GET /api/connection возвращает описание текущего состояния подключения принтера.</string>
+    <string name="debug_item_files_desc">GET /api/files возвращает описание всех сохраненных файлов, включая папки.</string>
+    <string name="debug_item_job_desc">GET /api/job возвращает описание текущего задания на печать.</string>
+    <string name="debug_item_bed_historic_desc">GET /api/printer/bed возвращает описание исторических значений температуры кровати.</string>
+    <string name="debug_item_printer_profiles_desc">GET /api/printerprofiles возвращает описание настроенных профилей принтера.</string>
+    <string name="debug_item_printer_state_desc">GET /api/printer возвращает описание состояния принтера, включая температуру.</string>
+    <string name="debug_item_tools_historic_desc">GET /api/printer/tool возвращает описание исторических значений температуры инструментов.</string>
+    <string name="debug_item_settings_desc">GET /api/settings возвращает описание настроек сервера и настроенных плагинов.</string>
+    <string name="debug_item_slicers_desc">GET /api/slicing возвращает описание доступных слайсеров и профилей.</string>
+    <string name="debug_item_system_commands_desc">GET /api/system/commands возвращает описание доступных системных команд OctoPrint.</string>
+    <string name="debug_item_timelapses_desc">GET /api/timelapse возвращает описание доступных интервалов.</string>
+    <string name="debug_item_version_desc">GET /api/version возвращает описание версии сервера OctoPrint.</string>
+
+</resources>
