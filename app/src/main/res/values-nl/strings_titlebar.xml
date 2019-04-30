@@ -23,4 +23,16 @@
     <string name="title_bar_toggle_z_height">Z hoogte (mm)</string>
     <string name="title_bar_toggle_system_temperature">Systeem temperatuur (°)</string>
 
+    <string name="title_bar_toggle_server_name_tip">Server naam in de titelbalk</string>
+    <string name="title_bar_toggle_printer_state_tip">Server toestand in de titelbalk</string>
+    <string name="title_bar_toggle_extruders_temp_tip">Temperatuur extruders in de titelbalk</string>
+    <string name="title_bar_toggle_hot_bed_tip">Temperatuur bed in de titelbalk</string>
+    <string name="title_bar_toggle_gcode_progress_tip">Voortgang GCODE in de titelbalk</string>
+    <string name="title_bar_toggle_time_progress_tip">Voortgang tijd in de titelbalk</string>
+    <string name="title_bar_toggle_remaining_time_tip">Resterende tijd in de titelbalk</string>
+    <string name="title_bar_toggle_file_name_tip">Bestandsnaam in de titelbalk</string>
+    <string name="title_bar_spinner_change_delay_tip">Vertraging wisseling in de titelbalk</string>
+    <string name="title_bar_toggle_z_height_tip">Z hoogte in de titelbalk</string>
+    <string name="title_bar_toggle_system_temperature_tip">Systeem temperatuur  in de titelbalk</string>
+
 </resources>

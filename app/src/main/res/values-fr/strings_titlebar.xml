@@ -23,4 +23,16 @@
     <string name="title_bar_toggle_z_height">Hauteur Z (mm)</string>
     <string name="title_bar_toggle_system_temperature">Température système (°)</string>
 
+    <string name="title_bar_toggle_server_name_tip">Afficher le nom du serveur</string>
+    <string name="title_bar_toggle_printer_state_tip">Afficher l\'état du serveur</string>
+    <string name="title_bar_toggle_extruders_temp_tip">Afficher la température des extrudeurs</string>
+    <string name="title_bar_toggle_hot_bed_tip">Afficher la température du lit chauffant</string>
+    <string name="title_bar_toggle_gcode_progress_tip">Afficher la progression estimée</string>
+    <string name="title_bar_toggle_time_progress_tip">Afficher la progression réelle</string>
+    <string name="title_bar_toggle_remaining_time_tip">Afficher le temps restant</string>
+    <string name="title_bar_toggle_file_name_tip">Afficher le nom du fichier</string>
+    <string name="title_bar_spinner_change_delay_tip">Délai entre chaque information, en secondes</string>
+    <string name="title_bar_toggle_z_height_tip">Afficher la hauteur Z (mm)</string>
+    <string name="title_bar_toggle_system_temperature_tip">Afficher la température du système (°)</string>
+
 </resources>

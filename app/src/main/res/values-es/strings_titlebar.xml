@@ -23,4 +23,16 @@
     <string name="title_bar_toggle_z_height">Altura z (mm)</string>
     <string name="title_bar_toggle_system_temperature">Temperatura del sistema (°)</string>
 
+    <string name="title_bar_toggle_server_name_tip">Mostrar nombre del servidor en la barra de título en la barra de título</string>
+    <string name="title_bar_toggle_printer_state_tip">Mostrar estado del servidor en la barra de título</string>
+    <string name="title_bar_toggle_extruders_temp_tip">Mostrar temp. de los extrusores en la barra de título</string>
+    <string name="title_bar_toggle_hot_bed_tip">Mostrar temp. de la cama caliente en la barra de título</string>
+    <string name="title_bar_toggle_gcode_progress_tip">Mostrar progreso GCODE en la barra de título</string>
+    <string name="title_bar_toggle_time_progress_tip">Mostrar progreso de tiempo en la barra de título</string>
+    <string name="title_bar_toggle_remaining_time_tip">Mostrar tiempo restante en la barra de título</string>
+    <string name="title_bar_toggle_file_name_tip">Mostrar nombre de archivo en la barra de título</string>
+    <string name="title_bar_spinner_change_delay_tip">Frecuencia de cambio (sec) en la barra de título</string>
+    <string name="title_bar_toggle_z_height_tip">Mostrar altura z en la barra de título</string>
+    <string name="title_bar_toggle_system_temperature_tip">Mostrar temperatura del sistema en la barra de título</string>
+
 </resources>

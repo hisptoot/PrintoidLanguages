@@ -13,14 +13,26 @@
 
     <string name="title_bar_toggle_server_name">Show server name</string>
     <string name="title_bar_toggle_printer_state">Show server state</string>
-    <string name="title_bar_toggle_extruders_temp">Show extruders temp.</string>
-    <string name="title_bar_toggle_hot_bed">Show hot bed temp.</string>
-    <string name="title_bar_toggle_gcode_progress">Show GCODE progress</string>
-    <string name="title_bar_toggle_time_progress">Show time progress</string>
+    <string name="title_bar_toggle_extruders_temp">Show extruders temperatures</string>
+    <string name="title_bar_toggle_hot_bed">Show hot bed temperature</string>
+    <string name="title_bar_toggle_gcode_progress">Show expected progress</string>
+    <string name="title_bar_toggle_time_progress">Show real progress</string>
     <string name="title_bar_toggle_remaining_time">Show remaining time</string>
     <string name="title_bar_toggle_file_name">Show file name</string>
+    <string name="title_bar_toggle_z_height">Show Z height (mm)</string>
+    <string name="title_bar_toggle_system_temperature">Show system temperature (°)</string>
     <string name="title_bar_spinner_change_delay">Change delay (sec)</string>
-    <string name="title_bar_toggle_z_height">Z height (mm)</string>
-    <string name="title_bar_toggle_system_temperature">System temperature (°)</string>
+
+    <string name="title_bar_toggle_server_name_tip">Show server name or not in the title bar</string>
+    <string name="title_bar_toggle_printer_state_tip">Show server state or not in the title bar</string>
+    <string name="title_bar_toggle_extruders_temp_tip">Show extruders temp. or not in the title bar</string>
+    <string name="title_bar_toggle_hot_bed_tip">Show hot bed temp. or not in the title bar</string>
+    <string name="title_bar_toggle_gcode_progress_tip">Show expected progress or not in the title bar</string>
+    <string name="title_bar_toggle_time_progress_tip">Show real progress or not in the title bar</string>
+    <string name="title_bar_toggle_remaining_time_tip">Show remaining time or not in the title bar</string>
+    <string name="title_bar_toggle_file_name_tip">Show file name or not in the title bar</string>
+    <string name="title_bar_toggle_z_height_tip">Show Z height or not in the title bar</string>
+    <string name="title_bar_toggle_system_temperature_tip">Show system temperature or not in the title bar</string>
+    <string name="title_bar_spinner_change_delay_tip">The delay between each information, in seconds</string>
 
 </resources>

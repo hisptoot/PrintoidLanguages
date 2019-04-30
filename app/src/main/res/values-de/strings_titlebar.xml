@@ -23,4 +23,16 @@
     <string name="title_bar_toggle_z_height">Z Höhe (mm)</string>
     <string name="title_bar_toggle_system_temperature">Systemtemperatur (°)</string>
 
+    <string name="title_bar_toggle_server_name_tip">Servername anzeigen in der Titelleiste</string>
+    <string name="title_bar_toggle_printer_state_tip">Serverstatus anzeigen in der Titelleiste</string>
+    <string name="title_bar_toggle_extruders_temp_tip">Extruder-Temperaturen anzeigen in der Titelleiste</string>
+    <string name="title_bar_toggle_hot_bed_tip">Heizbett-Temperatur anzeigen. in der Titelleiste</string>
+    <string name="title_bar_toggle_gcode_progress_tip">GCODE-Fortschritt anzeigen in der Titelleiste</string>
+    <string name="title_bar_toggle_time_progress_tip">Zeit-Fortschritt anzeigen in der Titelleiste</string>
+    <string name="title_bar_toggle_remaining_time_tip">Verbleibende Zeit anzeigen in der Titelleiste</string>
+    <string name="title_bar_toggle_file_name_tip">Dateiname anzeigen in der Titelleiste</string>
+    <string name="title_bar_spinner_change_delay_tip">Wechselgeschwindigkeit (sek) in der Titelleiste</string>
+    <string name="title_bar_toggle_z_height_tip">Z Höhe in der Titelleiste</string>
+    <string name="title_bar_toggle_system_temperature_tip">Systemtemperatur in der Titelleiste</string>
+
 </resources>

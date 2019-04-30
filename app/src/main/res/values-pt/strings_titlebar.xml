@@ -21,6 +21,18 @@
     <string name="title_bar_toggle_file_name">Mostrar nome do arquivo</string>
     <string name="title_bar_spinner_change_delay">Alterar atraso (seg)</string>
     <string name="title_bar_toggle_z_height">Altura Z (mm)</string>
-    <string name="title_bar_toggle_system_temperature">Temperatura do sistema(°)</string>
+    <string name="title_bar_toggle_system_temperature">Temperatura do sistema</string>
+
+    <string name="title_bar_toggle_server_name_tip">Mostrar nome do servidor na barra de título</string>
+    <string name="title_bar_toggle_printer_state_tip">Mostrar estado do servidor na barra de título</string>
+    <string name="title_bar_toggle_extruders_temp_tip">Mostrar temp. extrusora na barra de título</string>
+    <string name="title_bar_toggle_hot_bed_tip">Mostrar temp. mesa na barra de título</string>
+    <string name="title_bar_toggle_gcode_progress_tip">Mostrar progresso do GCODE na barra de título</string>
+    <string name="title_bar_toggle_time_progress_tip">Mostrar progresso do tempo na barra de título</string>
+    <string name="title_bar_toggle_remaining_time_tip">Mostrar tempo restante na barra de título</string>
+    <string name="title_bar_toggle_file_name_tip">Mostrar nome do arquivo na barra de título</string>
+    <string name="title_bar_spinner_change_delay_tip">Alterar atraso  na barra de título</string>
+    <string name="title_bar_toggle_z_height_tip">Altura Z  na barra de título</string>
+    <string name="title_bar_toggle_system_temperature_tip">Temperatura do sistema na barra de título</string>
 
 </resources>
