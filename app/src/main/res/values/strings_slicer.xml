@@ -129,7 +129,7 @@
     <string name="slicer_profile_warning_delete_title">Delete slicer profile</string>
     <string name="slicer_profile_warning_delete_msg">Do you really want to delete this slicer profile? This operation cannot be undone.</string>
     <string name="slicer_profile_warning_override_title">Override existing profile</string>
-    <string name="slicer_profile_warning_override_msg">The profile %s already exists, do you really want to override it?\n\nOtherwise you can changes the display name to create a new profile.</string>
+    <string name="slicer_profile_warning_override_msg">The profile %s already exists, do you really want to override it?\n\nOtherwise you can change the \'display name\' to create a new profile.</string>
     <string name="slicer_profile_editing_profile_title">Editing profile</string>
     <string name="slicer_profile_editing_profile_msg">Printoid is editing your slicer profile, please wait&#8230;</string>
     <string name="slicer_profile_creating_profile_title">Creating profile</string>
