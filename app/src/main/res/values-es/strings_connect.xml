@@ -66,7 +66,7 @@
 
     <!-- PRINTER CONNECTOR -->
     <string name="main_printer_connected_title">Impresora conectada</string>
-    <string name="main_printer_connected_msg">Printoid está listo para comunicarse con la impresora.</string>
+    <string name="main_printer_connected_msg">¡Printoid está listo para comunicarse con su impresora 3D!</string>
     <string name="main_printer_connection_error_title">Error de conexión con la impresora</string>
     <string name="main_printer_connection_error_msg">Printoid no puede conectar con la impresora.\nPor favor revise la conexión con su Raspberry Pi, su puerto serie, y que la impresora esté encendida.</string>
 

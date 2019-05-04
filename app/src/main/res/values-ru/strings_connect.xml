@@ -65,7 +65,7 @@
 
     <!-- PRINTER CONNECTOR -->
     <string name="main_printer_connected_title">Принтер подключен</string>
-    <string name="main_printer_connected_msg">Printoid готов к управлению принтером.</string>
+    <string name="main_printer_connected_msg">Printoid готов к управлению принтером!</string>
     <string name="main_printer_connection_error_title">Ошибка подключения к принтеру</string>
     <string name="main_printer_connection_error_msg">Printoid не может подключиться к принтеру.\nПожалуйста проверьте соединение принтера с Вашим Raspberry Pi, и включите принтер.</string>
 

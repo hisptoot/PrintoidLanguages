@@ -64,7 +64,7 @@
     <string name="connector_printer_connection_msg">Printoid maakt verbinding met uw 3D-printer, een ogenblik geduld…</string>
 
     <!-- PRINTER CONNECTOR -->
-    <string name="main_printer_connected_msg">Printoid klaar om te communiceren met uw 3D printer.</string>
+    <string name="main_printer_connected_msg">Printoid klaar om te communiceren met uw 3D printer!</string>
     <string name="main_printer_connected_title">3D printer verbonden</string>
     <string name="main_printer_connection_error_msg">Printoid kan geen verbinding maken met de 3D printer.\nVerifieer de seriële verbinding tussen Raspberry Pi en printer en… schakel de printer in</string>
     <string name="main_printer_connection_error_title">Fout bij verbinden met de printer</string>
