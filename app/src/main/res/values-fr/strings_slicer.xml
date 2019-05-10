@@ -98,10 +98,10 @@
     <string name="slicer_profile_fan_full_height">Pleine vitesse à la hauteur (mm)</string>
     <string name="slicer_profile_cool_min_feedrate">Ventilation min (%)</string>
     <string name="slicer_profile_cool_min_layer_time">Temps de refroidissement (s)</string>
-    <string name="slicer_profile_category_skirt">Juppe</string>
-    <string name="slicer_profile_skirt_line_count">Compteur ligne de juppe</string>
-    <string name="slicer_profile_skirt_min_length">Taille minimum juppe (mm)</string>
-    <string name="slicer_profile_skirt_gap">Ecart juppe (mm)</string>
+    <string name="slicer_profile_category_skirt">Jupe (skirt)</string>
+    <string name="slicer_profile_skirt_line_count">Compteur ligne de jupe (skirt)</string>
+    <string name="slicer_profile_skirt_min_length">Taille minimum jupe (skirt) (mm)</string>
+    <string name="slicer_profile_skirt_gap">Ecart jupe (skirt) (mm)</string>
     <string name="slicer_profile_category_solid">Remplissage</string>
     <string name="slicer_profile_solid_top">Remplissage solide dessus</string>
     <string name="slicer_profile_solid_bottom">Remplissage solide dessous</string>
