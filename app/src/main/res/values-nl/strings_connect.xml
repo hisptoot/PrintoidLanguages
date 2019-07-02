@@ -4,10 +4,10 @@
     <!-- CONNECTOR BASE -->
     <string name="connector_connection_title">Verbinden</string>
     <string name="connector_connection_to_title">Verbinden met %s</string>
-    <string name="connector_connection_to_subtitle">Printoid tries to contact OctoPrint…</string>
+    <string name="connector_connection_to_subtitle">Printoid probeert contact te maken met OctoPrint…</string>
 
     <!-- CONNECTOR STEP 2 (CHECK IP) -->
-    <string name="connector_communication_failed_title">Connection failed</string>
+    <string name="connector_communication_failed_title">Verbinding mislukt</string>
     <string name="connector_communication_failed_msg"><![CDATA[Printoid is er niet in geslaagd te OctoPrint benaderen via %1$s. Check uw netwerk configuratie en verbindingsstatus en probeer het opnieuw.<br><br><b>Extra informatie:</b><br><br>%2$s]]></string>
 
     <!-- EXTRA MSG: VPN ACTIVE-->

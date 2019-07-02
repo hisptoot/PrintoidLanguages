@@ -4,10 +4,10 @@
     <!-- CONNECTOR BASE -->
     <string name="connector_connection_title">Conexión</string>
     <string name="connector_connection_to_title">Conexión a %s</string>
-    <string name="connector_connection_to_subtitle">Printoid tries to contact OctoPrint…</string>
+    <string name="connector_connection_to_subtitle">Printoid intenta contactar a OctoPrint…</string>
 
     <!-- CONNECTOR STEP 2 (CHECK IP) -->
-    <string name="connector_communication_failed_title">Connection failed</string>
+    <string name="connector_communication_failed_title">La conexión falló</string>
     <string name="connector_communication_failed_msg"><![CDATA[Printoid no se puede conectar con su servidor OctoPrint desde %1$s. Por favor revise su conexión de red y su configuración después reintente.<br><br><b>Más información:</b><br><br>%2$s]]></string>
 
     <!-- EXTRA MSG: VPN ACTIVE-->
