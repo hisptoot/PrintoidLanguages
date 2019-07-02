@@ -73,6 +73,6 @@
     <string name="analyzer_total_models">Numero di modelli:</string>
     <string name="analyzer_total_estimated_cost">Costo totale stimato:</string>
 
-    <string name="download_file_done">File scaricato nella memoria interna (&lt;sdcard&gt;/Printoid/files/)</string>
+    <string name="download_file_done">File scaricato nella memoria interna (%s)</string>
 
 </resources>
