@@ -1,49 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources xmlns:tools="http://schemas.android.com/tools">
+<resources>
 
     <!-- CONNECTOR BASE -->
     <string name="connector_connection_title">Verbinden</string>
     <string name="connector_connection_to_title">Verbinden met %s</string>
-    <string name="connector_connection_step_1" tools:ignore="TypographyFractions">Stap 1/3</string>
-    <string name="connector_connection_step_2" tools:ignore="TypographyFractions">Stap 2/3</string>
-    <string name="connector_connection_step_3" tools:ignore="TypographyFractions">Stap 3/3</string>
-
-    <!-- CONNECTOR STEP 1 (PING) -->
-    <string name="connector_connecting_title">Verbinding opbouw stap 1 (ping)</string>
-    <string name="connector_connecting_msg">Verbinding met uw OctoPrint server via %1$s&#8230;\n\nAdres: %2$s</string>
-    <string name="connector_connecting_failed_title">Stap 1 ging fout (ping)</string>
-    <string name="connector_connecting_failed_msg"><![CDATA[Printoid is er niet in geslaagd te OctoPrint benaderen via %1$s. Check uw locale netwerk en of het opgegeven IP adres klopt.<br><br><b>Extra informatie:</b><br><br>%2$s]]></string>
+    <string name="connector_connection_to_subtitle">Printoid tries to contact OctoPrint…</string>
 
     <!-- CONNECTOR STEP 2 (CHECK IP) -->
-    <string name="connector_communicating_title">Verbinding opbouw stap 2 (IP test)</string>
-    <string name="connector_communicating_msg">Printoid heeft verbinding met uw OctoPrint server via %1$s&#8230;\n\nAdres: %2$s</string>
-    <string name="connector_communication_failed_title">Stap 2 ging fout (IP test)</string>
+    <string name="connector_communication_failed_title">Connection failed</string>
     <string name="connector_communication_failed_msg"><![CDATA[Printoid is er niet in geslaagd te OctoPrint benaderen via %1$s. Check uw netwerk configuratie en verbindingsstatus en probeer het opnieuw.<br><br><b>Extra informatie:</b><br><br>%2$s]]></string>
-
-    <!-- CONNECTOR STEP 3 (CHECK API) -->
-    <string name="connector_testing_title">Verbinding opbouw stap 3 (API test)</string>
-    <string name="connector_testing_msg">Printoid communiceert met uw 3D printer via %1$s&#8230;\n\nAdres: %2$s</string>
-    <string name="connector_test_failed_title">Stap 3 ging fout (API test)</string>
-    <string name="connector_test_failed_msg"><![CDATA[Printoid is er niet in geslaagd commando\'s te versturen naar uw 3D printer via %1$s. Neem contact op met de ontwikkelaar van Printoid.<br><br><b>Extra informatie:</b><br><br>%2$s]]></string>
 
     <!-- EXTRA MSG: VPN ACTIVE-->
     <string name="connector_failed_vpn">\n\nOpmerking: Printoid heeft een actief VPN op uw apparaat gedetecteerd, waardoor de verbinding met uw OctoPrint-server kan worden beïnvloed.</string>
 
     <!-- CONNECTOR STATUS -->
-    <string name="connector_communication_established_title">Communicatie tot stand gebracht</string>
-    <string name="connector_communication_established_msg">Printoid kan nu communiceren met uw 3D printer.\nU kunt uw server via het linker menu verbinden met de printer.</string>
     <string name="octoprint_connection_lost">Verbinding met de OctoPrint server is verbroken</string>
     <string name="connector_profile_not_completed_title">Profiel OctoPrint onvolledig</string>
     <string name="connector_profile_not_completed_message">Het gekozen OctoPrint profiel lijkt incompleet.\nVoer de nodige veranderingen door, alvorens opnieuw proberen te verbinden.</string>
-    <string name="connector_communication_canceled">Verbinding verbroken</string>
     <string name="connector_communication_established_with">Communicatie tot stand gebracht: %s</string>
     <string name="connector_communication_canceled_with">Verbinding verbroken: %s</string>
 
     <!-- CONNECTOR ERRORS -->
     <string name="connector_error_format_multiple_ip"><![CDATA[Eerste test: <b>%1$s</b><br>-> %2$s<br><br>Tweede test: <b>%3$s</b><br>-> %4$s]]></string>
-    <string name="connector_error_server_not_reachable">Server onbereikbaar</string>
-    <string name="connector_error_unknown_host">Onbekende host</string>
-    <string name="connector_error_io_error">Fout bij lezen/schrijven</string>
     <string name="connector_error_empty_response">Antwoord zonder inhoud</string>
     <string name="connector_error_none_response">Geen antwoord</string>
     <string name="connector_error_connectivity_response">Geen verbinding, of te zwak signaal, controleer uw internet verbinding</string>

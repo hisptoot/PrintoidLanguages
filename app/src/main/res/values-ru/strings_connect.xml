@@ -1,49 +1,27 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources xmlns:tools="http://schemas.android.com/tools">
+<resources>
 
     <!-- CONNECTOR BASE -->
     <string name="connector_connection_title">Cоединение</string>
     <string name="connector_connection_to_title">Подключение к %s</string>
-    <string name="connector_connection_step_1" tools:ignore="TypographyFractions">Шаг 1 из 3</string>
-    <string name="connector_connection_step_2" tools:ignore="TypographyFractions">Шаг 2 из 3</string>
-    <string name="connector_connection_step_3" tools:ignore="TypographyFractions">Шаг 3 из 3</string>
-
-    <!-- CONNECTOR STEP 1 (PING) -->
-    <string name="connector_connecting_title">Соединение. Шаг 1 (ping)</string>
-    <string name="connector_connecting_msg">Соединение с Вашим OctoPrint сервером из %1$s&#8230;\n\nАдрес: %2$s</string>
-    <string name="connector_connecting_failed_title">Ошибка на шаге 1 (ping)</string>
-    <string name="connector_connecting_failed_msg"><![CDATA[Printoid не может соединится с Вашим OctoPrint сервером из %1$s. Пожалуйста проверьте локальную сеть и указанный IP.<br><br><b>дополнительная информация:</b><br><br>%2$s]]></string>
+    <string name="connector_connection_to_subtitle">Printoid tries to contact OctoPrint…</string>
 
     <!-- CONNECTOR STEP 2 (CHECK IP) -->
-    <string name="connector_communicating_title">Соединение. Шаг 2 (тест IP)</string>
-    <string name="connector_communicating_msg">Printoid устанавливает связь с Вашим OctoPrint сервером из %1$s&#8230;\n\nАдрес: %2$s</string>
-    <string name="connector_communication_failed_title">Ошибка на шаге 2 (тест IP)</string>
+    <string name="connector_communication_failed_title">Connection failed</string>
     <string name="connector_communication_failed_msg"><![CDATA[Printoid не может соединится с Вашим OctoPrint сервером из %1$s. Пожалуйста проверьте Ваше сетевое соединение и настройки прежде чем повторить.<br><br><b>дополнительная информация:</b><br><br>%2$s]]></string>
-
-    <!-- CONNECTOR STEP 3 (CHECK API) -->
-    <string name="connector_testing_title">Соединение. Шаг 3 (тест API)</string>
-    <string name="connector_testing_msg">Printoid соединяется с Вашим принтером из %1$s&#8230;\n\nАдрес: %2$s</string>
-    <string name="connector_test_failed_title">Ошибка на шаге 3 (тест API)</string>
-    <string name="connector_test_failed_msg"><![CDATA[Printoid не может отправить команды на принтер из %1$s. Пожалуйста свяжитесь с разработчиком Printoid\'а.<br><br><b>дополнительная информация:</b><br><br>%2$s]]></string>
 
     <!-- EXTRA MSG: VPN ACTIVE-->
     <string name="connector_failed_vpn">\n\nПримечание: Printoid обнаружил активный VPN на вашем устройстве, что может повлиять на подключение к серверу OctoPrint.</string>
 
     <!-- CONNECTOR STATUS -->
-    <string name="connector_communication_established_title">Связь установлена</string>
-    <string name="connector_communication_established_msg">Printoid готов подключится к OctoPrint серверу.\nВы можете подключить свой сервер к принтеру из меню слева.</string>
     <string name="octoprint_connection_lost">Соединение с OctoPrint сервером потеряно</string>
     <string name="connector_profile_not_completed_title">Профиль принтера не полон</string>
     <string name="connector_profile_not_completed_message">Вы не полностью заполнили профиль принтера.\nПожалуйста проверьте это перед соединением.</string>
-    <string name="connector_communication_canceled">Соединение отменено</string>
     <string name="connector_communication_established_with">Связь установлена: %s</string>
     <string name="connector_communication_canceled_with">Соединение отменено: %s</string>
 
     <!-- CONNECTOR ERRORS -->
     <string name="connector_error_format_multiple_ip"><![CDATA[Первый тест: <b>%1$s</b><br>-> %2$s<br><br>Bторой тест: <b>%3$s</b><br>-> %4$s]]></string>
-    <string name="connector_error_server_not_reachable">Сервер недоступен</string>
-    <string name="connector_error_unknown_host">Неизвестный хост</string>
-    <string name="connector_error_io_error">Ошибка IO</string>
     <string name="connector_error_empty_response">Пустой ответ</string>
     <string name="connector_error_none_response">Нет ответа</string>
     <string name="connector_error_connectivity_response">Нет подключения или сигнал слишком плохой, пожалуйста, проверьте сетевое соединение</string>
