@@ -16,6 +16,10 @@
     <string name="alert_cancel_print_title">Interrompere la stampa corrente</string>
     <string name="alert_cancel_print_msg">Questo lavoro di stampa sarà annullato, sei sicuro?\nA la stampa annullata non può essere ricaricata allo stato precedente, quindi il tuo lavoro effettivo andrà perso.</string>
 
+    <string name="alert_start_print_title">Inizia la stampa</string>
+    <string name="alert_start_print_msg">La stampa verrà avviato per il file attualmente selezionato, vuoi continuare?</string>
+    <string name="alert_start_print_file_msg">La stampa verrà avviato per il file <b>%s</b>, vuoi continuare?</string>
+
     <string name="alert_pause_print_title">Metti in pausa la stampa corrente</string>
     <string name="alert_pause_print_msg">Questo lavoro di stampa sarà sospeso, sei sicuro?</string>
 

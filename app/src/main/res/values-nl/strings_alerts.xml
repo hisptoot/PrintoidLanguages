@@ -8,6 +8,10 @@
     <string name="alert_cancel_print_title">Breek de print af</string>
     <string name="alert_cancel_print_msg">De print wordt afgebroken, wilt u dat echt?\nEenmaal afgebroken prints kunnen NIET hervat worden, uw werk gaat dus verloren.</string>
 
+    <string name="alert_start_print_title">Start de afdruktaak</string>
+    <string name="alert_start_print_msg">De afdruktaak wordt gestart voor het momenteel geselecteerde bestand. Wilt u doorgaan?</string>
+    <string name="alert_start_print_file_msg">De afdruktaak wordt gestart voor het <b>%s</b> bestand. Wilt u doorgaan?</string>
+
     <string name="alert_pause_print_title">Huidige afdruk pauzeren</string>
     <string name="alert_pause_print_msg">Deze afdruktaak wordt onderbroken, weet u het zeker?</string>
 

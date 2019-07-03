@@ -16,6 +16,10 @@
     <string name="alert_cancel_print_title">Aktuellen Druck abbrechen</string>
     <string name="alert_cancel_print_msg">Bist du sicher, dass der Druck abgebrochen werden soll?\nEin abgebrochener Druck kann nicht wiederhergestellt werden. Somit ist der bisherige Fortschritt verloren.</string>
 
+    <string name="alert_start_print_title">Druckauftrag starten</string>
+    <string name="alert_start_print_msg">Der Druckauftrag wird für die aktuell ausgewählte Datei gestartet. Möchten Sie fortfahren?</string>
+    <string name="alert_start_print_file_msg">Der Druckauftrag wird für die <b>%s</b> Datei gestartet. Möchten Sie fortfahren?</string>
+
     <string name="alert_pause_print_title">Aktuellen Druck anhalten</string>
     <string name="alert_pause_print_msg">Dieser Druckauftrag wird angehalten, sind Sie sicher?</string>
 

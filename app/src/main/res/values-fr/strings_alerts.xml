@@ -9,6 +9,10 @@
     <string name="alert_cancel_print_title">Arrêter l\'impression</string>
     <string name="alert_cancel_print_msg">L\'impression va être arretée, êtes-vous sûr de vouloir continuer ?\nUne impression annulée ne pourra pas etre reprise, tout travail en cours sera perdu.</string>
 
+    <string name="alert_start_print_title">Démarrer l\'impression</string>
+    <string name="alert_start_print_msg">L\'impression du fichier actuellement chargé va démarrer, êtes-vous sûr de vouloir continuer ?</string>
+    <string name="alert_start_print_file_msg">L\'impression du fichier <b>%s</b> va démarrer, êtes-vous sûr de vouloir continuer ?</string>
+
     <string name="alert_pause_print_title">Mettre l\'impression en pause</string>
     <string name="alert_pause_print_msg">L\'impression en cours va être mise en pause, êtes-vous sûr de vouloir continuer ?</string>
 

@@ -16,6 +16,10 @@
     <string name="alert_cancel_print_title">Прервать текущую печать</string>
     <string name="alert_cancel_print_msg">Вы уверены, что хотите прервать печать?\nПрервав печать, Вы не сможете её возобновить с текущего момента, испортив результат.</string>
 
+    <string name="alert_start_print_title">Начать задание на печать</string>
+    <string name="alert_start_print_msg">Задание на печать будет запущено для выбранного файла. Продолжить?</string>
+    <string name="alert_start_print_file_msg">Задание на печать будет запущено для файла <b>%s</b>. Продолжить?</string>
+
     <string name="alert_pause_print_title">Пауза текущей печати</string>
     <string name="alert_pause_print_msg">Это задание печати будет приостановлено, вы уверены?</string>
 
