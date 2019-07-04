@@ -14,16 +14,20 @@
     <string name="alert_pro_feature_spools_manager_msg">This is the free version of Printoid.\nThe filament spool manager module is available in the PRO version, download it now on Google Play!</string>
 
     <string name="alert_cancel_print_title">Abort current print</string>
-    <string name="alert_cancel_print_msg">This printing job will be canceled, are you sure?\nA canceled print could not be reloaded to its previous state, so your actual work will be lost.</string>
+    <string name="alert_cancel_print_msg">This printing job will be canceled, do you want to continue?\nA canceled print could not be reloaded to its previous state, so your actual work will be lost.</string>
+
+    <string name="alert_start_print_title">Start printing job</string>
+    <string name="alert_start_print_msg">The printing job will be started for the currently selected file, do you want to continue?</string>
+    <string name="alert_start_print_file_msg">The printing job will be started for the file <b>%s</b>, do you want to continue?</string>
 
     <string name="alert_pause_print_title">Pause current print</string>
-    <string name="alert_pause_print_msg">This printing job will be paused, are you sure?</string>
+    <string name="alert_pause_print_msg">This printing job will be paused, do you want to continue?</string>
 
     <string name="alert_resume_print_title">Resume current print</string>
-    <string name="alert_resume_print_msg">This printing job will be resumed, are you sure?</string>
+    <string name="alert_resume_print_msg">This printing job will be resumed, do you want to continue?</string>
 
     <string name="alert_restart_print_title">Restart current print</string>
-    <string name="alert_restart_print_msg">This printing job will be restarted, are you sure?\nThe previous job could not be reloaded to its previous state, so your actual work will be lost.</string>
+    <string name="alert_restart_print_msg">This printing job will be restarted, do you want to continue?\nThe previous job could not be reloaded to its previous state, so your actual work will be lost.</string>
 
     <string name="alert_delete_printer_profile_title">Delete OctoPrint profile</string>
     <string name="alert_delete_printer_profile_message">This OctoPrint profile will be deleted, are you sure?\nThis action can not be undone.</string>

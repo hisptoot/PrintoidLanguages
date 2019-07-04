@@ -95,6 +95,7 @@
 
     <!-- UNSUPPORTED & UNOFFICIAL CODES -->
 
+    <string name="http_exception_connect" translatable="false">Connect Exception</string>
     <string name="http_error_unknown" translatable="false">Unknown Error</string>
 
 </resources>

@@ -16,6 +16,10 @@
     <string name="alert_cancel_print_title">Abortar a impressão atual</string>
     <string name="alert_cancel_print_msg">Este job de impressão será cancelado, você tem certeza disto?\nUma impressão cancelada não poderá ser recuperada e o trabalho atual será perdido.</string>
 
+    <string name="alert_start_print_title">Iniciar a impressão</string>
+    <string name="alert_start_print_msg">A impressão será iniciado para o arquivo atualmente selecionado. Você tem certeza disto?</string>
+    <string name="alert_start_print_file_msg">A impressão será iniciado para o arquivo <b>%s</b>. Você tem certeza disto?</string>
+
     <string name="alert_pause_print_title">Pausar a impressão atual</string>
     <string name="alert_pause_print_msg">Este job de impressão será pausado. Você tem certeza disto?</string>
 
