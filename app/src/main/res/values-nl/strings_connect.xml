@@ -8,7 +8,7 @@
 
     <!-- CONNECTOR STEP 2 (CHECK IP) -->
     <string name="connector_communication_failed_title">Verbinding mislukt</string>
-    <string name="connector_communication_failed_msg"><![CDATA[Printoid is er niet in geslaagd te OctoPrint benaderen via %1$s. Check uw netwerk configuratie en verbindingsstatus en probeer het opnieuw.<br><br><b>Extra informatie:</b><br><br>%2$s]]></string>
+    <string name="connector_communication_failed_msg"><![CDATA[Printoid is er niet in geslaagd te OctoPrint benaderen via %1$s.<br><br><b>Details:</b><br><br>%2$s]]></string>
 
     <!-- EXTRA MSG: VPN ACTIVE-->
     <string name="connector_failed_vpn">\n\nOpmerking: Printoid heeft een actief VPN op uw apparaat gedetecteerd, waardoor de verbinding met uw OctoPrint-server kan worden beïnvloed.</string>
@@ -21,14 +21,14 @@
     <string name="connector_communication_canceled_with">Verbinding verbroken: %s</string>
 
     <!-- CONNECTOR ERRORS -->
-    <string name="connector_error_format_multiple_ip"><![CDATA[Eerste test: <b>%1$s</b><br>-> %2$s<br><br>Tweede test: <b>%3$s</b><br>-> %4$s]]></string>
+    <string name="connector_error_format_multiple_ip"><![CDATA[Inloggen op <b>%1$s</b><br>-> %2$s<br><br>Inloggen op <b>%3$s</b><br>-> %4$s]]></string>
     <string name="connector_error_empty_response">Antwoord zonder inhoud</string>
     <string name="connector_error_none_response">Geen antwoord</string>
     <string name="connector_error_connectivity_response">Geen verbinding, of te zwak signaal, controleer uw internet verbinding</string>
     <string name="connector_error_invalid_api_key">Ongeldige API sleutel</string>
     <string name="connector_error_missing_api_key">API sleutel ontbreekt</string>
     <string name="connector_error_unauthorized">Authorisatie werd geweigerd, wellicht moet u de basis authenticatie activeren in de instellingen van Printoid en/of uw user/wachtwoord verifiëren</string>
-    <string name="connector_error_http_error">HTTP-verzoekfout: %2$d (%1$s)</string>
+    <string name="connector_error_http_error">Verbindingsfout: %2$d (%1$s)</string>
     <string name="connector_error_parsing_exception">Het API formaat is onbekend, neem contact op met de Printoid ontwikkelaar</string>
 
     <!-- NETWORK ISSUE -->

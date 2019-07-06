@@ -8,7 +8,7 @@
 
     <!-- CONNECTOR STEP 2 (CHECK IP) -->
     <string name="connector_communication_failed_title">Connection failed</string>
-    <string name="connector_communication_failed_msg"><![CDATA[Printoid could not communicate with your OctoPrint server over %1$s. Please check your network connection and your configuration then retry.<br><br><b>Extra informations:</b><br><br>%2$s]]></string>
+    <string name="connector_communication_failed_msg"><![CDATA[Printoid can not communicate with your OctoPrint server over %1$s.<br><br><b>Details:</b><br><br>%2$s]]></string>
 
     <!-- EXTRA MSG: VPN ACTIVE-->
     <string name="connector_failed_vpn">\n\nNote: Printoid has detected an active VPN on your device, may this one can cause connection issues.</string>
@@ -21,14 +21,14 @@
     <string name="connector_communication_canceled_with">Connection with %s canceled</string>
 
     <!-- CONNECTOR ERRORS -->
-    <string name="connector_error_format_multiple_ip"><![CDATA[First test: <b>%1$s</b><br>-> %2$s<br><br>Second test: <b>%3$s</b><br>-> %4$s]]></string>
+    <string name="connector_error_format_multiple_ip"><![CDATA[Attempt to connect to <b>%1$s</b><br>-> %2$s<br><br>Attempt to connect to <b>%3$s</b><br>-> %4$s]]></string>
     <string name="connector_error_empty_response">Empty response</string>
     <string name="connector_error_none_response">No response</string>
     <string name="connector_error_connectivity_response">No connectivity or signal too bad, please check your current network</string>
     <string name="connector_error_invalid_api_key">Invalid API key</string>
     <string name="connector_error_missing_api_key">Missing API key</string>
-    <string name="connector_error_unauthorized">Authorization failed, may you should activate the connection with basic auth in Printoid\'s settings or verify your credentials</string>
-    <string name="connector_error_http_error">HTTP request error: %2$d (%1$s)</string>
+    <string name="connector_error_unauthorized">Authorization failed, double check your server API key and/or your basic authentication credentials</string>
+    <string name="connector_error_http_error">Connection error: %2$d (%1$s)</string>
     <string name="connector_error_parsing_exception">Unknown API format, please contact the Printoid\'s developer</string>
 
     <!-- NETWORK ISSUE -->

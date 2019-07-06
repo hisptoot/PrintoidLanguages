@@ -8,7 +8,7 @@
 
     <!-- CONNECTOR STEP 2 (CHECK IP) -->
     <string name="connector_communication_failed_title">Conexão falhou</string>
-    <string name="connector_communication_failed_msg"><![CDATA[Printoid could not communicate with your OctoPrint server from %1$s. Please check your network connection and your configuration then retry.<br><br><b>Extra informations:</b><br><br>%2$s]]></string>
+    <string name="connector_communication_failed_msg"><![CDATA[Printoid não pode se comunicar com seu servidor OctoPrint por %1$s.<br><br><b>Detalhes:</b><br><br>%2$s]]></string>
 
     <!-- EXTRA MSG: VPN ACTIVE-->
     <string name="connector_failed_vpn">\n\nNote: O Printoid detectou uma VPN ativa no seu dispositivo, talvez ela possa causar problemas de conexão.</string>
@@ -21,14 +21,14 @@
     <string name="connector_communication_canceled_with">Conexão com %s cancelada</string>
 
     <!-- CONNECTOR ERRORS -->
-    <string name="connector_error_format_multiple_ip"><![CDATA[First test: <b>%1$s</b><br>-> %2$s<br><br>Second test: <b>%3$s</b><br>-> %4$s]]></string>
+    <string name="connector_error_format_multiple_ip"><![CDATA[Login para <b>%1$s</b><br>-> %2$s<br><br>Login para <b>%3$s</b><br>-> %4$s]]></string>
     <string name="connector_error_empty_response">Resposta vazia</string>
     <string name="connector_error_none_response">Sem resposta</string>
     <string name="connector_error_connectivity_response">Sem conectividade ou sinal muito ruim, por favor, verifique sua rede atual</string>
     <string name="connector_error_invalid_api_key">Chave API inválida</string>
     <string name="connector_error_missing_api_key">Chave API ausente</string>
     <string name="connector_error_unauthorized">Falha na autorização, você deve ativar a conexão com autenticação básica nas configurações do Printoid ou verificar suas credenciais</string>
-    <string name="connector_error_http_error">Erro de solicitação de HTTP: %2$d (%1$s)</string>
+    <string name="connector_error_http_error">Erro de conexão: %2$d (%1$s)</string>
     <string name="connector_error_parsing_exception">Formato de API desconhecido, entre em contato com o desenvolvedor do Printoid.</string>
 
     <!-- NETWORK ISSUE -->

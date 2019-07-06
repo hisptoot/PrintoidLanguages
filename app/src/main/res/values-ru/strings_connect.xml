@@ -8,7 +8,7 @@
 
     <!-- CONNECTOR STEP 2 (CHECK IP) -->
     <string name="connector_communication_failed_title">Ошибка подключения</string>
-    <string name="connector_communication_failed_msg"><![CDATA[Printoid не может соединится с Вашим OctoPrint сервером из %1$s. Пожалуйста проверьте Ваше сетевое соединение и настройки прежде чем повторить.<br><br><b>дополнительная информация:</b><br><br>%2$s]]></string>
+    <string name="connector_communication_failed_msg"><![CDATA[Printoid не может соединится с Вашим OctoPrint сервером из %1$s.<br><br><b>дополнительная информация:</b><br><br>%2$s]]></string>
 
     <!-- EXTRA MSG: VPN ACTIVE-->
     <string name="connector_failed_vpn">\n\nПримечание: Printoid обнаружил активный VPN на вашем устройстве, что может повлиять на подключение к серверу OctoPrint.</string>
@@ -21,14 +21,14 @@
     <string name="connector_communication_canceled_with">Соединение отменено: %s</string>
 
     <!-- CONNECTOR ERRORS -->
-    <string name="connector_error_format_multiple_ip"><![CDATA[Первый тест: <b>%1$s</b><br>-> %2$s<br><br>Bторой тест: <b>%3$s</b><br>-> %4$s]]></string>
+    <string name="connector_error_format_multiple_ip"><![CDATA[Войти в <b>%1$s</b><br>-> %2$s<br><br>Войти в <b>%3$s</b><br>-> %4$s]]></string>
     <string name="connector_error_empty_response">Пустой ответ</string>
     <string name="connector_error_none_response">Нет ответа</string>
     <string name="connector_error_connectivity_response">Нет подключения или сигнал слишком плохой, пожалуйста, проверьте сетевое соединение</string>
     <string name="connector_error_invalid_api_key">Неверный API ключ</string>
     <string name="connector_error_missing_api_key">Отсутствует API ключ</string>
     <string name="connector_error_unauthorized">Ошибка авторизации, попробуйте выбрать в настройка Printoid\'а соединение с основной авторизацией или проверьте данные учетной записи</string>
-    <string name="connector_error_http_error">Ошибка HTTP-запроса: %2$d (%1$s)</string>
+    <string name="connector_error_http_error">Ошибка соединения: %2$d (%1$s)</string>
     <string name="connector_error_parsing_exception">Неизвестный API формат, пожалуйста свяжитесь с разработчиком Printoid\'а </string>
 
     <!-- NETWORK ISSUE -->
