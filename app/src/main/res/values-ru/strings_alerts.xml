@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="alert_pro_feature_title">Функция Pro версии</string>
-    <string name="alert_pro_feature_streaming_msg">Это бесплатная версия Printoid. Просмотр видео доступен в PRO версии, скачайте её в Google Play!</string>
-    <string name="alert_pro_feature_plugins_msg">Это бесплатная версия Printoid. Плагины OctoPrint доступны в версии Pro Printoid, скачайте её в Google Play!</string>
-    <string name="alert_pro_feature_screensaver_msg">Это бесплатная версия Printoid. Режим экранной заставки доступен в PRO версии, скачайте её в Google Play!</string>
-    <string name="alert_pro_feature_command_msg">Это бесплатная версия Printoid. Ввод SSH и GCODE команд доступен в PRO версии, скачайте её в Google Play!</string>
-    <string name="alert_pro_feature_octoprint_web_interface_msg">Это бесплатная версия Printoid. Доступ к web интерфесу Вашего OctoPrint доступен в PRO версии, скачайте её в Google Play!</string>
-    <string name="alert_pro_feature_multi_profile_msg">Это бесплатная версия Printoid.\nДобавление более одного принтера доступно в PRO версии, скачайте её в Google Play!</string>
-    <string name="alert_pro_feature_render_msg">Это бесплатная версия Printoid.\nТрехмерный просмотр GCODE &amp; STL файла доступен в PRO версии, скачайте её в Google Play!</string>
-    <string name="alert_pro_feature_layers_msg">Это бесплатная версия Printoid.\nПослойный просмотр GCODE доступен в PRO версии, скачайте её в Google Play!</string>
-    <string name="alert_pro_feature_realtime_layers_msg">Это бесплатная версия Printoid.\nВизиуализация в реальном времени доступна в PRO версии, скачайте её в Google Play!</string>
-    <string name="alert_pro_feature_spools_manager_msg">Это бесплатная версия Printoid.\nМодуль учета катушки филамента доступен в версии PRO, загрузите его сейчас в Google Play!</string>
+    <string name="alert_pro_feature_title">Функция PREMIUM версии</string>
+    <string name="alert_pro_feature_streaming_msg">Это бесплатная версия Printoid. Просмотр видео доступен в PREMIUM версии, скачайте её в Google Play!</string>
+    <string name="alert_pro_feature_plugins_msg">Это бесплатная версия Printoid. Плагины OctoPrint доступны в версии PREMIUM Printoid, скачайте её в Google Play!</string>
+    <string name="alert_pro_feature_screensaver_msg">Это бесплатная версия Printoid. Режим экранной заставки доступен в PREMIUM версии, скачайте её в Google Play!</string>
+    <string name="alert_pro_feature_command_msg">Это бесплатная версия Printoid. Ввод SSH и GCODE команд доступен в PREMIUM версии, скачайте её в Google Play!</string>
+    <string name="alert_pro_feature_octoprint_web_interface_msg">Это бесплатная версия Printoid. Доступ к web интерфесу Вашего OctoPrint доступен в PREMIUM версии, скачайте её в Google Play!</string>
+    <string name="alert_pro_feature_multi_profile_msg">Это бесплатная версия Printoid.\nДобавление более одного принтера доступно в PREMIUM версии, скачайте её в Google Play!</string>
+    <string name="alert_pro_feature_render_msg">Это бесплатная версия Printoid.\nТрехмерный просмотр GCODE &amp; STL файла доступен в PREMIUM версии, скачайте её в Google Play!</string>
+    <string name="alert_pro_feature_layers_msg">Это бесплатная версия Printoid.\nПослойный просмотр GCODE доступен в PREMIUM версии, скачайте её в Google Play!</string>
+    <string name="alert_pro_feature_realtime_layers_msg">Это бесплатная версия Printoid.\nВизиуализация в реальном времени доступна в PREMIUM версии, скачайте её в Google Play!</string>
+    <string name="alert_pro_feature_spools_manager_msg">Это бесплатная версия Printoid.\nМодуль учета катушки филамента доступен в версии PREMIUM, загрузите его сейчас в Google Play!</string>
 
     <string name="alert_cancel_print_title">Прервать текущую печать</string>
     <string name="alert_cancel_print_msg">Вы уверены, что хотите прервать печать?\nПрервав печать, Вы не сможете её возобновить с текущего момента, испортив результат.</string>

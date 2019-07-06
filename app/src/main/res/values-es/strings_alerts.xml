@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="alert_pro_feature_title">Característica de la versión Pro</string>
-    <string name="alert_pro_feature_streaming_msg">Esta es la versión gratuita de Printoid. El streaming de vídeo está disponible en la version Pro, descárgala ahora en Google Play!</string>
-    <string name="alert_pro_feature_plugins_msg">Esta es la versión gratuita de Printoid. Los plugins de OctoPrint están disponibles en la version Pro, descárgala ahora en Google Play!</string>
-    <string name="alert_pro_feature_screensaver_msg">Esta es la versión gratuita de Printoid. El salvapantalla de vídeo está disponible en la version Pro, descárgala ahora en Google Play!</string>
-    <string name="alert_pro_feature_command_msg">Esta es la versión gratuita de Printoid. El SSH personalizado y los comandos GCODE están disponibles en la version Pro, descárgala ahora en Google Play!</string>
-    <string name="alert_pro_feature_octoprint_web_interface_msg">Esta es la versión gratuita de Printoid. El acceso a su interfaz web de OctoPrint está disponible en la version Pro, descárgala ahora en Google Play!</string>
-    <string name="alert_pro_feature_multi_profile_msg">Esta es la versión gratuita de Printoid.\nAñadir más de un perfil de impresora está disponible en la version Pro, descárgala ahora en Google Play!</string>
-    <string name="alert_pro_feature_render_msg">Esta es la versión gratuita de Printoid.\nEl GCODE &amp; visor STL 3D está disponible en la version Pro, descárgala ahora en Google Play!</string>
-    <string name="alert_pro_feature_layers_msg">Esta es la versión gratuita de Printoid.\nEl visor de capas GCODE 2D está disponible en la version Pro, descárgala ahora en Google Play!</string>
-    <string name="alert_pro_feature_realtime_layers_msg">Esta es la versión gratuita de Printoid.\nEl visor capa a capa en tiempo real está disponible en la version Pro, descárgala ahora en Google Play!</string>
-    <string name="alert_pro_feature_spools_manager_msg">Esta es la versión gratuita de Printoid.\nEl módulo administrador de spool de filamento está disponible en la versión PRO, descárguelo ahora en Google Play!</string>
+    <string name="alert_pro_feature_title">Característica de la versión PREMIUM</string>
+    <string name="alert_pro_feature_streaming_msg">Esta es la versión gratuita de Printoid. El streaming de vídeo está disponible en la version PREMIUM, descárgala ahora en Google Play!</string>
+    <string name="alert_pro_feature_plugins_msg">Esta es la versión gratuita de Printoid. Los plugins de OctoPrint están disponibles en la version PREMIUM, descárgala ahora en Google Play!</string>
+    <string name="alert_pro_feature_screensaver_msg">Esta es la versión gratuita de Printoid. El salvapantalla de vídeo está disponible en la version PREMIUM, descárgala ahora en Google Play!</string>
+    <string name="alert_pro_feature_command_msg">Esta es la versión gratuita de Printoid. El SSH personalizado y los comandos GCODE están disponibles en la version PREMIUM, descárgala ahora en Google Play!</string>
+    <string name="alert_pro_feature_octoprint_web_interface_msg">Esta es la versión gratuita de Printoid. El acceso a su interfaz web de OctoPrint está disponible en la version PREMIUM, descárgala ahora en Google Play!</string>
+    <string name="alert_pro_feature_multi_profile_msg">Esta es la versión gratuita de Printoid.\nAñadir más de un perfil de impresora está disponible en la version PREMIUM, descárgala ahora en Google Play!</string>
+    <string name="alert_pro_feature_render_msg">Esta es la versión gratuita de Printoid.\nEl GCODE &amp; visor STL 3D está disponible en la version PREMIUM, descárgala ahora en Google Play!</string>
+    <string name="alert_pro_feature_layers_msg">Esta es la versión gratuita de Printoid.\nEl visor de capas GCODE 2D está disponible en la version PREMIUM, descárgala ahora en Google Play!</string>
+    <string name="alert_pro_feature_realtime_layers_msg">Esta es la versión gratuita de Printoid.\nEl visor capa a capa en tiempo real está disponible en la version PREMIUM, descárgala ahora en Google Play!</string>
+    <string name="alert_pro_feature_spools_manager_msg">Esta es la versión gratuita de Printoid.\nEl módulo administrador de spool de filamento está disponible en la versión PREMIUM, descárguelo ahora en Google Play!</string>
 
     <string name="alert_cancel_print_title">Abortar la impresión actual</string>
     <string name="alert_cancel_print_msg">La impresión será cancelada, ¿está seguro?\nUna impresión cancelada no puede ser restaurada a su estado actual, por lo que su trabajo se perderá.</string>
