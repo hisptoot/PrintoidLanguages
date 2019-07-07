@@ -25,7 +25,7 @@
     <string name="menu_octoprint_web">OctoPrint Webansicht</string>
     <string name="menu_files">Dateien</string>
     <string name="menu_spools">Spulenverwaltung</string>
-    <string name="menu_printoid_web">Printoid Website</string>
+    <string name="menu_printoid_web">3DQuality Website</string>
     <string name="menu_timelapse">Zeitraffer</string>
     <string name="menu_alarms">Warnungen</string>
     <string name="menu_contact_developer">Contact developer</string>

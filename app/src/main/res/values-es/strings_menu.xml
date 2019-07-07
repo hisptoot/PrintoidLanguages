@@ -25,7 +25,7 @@
     <string name="menu_octoprint_web">Interfaz-Web Octoprint</string>
     <string name="menu_files">Archivos</string>
     <string name="menu_spools">Bobinas</string>
-    <string name="menu_printoid_web">Sitio web Printoid</string>
+    <string name="menu_printoid_web">Sitio web 3DQuality</string>
     <string name="menu_timelapse">Timelapses</string>
     <string name="menu_alarms">Alertas</string>
     <string name="menu_contact_developer">Contact developer</string>
