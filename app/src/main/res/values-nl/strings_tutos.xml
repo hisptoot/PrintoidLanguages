@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="tutorial_available_in_pro_version">Beschikbaar in PRO en PREMIUM versie</string>
     <string name="tutorial_available_in_premium_version">Beschikbaar in PREMIUM versie</string>
     <string name="tutorial_only_in_lite_version">Alleen in de LITE-versie</string>
 
@@ -11,8 +10,7 @@
 
     <!-- VERSIONS COMPARATOR -->
     <string name="tutorial_comparator_title">Versies comparator</string>
-    <string name="tutorial_comparator_premium_content">PRO-functies + geavanceerde bediening, widgets &amp; meer…</string>
-    <string name="tutorial_comparator_pro_content">Meerdere OctoPrint-profielen, video, aangepaste besturingselementen, 2D- &amp; 3D-viewer, real-time simulator &amp; meer…</string>
+    <string name="tutorial_comparator_premium_content">Meerdere OctoPrint-profielen, video, aangepaste besturingselementen, 2D- &amp; 3D-viewer, real-time simulator, geavanceerde bediening, widgets &amp; meer…</string>
     <string name="tutorial_comparator_lite_content">Gratis basisfunctiespakket zonder tijdslimiet</string>
     <string name="tutorial_comparator_button_1">Compleet comparator</string>
 

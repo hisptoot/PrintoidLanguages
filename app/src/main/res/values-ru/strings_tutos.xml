@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="tutorial_available_in_pro_version">Доступно в версиях PRO и PREMIUM</string>
     <string name="tutorial_available_in_premium_version">Доступно в версии PREMIUM</string>
     <string name="tutorial_only_in_lite_version">Только в версии LITE</string>
 
@@ -11,8 +10,7 @@
 
     <!-- VERSIONS COMPARATOR -->
     <string name="tutorial_comparator_title">Отличия версий</string>
-    <string name="tutorial_comparator_premium_content">Возможности PRO + расширенный контроль, виджеты и многое другое…</string>
-    <string name="tutorial_comparator_pro_content">Несколько профилей OctoPrint, видео, пользовательские элементы управления, просмотрщик 2D и 3D, симулятор в реальном времени и многое другое…</string>
+    <string name="tutorial_comparator_premium_content">Несколько профилей OctoPrint, видео, пользовательские элементы управления, просмотрщик 2D и 3D, симулятор в реальном времени, расширенный контроль, виджеты и многое другое…</string>
     <string name="tutorial_comparator_lite_content">Бесплатный базовый пакет функций и неограниченное время использования</string>
     <string name="tutorial_comparator_button_1">Все отличия</string>
 

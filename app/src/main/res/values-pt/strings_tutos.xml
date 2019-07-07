@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="tutorial_available_in_pro_version">Disponível nas versões PRO e PREMIUM</string>
     <string name="tutorial_available_in_premium_version">Disponível na versão PREMIUM</string>
     <string name="tutorial_only_in_lite_version">Apenas na versão LITE</string>
 
@@ -11,11 +10,7 @@
 
     <!-- VERSIONS COMPARATOR -->
     <string name="tutorial_comparator_title">Comparador de versões</string>
-    <string name="tutorial_comparator_premium_title" translatable="false">Printoid PREMIUM</string>
-    <string name="tutorial_comparator_premium_content">Recursos PRO + controle avançado, widgets e muito mais…</string>
-    <string name="tutorial_comparator_pro_title" translatable="false">Printoid PRO</string>
-    <string name="tutorial_comparator_pro_content">Vários perfis OctoPrint, streaming de vídeo, comandos personalizados, visualizadores 2D &amp; 3D, simulador em tempo real &amp; mais</string>
-    <string name="tutorial_comparator_lite_title" translatable="false">Printoid LITE</string>
+    <string name="tutorial_comparator_premium_content">Vários perfis OctoPrint, streaming de vídeo, comandos personalizados, visualizadores 2D &amp; 3D, simulador em tempo real, controle avançado, widgets e muito mais…</string>
     <string name="tutorial_comparator_lite_content">Pacote gratuito de recursos por um período ilimitado</string>
     <string name="tutorial_comparator_button_1">Comparador de versões completas</string>
 
