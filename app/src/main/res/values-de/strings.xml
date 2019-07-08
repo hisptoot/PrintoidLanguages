@@ -55,6 +55,7 @@
     <string name="password">Kennwort</string>
     <string name="copy">Kopieren</string>
     <string name="copied_to_clipboard">In die Zwischenablage kopiert</string>
+    <string name="never_ask_again">Frag nie wieder</string>
 
     <string name="heated_bed">Beheiztes Bett</string>
     <string name="heated_head">Beheizter Kopf %d</string>

@@ -55,6 +55,7 @@
     <string name="password">Senha</string>
     <string name="copy">Copiar</string>
     <string name="copied_to_clipboard">Copiado para a área de transferência</string>
+    <string name="never_ask_again">Nunca mais pergunte</string>
 
     <string name="heated_bed">Cama aquecida</string>
     <string name="heated_head">Cabeçote aquecido %d</string>
