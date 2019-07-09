@@ -49,7 +49,7 @@
 
     <string name="alert_cant_delete_msg">Printoid ne peut pas supprimer %s</string>
 
-    <string name="files_new_folder">Nouveau dossier</string>
+    <string name="files_create_new_folder">Nouveau dossier</string>
     <string name="files_move_file">Déplacer</string>
     <string name="files_upload_file">Envoyer</string>
     <string name="files_sort_files">Trier</string>

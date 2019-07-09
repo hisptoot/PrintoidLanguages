@@ -49,7 +49,7 @@
 
     <string name="alert_cant_delete_msg">O Printoid não pode excluir %s</string>
 
-    <string name="files_new_folder">Nova pasta</string>
+    <string name="files_create_new_folder">Nova pasta</string>
     <string name="files_move_file">Mover arquivo</string>
     <string name="files_upload_file">Carregar arquivo</string>
     <string name="files_sort_files">Ordenar arquivos</string>

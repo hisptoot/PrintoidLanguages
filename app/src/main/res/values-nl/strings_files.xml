@@ -49,7 +49,7 @@
 
     <string name="alert_cant_delete_msg">Printoid kan niet verwijderen %s</string>
 
-    <string name="files_new_folder">Nieuwe map</string>
+    <string name="files_create_new_folder">Nieuwe map</string>
     <string name="files_move_file">Verplaats</string>
     <string name="files_upload_file">Verstuur</string>
     <string name="files_sort_files">Sorteer</string>

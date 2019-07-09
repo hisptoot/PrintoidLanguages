@@ -49,7 +49,7 @@
 
     <string name="alert_cant_delete_msg">Printoid не может удалить %s</string>
 
-    <string name="files_new_folder">Новая папка</string>
+    <string name="files_create_new_folder">Новая папка</string>
     <string name="files_move_file">Переместить</string>
     <string name="files_upload_file">Загрузить</string>
     <string name="files_sort_files">Cортировать</string>
