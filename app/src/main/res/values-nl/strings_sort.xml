@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="sort_method">Selecteer een sorteer methode:</string>
+    <string name="sort_method">Sorteer bestanden op:</string>
     <string name="sort_name_ascending">Alphabetisch</string>
     <string name="sort_name_descending">Alphabetisch omgekeerd</string>
     <string name="sort_oldest_first">Oudste eerst</string>

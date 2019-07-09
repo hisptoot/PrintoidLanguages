@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="sort_method">Seleziona il metodo di ordinamento:</string>
+    <string name="sort_method">Ordina i file per:</string>
     <string name="sort_name_ascending">Alfabetico</string>
     <string name="sort_name_descending">Alfabetico Invertito</string>
     <string name="sort_oldest_first">Prima il file più vecchio</string>
