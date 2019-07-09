@@ -32,9 +32,10 @@
     <string name="move_file_error_sdcard_msg">Printoid não pode mover um arquivo do SDCARD!</string>
 
     <string name="upload_file_title">Carregar arquivo</string>
-    <string name="upload_file_message">Carregar o arquivo %s para o seguinte destino:</string>
+    <string name="upload_file_message">Deseja carregar o arquivo %s no SDCARD da sua impressora 3D ou localmente para o seu servidor OctoPrint?</string>
     <string name="upload_file_done">Arquivo carregado</string>
-    <string name="upload_file_select">Selecione a fonte para o arquivo a ser enviado para o seu servidor:</string>
+    <string name="upload_location_octoprint">Servidor OctoPrint</string>
+    <string name="upload_location_sdcard">Impressora SDCARD</string>
 
     <string name="downloading_file">Baixando o arquivo&#8230;</string>
     <string name="file_deleted">Arquivo excluído do OctoPrint</string>

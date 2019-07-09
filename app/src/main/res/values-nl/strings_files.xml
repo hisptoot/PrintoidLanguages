@@ -32,9 +32,10 @@
     <string name="move_file_error_sdcard_msg">Printoid kan dit bestand van de SD kaart niet verplaatsen!</string>
 
     <string name="upload_file_title">Verstuur bestand</string>
-    <string name="upload_file_message">Verstuur bestand %s naar de volgende bestemming:</string>
+    <string name="upload_file_message">Wilt u het bestand %s uploaden op de SDCARD van uw 3D-printer of lokaal naar uw OctoPrint-server?</string>
     <string name="upload_file_done">Bestand verzonden</string>
-    <string name="upload_file_select">Selecteer de bron voor het bestand dat moet worden geüpload naar uw server:</string>
+    <string name="upload_location_octoprint">OctoPrint-server</string>
+    <string name="upload_location_sdcard">Printer SDCARD</string>
 
     <string name="downloading_file">Ontvang bestand&#8230;</string>
     <string name="file_deleted">Bestand verwijderd uit OctoPrint</string>
