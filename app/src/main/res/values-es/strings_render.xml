@@ -20,8 +20,7 @@
     <string name="load_file_alert_title">Renderizado fallido</string>
     <string name="load_file_alert_msg">El renderizado 3D ha fallado para este archivo, por favor reintente o contante con el desarrollador de Printoid</string>
 
-    <string name="render_selected_layer">%1$d / %2$d</string>
-    <string name="render_layer">Capa:</string>
+    <string name="render_selected_layer">Capa: %1$d / %2$d</string>
     <string name="render_selected_layer_z">Z: %s</string>
     <string name="render_Z">Z:</string>
 

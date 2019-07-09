@@ -22,8 +22,7 @@
     <string name="load_file_alert_title">Render failed</string>
     <string name="load_file_alert_msg">The 3D render has failed for this file, please retry or contact the Printoid\'s developer</string>
 
-    <string name="render_selected_layer">%1$d / %2$d</string>
-    <string name="render_layer">Layer:</string>
+    <string name="render_selected_layer">Layer: %1$d / %2$d</string>
     <string name="render_selected_layer_z">Z: %s</string>
     <string name="render_Z">Z:</string>
 

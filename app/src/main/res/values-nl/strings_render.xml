@@ -20,8 +20,7 @@
     <string name="load_file_alert_title">Weergave mislukt</string>
     <string name="load_file_alert_msg">De 3D weergave voor dit bestand is mislukt. Probeer het opnieuw of neem contact op met de Printoid ontwikkelaar</string>
 
-    <string name="render_selected_layer">%1$d / %2$d</string>
-    <string name="render_layer">Laag :</string>
+    <string name="render_selected_layer">Laag : %1$d / %2$d</string>
     <string name="render_selected_layer_z">Z : %s</string>
     <string name="render_Z">Z :</string>
 

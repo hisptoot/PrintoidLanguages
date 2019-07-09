@@ -20,8 +20,7 @@
     <string name="load_file_alert_title">Render non tiuscito</string>
     <string name="load_file_alert_msg">Il rendering 3D non è riuscito per questo file, riprovare o contattare lo sviluppatore del Printoid</string>
 
-    <string name="render_selected_layer">%1$d / %2$d</string>
-    <string name="render_layer">Strato:</string>
+    <string name="render_selected_layer">Strato: %1$d / %2$d</string>
     <string name="render_selected_layer_z">Z: %s</string>
     <string name="render_Z">Z:</string>
 

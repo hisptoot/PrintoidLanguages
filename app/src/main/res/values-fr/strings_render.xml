@@ -20,8 +20,7 @@
     <string name="load_file_alert_title">Rendu échoué</string>
     <string name="load_file_alert_msg">Le rendu 3D a échoué pour ce fichier, veuillez réessayer ou contacter le développeur de Printoid</string>
 
-    <string name="render_selected_layer">%1$d / %2$d</string>
-    <string name="render_layer">Couche :</string>
+    <string name="render_selected_layer">Couche : %1$d / %2$d</string>
     <string name="render_selected_layer_z">Z : %s</string>
     <string name="render_Z">Z :</string>
 
