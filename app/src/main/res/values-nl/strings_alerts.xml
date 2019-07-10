@@ -21,17 +21,17 @@
     <string name="alert_restart_print_title">Start de huidige afdruk opnieuw</string>
     <string name="alert_restart_print_msg">Deze afdruktaak wordt opnieuw gestart, weet u het zeker?\nDe vorige taak kon niet worden herladen naar de vorige staat, zodat uw werkelijke werk verloren gaat.</string>
 
-    <string name="alert_pro_feature_title">Functionaliteit van de Pro versie</string>
-    <string name="alert_pro_feature_streaming_msg">U werkt met de gratis Printoid versie, video streaming zit in de PRO versie. Download de PRO versie via Google Play!</string>
-    <string name="alert_pro_feature_plugins_msg">U werkt met de gratis Printoid versie, OctoPrint Plugins zit in de PRO versie. Download de PRO versie via Google Play!</string>
-    <string name="alert_pro_feature_screensaver_msg">U werkt met de gratis Printoid versie. screensaver zit in de PRO versie. Download de PRO versie via Google Play!</string>
-    <string name="alert_pro_feature_command_msg">U werkt met de gratis Printoid versie, SSH en GCODE commando\'s zitten in de PRO versie. Download de PRO versie via Google Play!</string>
-    <string name="alert_pro_feature_octoprint_web_interface_msg">U werkt met de gratis Printoid versie, toegang tot de OctoPrint web interface zit in de PRO versie. Download de PRO versie via Google Play!</string>
-    <string name="alert_pro_feature_multi_profile_msg">U werkt met de gratis Printoid versie, om met meerdere OctoPrint profielen te werken heeft u de PRO versie nodig. Download de PRO versie via Google Play!</string>
-    <string name="alert_pro_feature_render_msg">U werkt met de gratis Printoid versie, 3D visualisatie van GCODE &amp; STL\'s zit in de PRO versie. Download de PRO versie via Google Play!</string>
-    <string name="alert_pro_feature_layers_msg">U werkt met de gratis Printoid versie, 2D visualisatie van GCODE zit in de PRO versie. Download de PRO versie via Google Play!</string>
-    <string name="alert_pro_feature_realtime_layers_msg">U werkt met de gratis Printoid versie, real-time inspectie per individuele laag zit in de PRO versie. Download de PRO versie via Google Play!</string>
-    <string name="alert_pro_feature_spools_manager_msg">U werkt met de gratis Printoid versie, se filament spool manager module is beschikbaar in de PRO-versie, download hem nu op Google Play!</string>
+    <string name="alert_pro_feature_title">Functionaliteit van de PREMIUM versie</string>
+    <string name="alert_pro_feature_streaming_msg">U werkt met de gratis Printoid versie, video streaming zit in de PREMIUM versie. Download de PREMIUM versie via Google Play!</string>
+    <string name="alert_pro_feature_plugins_msg">U werkt met de gratis Printoid versie, OctoPrint Plugins zit in de PREMIUM versie. Download de PREMIUM versie via Google Play!</string>
+    <string name="alert_pro_feature_screensaver_msg">U werkt met de gratis Printoid versie. screensaver zit in de PREMIUM versie. Download de PREMIUM versie via Google Play!</string>
+    <string name="alert_pro_feature_command_msg">U werkt met de gratis Printoid versie, SSH en GCODE commando\'s zitten in de PREMIUM versie. Download de PREMIUM versie via Google Play!</string>
+    <string name="alert_pro_feature_octoprint_web_interface_msg">U werkt met de gratis Printoid versie, toegang tot de OctoPrint web interface zit in de PREMIUM versie. Download de PREMIUM versie via Google Play!</string>
+    <string name="alert_pro_feature_multi_profile_msg">U werkt met de gratis Printoid versie, om met meerdere OctoPrint profielen te werken heeft u de PREMIUM versie nodig. Download de PREMIUM versie via Google Play!</string>
+    <string name="alert_pro_feature_render_msg">U werkt met de gratis Printoid versie, 3D visualisatie van GCODE &amp; STL\'s zit in de PREMIUM versie. Download de PREMIUM versie via Google Play!</string>
+    <string name="alert_pro_feature_layers_msg">U werkt met de gratis Printoid versie, 2D visualisatie van GCODE zit in de PREMIUM versie. Download de PREMIUM versie via Google Play!</string>
+    <string name="alert_pro_feature_realtime_layers_msg">U werkt met de gratis Printoid versie, real-time inspectie per individuele laag zit in de PREMIUM versie. Download de PREMIUM versie via Google Play!</string>
+    <string name="alert_pro_feature_spools_manager_msg">U werkt met de gratis Printoid versie, se filament spool manager module is beschikbaar in de PREMIUM-versie, download hem nu op Google Play!</string>
 
     <string name="alert_delete_printer_profile_title">Verwijder dit profiel</string>
     <string name="alert_delete_printer_profile_message">Dit OctoPrint profiel zal verwijderd worden, wilt u dit echt?\nU kunt deze actie niet terug draaien.</string>

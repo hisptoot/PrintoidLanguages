@@ -8,7 +8,7 @@
 
     <!-- CONNECTOR STEP 2 (CHECK IP) -->
     <string name="connector_communication_failed_title">Echec de la connexion</string>
-    <string name="connector_communication_failed_msg"><![CDATA[Printoid ne peut pas communiquer avec votre serveur OctoPrint via %1$s. Veuillez vérifier votre connexion réseau ainsi que votre configuration et réessayer.<br><br><b>Informations supplémentaires :</b><br><br>%2$s]]></string>
+    <string name="connector_communication_failed_msg"><![CDATA[Printoid ne peut pas communiquer avec votre serveur OctoPrint via %1$s.<br><br><b>Détails :</b><br><br>%2$s]]></string>
 
     <!-- EXTRA MSG: VPN ACTIVE-->
     <string name="connector_failed_vpn">\n\nNote: Printoid a détecté un VPN actif sur votre appareil, celui-ci peut impacter la connexion à votre serveur OctoPrint.</string>
@@ -21,14 +21,14 @@
     <string name="connector_communication_canceled_with">Connexion avec %s annulée</string>
 
     <!-- CONNECTOR ERRORS -->
-    <string name="connector_error_format_multiple_ip"><![CDATA[Premier test :<b>%1$s</b><br>-> %2$s<br><br>Second test :<b>%3$s</b><br>-> %4$s]]></string>
+    <string name="connector_error_format_multiple_ip"><![CDATA[Connexion à <b>%1$s</b><br>-> %2$s<br><br>Connexion à <b>%3$s</b><br>-> %4$s]]></string>
     <string name="connector_error_empty_response">Réponse vide</string>
     <string name="connector_error_none_response">Pas de réponse</string>
     <string name="connector_error_connectivity_response">Pas de connectivité ou signal trop mauvais, vérifiez votre réseau</string>
     <string name="connector_error_invalid_api_key">Clé d\'API invalide</string>
     <string name="connector_error_missing_api_key">Clé d\'API manquante</string>
-    <string name="connector_error_unauthorized">Authorisation refusée, peut-être devriez-vous activer l\'authentification avec basic auth dans les paramètres de Printoid ou vérifier vos identifiants</string>
-    <string name="connector_error_http_error">Erreur requête HTTP : %2$d (%1$s)</string>
+    <string name="connector_error_unauthorized">Autorisation refusée, vérifiez votre clé d\'API et/ou vos identifiants de basic authentication</string>
+    <string name="connector_error_http_error">Erreur de connexion : %2$d (%1$s)</string>
     <string name="connector_error_parsing_exception">Format d\'API inconnu, contactez le développeur de Printoid</string>
 
     <!-- NETWORK ISSUE -->

@@ -20,8 +20,7 @@
     <string name="load_file_alert_title">Сбой отрисовки</string>
     <string name="load_file_alert_msg">Ошибка 3D отрисовки этого файла, попробуйте вновь или свяжитесь с разработчиком Printoid\'а</string>
 
-    <string name="render_selected_layer">%1$d / %2$d</string>
-    <string name="render_layer">Слой:</string>
+    <string name="render_selected_layer">Слой: %1$d / %2$d</string>
     <string name="render_selected_layer_z">Z: %s</string>
     <string name="render_Z">Z:</string>
 

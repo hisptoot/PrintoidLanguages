@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="sort_method">Сортировать по:</string>
+    <string name="sort_method">Сортировать файлы по:</string>
     <string name="sort_name_ascending">А-Я</string>
     <string name="sort_name_descending">Я-А</string>
     <string name="sort_oldest_first">Сначала старые файлы</string>
@@ -11,5 +11,7 @@
     <string name="sort_most_success_first">Сначала более успешные</string>
     <string name="sort_less_success_first">Более успешные в конце</string>
     <string name="sort_favorites_only">Tолько избранные</string>
+
+    <string name="sort_method_timelapses">Сортировать интервалы по:</string>
 
 </resources>

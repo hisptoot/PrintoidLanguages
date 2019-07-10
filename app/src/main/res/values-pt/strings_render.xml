@@ -20,8 +20,7 @@
     <string name="load_file_alert_title">Falha na renderização</string>
     <string name="load_file_alert_msg">A renderização 3D deste arquivo falhou. Tente novamente ou entre em contato com o desenvolvedor do Printoid.</string>
 
-    <string name="render_selected_layer">%1$d / %2$d</string>
-    <string name="render_layer">Camada:</string>
+    <string name="render_selected_layer">Camada: %1$d / %2$d</string>
     <string name="render_selected_layer_z">Z: %s</string>
     <string name="render_Z">Z:</string>
 

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="sort_method">Seleziona il metodo di ordinamento:</string>
+    <string name="sort_method">Ordina i file per:</string>
     <string name="sort_name_ascending">Alfabetico</string>
     <string name="sort_name_descending">Alfabetico Invertito</string>
     <string name="sort_oldest_first">Prima il file più vecchio</string>
@@ -11,5 +11,7 @@
     <string name="sort_most_success_first">Prima quelli andati buon fine</string>
     <string name="sort_less_success_first">Prima quelli non andati buon fine</string>
     <string name="sort_favorites_only">Solo preferiti</string>
+
+    <string name="sort_method_timelapses">Ordina i time-lapse per:</string>
 
 </resources>

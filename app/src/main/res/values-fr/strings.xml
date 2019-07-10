@@ -14,7 +14,7 @@
     <string name="quit">Quitter</string>
     <string name="terminate">Terminer</string>
     <string name="improve">Améliorer</string>
-    <string name="search">Rechercher</string>
+    <string name="search">Rechercher dans les fichiers…</string>
     <string name="retry">Réessayer</string>
     <string name="set_home">Initialisation XYZ</string>
     <string name="backup">Sauver</string>
@@ -55,6 +55,7 @@
     <string name="password">Mot de passe</string>
     <string name="copy">Copier</string>
     <string name="copied_to_clipboard">Copié dans le presse-papier</string>
+    <string name="never_ask_again">Ne plus demander</string>
 
     <string name="heated_bed">Lit chauffant</string>
     <string name="heated_head">Tête chauffante %d</string>

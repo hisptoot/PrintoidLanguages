@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="tutorial_available_in_pro_version">Verfügbar in den PRO- und PREMIUM-Versionen</string>
     <string name="tutorial_available_in_premium_version">Erhältlich in der PREMIUM-Version</string>
     <string name="tutorial_only_in_lite_version">Nur in der LITE-Version</string>
 
@@ -11,8 +10,7 @@
 
     <!-- VERSIONS COMPARATOR -->
     <string name="tutorial_comparator_title">Versionen Komparator</string>
-    <string name="tutorial_comparator_premium_content">PRO-Funktionen + erweiterte Steuerung, Widgets &amp; mehr…</string>
-    <string name="tutorial_comparator_pro_content">OctoPrint Multiple Profile, Video, benutzerdefinierte Steuerelemente, 2D-Viewer &amp; 3D, Echtzeitsimulator &amp; mehr…</string>
+    <string name="tutorial_comparator_premium_content">OctoPrint Multiple Profile, Video, benutzerdefinierte Steuerelemente, 2D-Viewer &amp; 3D, Echtzeitsimulator, erweiterte Steuerung, Widgets &amp; mehr…</string>
     <string name="tutorial_comparator_lite_content">Kostenloses Basic Feature Pack &amp; kein Zeitlimit</string>
     <string name="tutorial_comparator_button_1">Kompletter Vergleicher</string>
 

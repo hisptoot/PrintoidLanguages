@@ -13,7 +13,7 @@
     <string name="previous">Previous</string>
     <string name="quit">Quit</string>
     <string name="terminate">Terminate</string>
-    <string name="search">Search</string>
+    <string name="search">Search in files…</string>
     <string name="retry">Retry</string>
     <string name="set_home">Home XYZ</string>
     <string name="backup">Backup</string>
@@ -55,6 +55,7 @@
     <string name="password">Password</string>
     <string name="copy">Copy</string>
     <string name="copied_to_clipboard">Copied to clipboard</string>
+    <string name="never_ask_again">Never ask again</string>
 
     <string name="google_drive" translatable="false">Drive</string>
 

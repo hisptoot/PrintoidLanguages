@@ -13,7 +13,7 @@
     <string name="previous">Voorgaand</string>
     <string name="quit">Afbreken</string>
     <string name="terminate">Beeindigen</string>
-    <string name="search">Zoeken</string>
+    <string name="search">Zoeken in bestanden…</string>
     <string name="improve">Verbeteren</string>
     <string name="retry">Opnieuw</string>
     <string name="set_home">Initialisatie XYZ</string>
@@ -55,6 +55,7 @@
     <string name="password">Wachtwoord</string>
     <string name="copy">Kopiëren</string>
     <string name="copied_to_clipboard">Gekopieerd naar het klembord</string>
+    <string name="never_ask_again">Nooit meer vragen</string>
 
     <string name="heated_bed">Bed</string>
     <string name="heated_head">Kop %d</string>

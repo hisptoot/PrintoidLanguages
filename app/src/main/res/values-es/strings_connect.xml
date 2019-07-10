@@ -8,7 +8,7 @@
 
     <!-- CONNECTOR STEP 2 (CHECK IP) -->
     <string name="connector_communication_failed_title">La conexión falló</string>
-    <string name="connector_communication_failed_msg"><![CDATA[Printoid no se puede conectar con su servidor OctoPrint desde %1$s. Por favor revise su conexión de red y su configuración después reintente.<br><br><b>Más información:</b><br><br>%2$s]]></string>
+    <string name="connector_communication_failed_msg"><![CDATA[Printoid no se puede conectar con su servidor OctoPrint desde %1$s.<br><br><b>Detalles:</b><br><br>%2$s]]></string>
 
     <!-- EXTRA MSG: VPN ACTIVE-->
     <string name="connector_failed_vpn">\n\nNota: Printoid detectó una VPN activa en su dispositivo, que puede afectar la conexión con su servidor OctoPrint.</string>
@@ -21,14 +21,14 @@
     <string name="connector_communication_canceled_with">Conexión con %s cancelada</string>
 
     <!-- CONNECTOR ERRORS -->
-    <string name="connector_error_format_multiple_ip"><![CDATA[Primer examen: <b>%1$s</b><br>-> %2$s<br><br>Segundo examen: <b>%3$s</b><br>-> %4$s]]></string>
+    <string name="connector_error_format_multiple_ip"><![CDATA[Iniciar sesión en <b>%1$s</b><br>-> %2$s<br><br>Iniciar sesión en <b>%3$s</b><br>-> %4$s]]></string>
     <string name="connector_error_empty_response">Respuesta vacía</string>
     <string name="connector_error_none_response">Sin respuesta</string>
     <string name="connector_error_connectivity_response">Sin conectividad o señal insuficiente, por favor revise su red actual</string>
     <string name="connector_error_invalid_api_key">Clave API inválida</string>
     <string name="connector_error_missing_api_key">Clave API perdida</string>
     <string name="connector_error_unauthorized">Autorización fallida, puede que tenga que activar la conexión con autenticación básica en los ajustes de Printoid o verifique sus credenciales</string>
-    <string name="connector_error_http_error">Error de solicitud HTTP: %2$d (%1$s)</string>
+    <string name="connector_error_http_error">Error de conexión: %2$d (%1$s)</string>
     <string name="connector_error_parsing_exception">Formato API desconocido, por favor contacte con el desarrolador de Printoid</string>
 
     <!-- NETWORK ISSUE -->

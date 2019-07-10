@@ -5,7 +5,7 @@
     <string name="commands_history_label">Historial GCODE</string>
     <string name="commands_editing_label">Editor de comandos</string>
 
-    <string name="abitrary_gcode_command">Comando GCODE</string>
+    <string name="abitrary_gcode_command">Enviar un comando GCODE…</string>
     <string name="add_command">Añadir nuevo comando</string>
     <string name="add_command_type">Tipo</string>
     <string name="add_command_curl_type">Método</string>

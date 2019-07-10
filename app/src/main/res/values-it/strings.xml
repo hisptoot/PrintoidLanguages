@@ -13,7 +13,7 @@
     <string name="previous">Precedente</string>
     <string name="quit">Abbandona</string>
     <string name="terminate">Termina</string>
-    <string name="search">Cerca</string>
+    <string name="search">Cerca nei file…</string>
     <string name="retry">Riprova</string>
     <string name="set_home">XYZ home</string>
     <string name="backup">Backup</string>
@@ -55,6 +55,7 @@
     <string name="password">Password</string>
     <string name="copy">Copiare</string>
     <string name="copied_to_clipboard">Copiato negli appunti</string>
+    <string name="never_ask_again">Non chiedere mai più</string>
 
     <string name="heated_bed">Heated bed</string>
     <string name="heated_head">Heated head %d</string>

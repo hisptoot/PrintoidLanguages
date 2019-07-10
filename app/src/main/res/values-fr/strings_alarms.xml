@@ -11,7 +11,7 @@
     <string name="alarm_type_gcode_command">Exécution de commande GCODE</string>
     <string name="alarm_type_z_height">Hauteur en Z</string>
 
-    <string name="alerts_list_empty">Pas d\'alertes crées</string>
+    <string name="alerts_list_empty">Pas encore d\'alerte crée</string>
 
     <string name="alarm_setting_type">Type d\'alerte</string>
     <string name="alarm_setting_sensitivity">Sensibilité de l\'alerte (+ X% de la valeur)</string>

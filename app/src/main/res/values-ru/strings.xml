@@ -14,7 +14,7 @@
     <string name="quit">Выход</string>
     <string name="terminate">Прервать</string>
     <string name="improve">Улучшить</string>
-    <string name="search">Поиск</string>
+    <string name="search">Поиск в файлах…</string>
     <string name="retry">Повтор</string>
     <string name="set_home">Домой XYZ</string>
     <string name="backup">Сохранить</string>
@@ -55,6 +55,7 @@
     <string name="password">Пароль</string>
     <string name="copy">Kопировать</string>
     <string name="copied_to_clipboard">Скопировано в буфер обмена</string>
+    <string name="never_ask_again">Никогда не спрашивать</string>
 
     <string name="heated_bed">Стол</string>
     <string name="heated_head">Хотэнд %d</string>

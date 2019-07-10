@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="tutorial_available_in_pro_version">Available in the PRO and PREMIUM versions</string>
     <string name="tutorial_available_in_premium_version">Available in the PREMIUM version</string>
+    <string name="tutorial_available_in_pro_version" translatable="false">@string/tutorial_available_in_premium_version</string>
     <string name="tutorial_only_in_lite_version">Only in the LITE version</string>
 
     <!-- WELCOME -->
@@ -12,9 +12,7 @@
     <!-- VERSIONS COMPARATOR -->
     <string name="tutorial_comparator_title">Versions comparator</string>
     <string name="tutorial_comparator_premium_title" translatable="false">Printoid PREMIUM</string>
-    <string name="tutorial_comparator_premium_content">PRO features + advanced control, widgets and more…</string>
-    <string name="tutorial_comparator_pro_title" translatable="false">Printoid PRO</string>
-    <string name="tutorial_comparator_pro_content">Multiple OctoPrint profiles, streaming, custom commands, 2D &amp; 3D visualizers, real-time simulator &amp; more…</string>
+    <string name="tutorial_comparator_premium_content">Multiple OctoPrint profiles, streaming, custom commands, 2D &amp; 3D visualizers, real-time simulator, advanced control, widgets and more…</string>
     <string name="tutorial_comparator_lite_title" translatable="false">Printoid LITE</string>
     <string name="tutorial_comparator_lite_content">Basic pack of features for free &amp; for an unlimited duration</string>
     <string name="tutorial_comparator_button_1">Full versions comparator</string>
