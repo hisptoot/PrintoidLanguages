@@ -53,7 +53,7 @@
     <string name="printer_disconnected">Printer disconnected</string>
 
     <!-- PRINTER CONNECTION SETTINGS -->
-    <string name="select_tty_title">Connection to a printer</string>
+    <string name="select_tty_title">Connection with a printer</string>
     <string name="select_tty_keep">Save connection settings</string>
     <string name="select_tty">Serial port</string>
     <string name="select_tty_profile">Printer profile</string>
