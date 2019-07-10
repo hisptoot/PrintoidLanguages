@@ -13,7 +13,7 @@
     <string name="previous">Previous</string>
     <string name="quit">Quit</string>
     <string name="terminate">Terminate</string>
-    <string name="search">Search</string>
+    <string name="search">Search in files…</string>
     <string name="retry">Retry</string>
     <string name="set_home">Home XYZ</string>
     <string name="backup">Backup</string>

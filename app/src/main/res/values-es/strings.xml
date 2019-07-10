@@ -14,7 +14,7 @@
     <string name="quit">Cerrar</string>
     <string name="improve">Mejorar</string>
     <string name="terminate">Terminar</string>
-    <string name="search">Buscar</string>
+    <string name="search">Buscar en archivos…</string>
     <string name="retry">Reintentar</string>
     <string name="set_home">XYZ home</string>
     <string name="backup">Copia de seguridad</string>
