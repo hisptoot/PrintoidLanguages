@@ -11,5 +11,7 @@
     <string name="sort_most_success_first">Succès (le + d\'abord)</string>
     <string name="sort_less_success_first">Succès (le - d\'abord)</string>
     <string name="sort_favorites_only">Uniquement les favoris</string>
-    
+
+    <string name="sort_method_timelapses">Trier les timelapses par :</string>
+
 </resources>

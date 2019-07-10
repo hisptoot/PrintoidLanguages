@@ -11,5 +11,7 @@
     <string name="sort_most_success_first">Meest succesvolle eerst</string>
     <string name="sort_less_success_first">Minst succesvolle eerst</string>
     <string name="sort_favorites_only">Alleen favorieten</string>
-    
+
+    <string name="sort_method_timelapses">Sorteer time-lapses door:</string>
+
 </resources>

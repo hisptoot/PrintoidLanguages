@@ -12,4 +12,6 @@
     <string name="sort_less_success_first">Более успешные в конце</string>
     <string name="sort_favorites_only">Tолько избранные</string>
 
+    <string name="sort_method_timelapses">Сортировать интервалы по:</string>
+
 </resources>

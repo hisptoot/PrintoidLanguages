@@ -12,4 +12,6 @@
     <string name="sort_less_success_first">Erfolg (weniger zuerst)</string>
     <string name="sort_favorites_only">Nur Favoriten anzeigen</string>
 
+    <string name="sort_method_timelapses">Zeitraffer sortieren nach:</string>
+
 </resources>

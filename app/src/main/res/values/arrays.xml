@@ -78,6 +78,15 @@
         <item>@string/sort_favorites_only</item>
     </string-array>
 
+    <string-array name="sort_method_timelapses_array" translatable="false">
+        <item>@string/sort_name_ascending</item>
+        <item>@string/sort_name_descending</item>
+        <item>@string/sort_newest_first</item>
+        <item>@string/sort_oldest_first</item>
+        <item>@string/sort_shortest_first</item>
+        <item>@string/sort_longest_first</item>
+    </string-array>
+
     <string-array name="setting_sound_array">
         <item>Sound 1</item>
         <item>Sound 2</item>

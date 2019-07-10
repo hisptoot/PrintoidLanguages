@@ -12,4 +12,6 @@
     <string name="sort_less_success_first">Prima quelli non andati buon fine</string>
     <string name="sort_favorites_only">Solo preferiti</string>
 
+    <string name="sort_method_timelapses">Ordina i time-lapse per:</string>
+
 </resources>

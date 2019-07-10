@@ -12,4 +12,6 @@
     <string name="sort_less_success_first">Primeiro a de menor sucesso</string>
     <string name="sort_favorites_only">Somente as favoritas</string>
 
+    <string name="sort_method_timelapses">Ordenar timelapses por:</string>
+
 </resources>
