@@ -5,7 +5,7 @@
     <string name="commands_history_label">GCODE Protokoll</string>
     <string name="commands_editing_label">Befehlseditor</string>
 
-    <string name="abitrary_gcode_command">GCODE-Befehl direkt eingeben</string>
+    <string name="abitrary_gcode_command">Senden Sie einen GCODE-Befehl…</string>
     <string name="add_command">Neuen Befehl hinzufügen</string>
     <string name="add_command_type">Typ</string>
     <string name="add_command_curl_type">Methode</string>

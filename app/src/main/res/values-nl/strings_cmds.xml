@@ -5,7 +5,7 @@
     <string name="commands_history_label">GCODE historie</string>
     <string name="commands_editing_label">Commando editor</string>
 
-    <string name="abitrary_gcode_command">GCODE commando</string>
+    <string name="abitrary_gcode_command">Stuur een GCODE-opdracht…</string>
     <string name="add_command">Voeg een commando toe</string>
     <string name="add_command_name">Naam van het commando</string>
     <string name="add_command_type">Type</string>
