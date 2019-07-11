@@ -25,6 +25,7 @@
     <string name="setting_title_accessibility">Accessibility settings</string>
     <string name="setting_title_security">Security settings</string>
     <string name="setting_title_pick_color">%1$s widget background (%2$s)</string>
+    <string name="setting_title_pick_text_color">%1$s widget text (%2$s)</string>
     <string name="setting_title_toolbar">Toolbar settings</string>
     <string name="setting_title_language">Locale settings</string>
     <string name="setting_title_account">Printoid account</string>
@@ -277,5 +278,8 @@
     <string name="baby_stepping_reprap_121" translatable="false">RepRapFirmware (v1.21+)</string>
     <string name="baby_stepping_repetier" translatable="false">Repetier</string>
     <string name="baby_stepping_marlin_117" translatable="false">Marlin (v1.1.7+)</string>
+
+    <string name="widget_setting_text_color" translatable="false">Text</string>
+    <string name="widget_setting_background_color" translatable="false">Back</string>
 
 </resources>

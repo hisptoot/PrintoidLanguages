@@ -22,6 +22,7 @@
     <string name="setting_title_streaming_second">Zweite Kameraeinstellungen</string>
     <string name="setting_title_streaming_tools">Streaming-Tools-Einstellungen</string>
     <string name="setting_title_pick_color">Unterseite des Widget %1$s (%2$s)</string>
+    <string name="setting_title_pick_text_color">Text des Widget %1$s (%2$s)</string>
     <string name="setting_title_toolbar">Symbolleisteneinstellungen</string>
     <string name="setting_title_language">Gebietsschemaeinstellungen</string>
     <string name="setting_title_account">Printoid-Konto</string>

@@ -22,6 +22,7 @@
     <string name="setting_title_streaming_second">Настройки второй камеры</string>
     <string name="setting_title_streaming_tools">Настройки окна видео</string>
     <string name="setting_title_pick_color">Фон виджета %1$s (%2$s)</string>
+    <string name="setting_title_pick_text_color">Текст виджета %1$s (%2$s)</string>
     <string name="setting_title_toolbar">Настройки панели инструментов</string>
     <string name="setting_title_language">Языковые настройки</string>
     <string name="setting_title_account">Учетная запись</string>

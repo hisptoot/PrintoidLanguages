@@ -22,6 +22,7 @@
     <string name="setting_title_accessibility">Configurações de acessibilidade</string>
     <string name="setting_title_security">Configurações de segurança</string>
     <string name="setting_title_pick_color">%1$s widget de segundo plano (%2$s)</string>
+    <string name="setting_title_pick_text_color">%1$s widget texto (%2$s)</string>
     <string name="setting_title_toolbar">Configurações da barra de ferramentas</string>
     <string name="setting_title_language">Configurações de local</string>
     <string name="setting_title_account">Conta Printoid</string>

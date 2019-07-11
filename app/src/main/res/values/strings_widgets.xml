@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string translatable="false" name="widget_snapshot_name">Printoid Snapshot widget</string>
-    <string translatable="false" name="widget_job_name">Printoid Job widget</string>
-    <string translatable="false" name="widget_starter_name">Printoid Profile starter</string>
-    <string translatable="false" name="widget_profiles_name">Printoid Profiles</string>
+    <string translatable="false" name="widget_snapshot_name">Camera widget (snapshot)</string>
+    <string translatable="false" name="widget_job_name">Server status widget</string>
+    <string translatable="false" name="widget_starter_name">Start with a server</string>
+    <string translatable="false" name="widget_profiles_name">List of all servers</string>
 
-    <string translatable="false" name="widget_snapshot_name_reduced">Snapshot</string>
-    <string translatable="false" name="widget_job_name_reduced">Job</string>
+    <string translatable="false" name="widget_snapshot_name_reduced">Camera</string>
+    <string translatable="false" name="widget_job_name_reduced">Status</string>
     <string translatable="false" name="widget_starter_name_reduced">Starter</string>
     <string translatable="false" name="widget_profiles_name_reduced">Profiles</string>
 
