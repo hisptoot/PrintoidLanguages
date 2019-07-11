@@ -22,6 +22,7 @@
     <string name="setting_title_streaming_second">Ajustes de la segunda cámara</string>
     <string name="setting_title_streaming_tools">Herramientas de streaming</string>
     <string name="setting_title_pick_color">Fondo del widget %1$s (%2$s)</string>
+    <string name="setting_title_pick_text_color">Texto del widget %1$s (%2$s)</string>
     <string name="setting_title_toolbar">Ajustes de la barra de herramientas</string>
     <string name="setting_title_language">Ajustes regional</string>
     <string name="setting_title_account">Cuenta Printoid</string>

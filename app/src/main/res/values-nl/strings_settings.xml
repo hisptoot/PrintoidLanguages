@@ -22,6 +22,7 @@
     <string name="setting_title_streaming_second">Tweede camera</string>
     <string name="setting_title_streaming_tools">Tools voor streaming scherm</string>
     <string name="setting_title_pick_color">%1$s widget achtergrond kleur (%2$s)</string>
+    <string name="setting_title_pick_text_color">1$s widget tekst kleur (%2$s)</string>
     <string name="setting_title_toolbar">Werkbalkinstellingen</string>
     <string name="setting_title_language">Locale instellingen</string>
     <string name="setting_title_account">Printoid-account</string>

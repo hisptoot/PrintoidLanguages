@@ -22,6 +22,7 @@
     <string name="setting_title_accessibility">Impostazioni di accessibilità</string>
     <string name="setting_title_security">Impostazioni di sicurezza</string>
     <string name="setting_title_pick_color">%1$s widget background (%2$s)</string>
+    <string name="setting_title_pick_text_color">%1$s widget text (%2$s)</string>
     <string name="setting_title_toolbar">Impostazioni Toolbar</string>
     <string name="setting_title_language">Impostazioni Locali</string>
     <string name="setting_title_account">Printoid account</string>
