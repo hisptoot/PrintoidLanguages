@@ -76,4 +76,6 @@
 
     <string name="download_file_done">Файл загружен во внутреннее хранилище (%s)</string>
 
+    <string name="upload_empty_folder">Эта папка не содержит 3D-файлов!</string>
+
 </resources>

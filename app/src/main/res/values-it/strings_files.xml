@@ -76,4 +76,6 @@
 
     <string name="download_file_done">File scaricato nella memoria interna (%s)</string>
 
+    <string name="upload_empty_folder">Questa cartella non contiene file 3D!</string>
+
 </resources>

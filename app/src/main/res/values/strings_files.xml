@@ -76,4 +76,6 @@
 
     <string name="download_file_done">File downloaded to your internal storage (%s)</string>
 
+    <string name="upload_empty_folder">This folder contains no 3D files!</string>
+
 </resources>
