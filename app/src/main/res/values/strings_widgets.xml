@@ -3,6 +3,8 @@
 
     <string translatable="false" name="widget_snapshot_name">Camera widget (snapshot)</string>
     <string translatable="false" name="widget_job_name">Server status widget</string>
+    <string translatable="false" name="widget_job_name_4x1">Server status widget (4x1)</string>
+    <string translatable="false" name="widget_job_name_4x2">Server status widget (4x2)</string>
     <string translatable="false" name="widget_starter_name">Start with a server</string>
     <string translatable="false" name="widget_profiles_name">List of all servers</string>
 
