@@ -58,6 +58,7 @@
     <string name="never_ask_again">Nunca mais pergunte</string>
 
     <string name="heated_bed">Cama aquecida</string>
+    <string name="heated_chamber">Câmara aquecida</string>
     <string name="heated_head">Cabeçote aquecido %d</string>
     <string name="extruder">Extrusora %d</string>
 
