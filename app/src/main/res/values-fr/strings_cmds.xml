@@ -74,6 +74,15 @@
     <string name="command_tplink_turn_off_error">Erreur lors de la mise OFF du TPLink</string>
     <string name="command_tplink_turn_on_error">Erreur lors de la mise ON du TPLink</string>
 
+    <string name="command_wemo_turn_off_alert_title">Mettre WemoSwitch OFF</string>
+    <string name="command_wemo_turn_off_alert_msg">Votre WemoSwitch est actuellement ON.\n\nSouhaitez-vous le mettre OFF dès maintenant ?\n\nSi vous êtiez en train d\'imprimer, toute progression sera définitivement perdue.</string>
+    <string name="command_wemo_turn_on_alert_title">Mettre WemoSwitch ON</string>
+    <string name="command_wemo_turn_on_alert_msg">Votre WemoSwitch est actuellement OFF.\n\nSouhaitez-vous le mettre ON dès maintenant ?</string>
+    <string name="command_wemo_turned_off">WemoSwitch OFF</string>
+    <string name="command_wemo_turned_on">WemoSwitch ON</string>
+    <string name="command_wemo_turn_off_error">Erreur lors de la mise OFF du WemoSwitch</string>
+    <string name="command_wemo_turn_on_error">Erreur lors de la mise ON du WemoSwitch</string>
+
     <string name="commands_not_loaded_title">Commandes système non disponibles</string>
     <string name="commands_not_loaded_msg">Les commandes systèmes de ce profile ne sont pas encore disponibles, veuillez patienter quelques secondes puis réessayer.</string>
 

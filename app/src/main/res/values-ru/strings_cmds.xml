@@ -74,6 +74,15 @@
     <string name="command_tplink_turn_off_error">Ошибка выключения TPLink</string>
     <string name="command_tplink_turn_on_error">Ошибка включения TPLink</string>
 
+    <string name="command_wemo_turn_off_alert_title">Выключить WemoSwitch питание</string>
+    <string name="command_wemo_turn_off_alert_msg">Ваш WemoSwitch питание включен.\n\nВы хотите отключить его прямо сейчас?\n\nЕсли Вы в настоящее время печатаете, текущее задание будет прервано, и прогресс будет потерян.</string>
+    <string name="command_wemo_turn_on_alert_title">Включить WemoSwitch питание</string>
+    <string name="command_wemo_turn_on_alert_msg">Ваш WemoSwitch питание отключено.\n\nВы хотите включить его прямо сейчас?</string>
+    <string name="command_wemo_turned_off">WemoSwitch питание отключено</string>
+    <string name="command_wemo_turned_on">WemoSwitch питание включено</string>
+    <string name="command_wemo_turn_off_error">Ошибка выключения WemoSwitch</string>
+    <string name="command_wemo_turn_on_error">Ошибка включения WemoSwitch</string>
+
     <string name="commands_not_loaded_title">Системные команды не загружены</string>
     <string name="commands_not_loaded_msg">Системные команды OctoPrint в настоящее время не загружены для этого профиля, подождите несколько секунд и повторите попытку.</string>
 

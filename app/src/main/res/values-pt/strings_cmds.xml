@@ -74,6 +74,15 @@
     <string name="command_tplink_turn_off_error">Desligar erro do TPLink</string>
     <string name="command_tplink_turn_on_error">Ligar erro do TPLink</string>
 
+    <string name="command_wemo_turn_off_alert_title">Desligar o TPLINK</string>
+    <string name="command_wemo_turn_off_alert_msg">Seu TPLINK está atualmente LIGADO.\n\nVocê quer DESLIGÁ-LO agora mesmo?\n\nSe houver uma impressão em andamento, o job atual será abortado e o progresso do mesmo será perdido.</string>
+    <string name="command_wemo_turn_on_alert_title">Ligar o WemoSwitch</string>
+    <string name="command_wemo_turn_on_alert_msg">Seu TPLINK está atualmente DESLIGADO.\n\nVocê quer LIGÁ-LO agora mesmo?</string>
+    <string name="command_wemo_turned_off">WemoSwitch desligado</string>
+    <string name="command_wemo_turned_on">WemoSwitch ligado</string>
+    <string name="command_wemo_turn_off_error">Desligar erro do WemoSwitch</string>
+    <string name="command_wemo_turn_on_error">Ligar erro do WemoSwitch</string>
+
     <string name="commands_not_loaded_title">Comandos do sistema não carregados</string>
     <string name="commands_not_loaded_msg">Os comandos de sistema do OctoPrint não estão atualmente carregados para este perfil, aguarde alguns segundos e tente novamente.</string>
 

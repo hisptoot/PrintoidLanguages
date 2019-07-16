@@ -75,6 +75,15 @@
     <string name="command_tplink_turn_off_error">Schakel de TPLink uit</string>
     <string name="command_tplink_turn_on_error">Schakel de TPLink in</string>
 
+    <string name="command_wemo_turn_off_alert_title">Schakel WemoSwitch uit</string>
+    <string name="command_wemo_turn_off_alert_msg">Je WemoSwitch staat eigenlijk AAN.\n\nWil je het nu UIT zetten?\n\nAls u bezig bent met afdrukken, wordt de huidige taak afgebroken en gaat de voortgang verloren.</string>
+    <string name="command_wemo_turn_on_alert_title">Schakel WemoSwitch in</string>
+    <string name="command_wemo_turn_on_alert_msg">Je WemoSwitch is eigenlijk UIT. Wil je het nu inschakelen?</string>
+    <string name="command_wemo_turned_off">WemoSwitch uitgeschakeld</string>
+    <string name="command_wemo_turned_on">WemoSwitch is ingeschakeld</string>
+    <string name="command_wemo_turn_off_error">Schakel de WemoSwitch uit</string>
+    <string name="command_wemo_turn_on_error">Schakel de WemoSwitch in</string>
+
     <string name="commands_not_loaded_title">Systeemopdrachten niet geladen</string>
     <string name="commands_not_loaded_msg">De OctoPrint-systeemopdrachten zijn momenteel niet geladen voor dit profiel. Wacht een paar seconden en probeer het opnieuw.</string>
 
