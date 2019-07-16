@@ -34,6 +34,8 @@
     <string name="keyboard_action_decrement_ext">decrement ext.%d temperature</string>
     <string name="keyboard_action_increment_bed">increment bed temperature</string>
     <string name="keyboard_action_decrement_bed">decrement bed temperature</string>
+    <string name="keyboard_action_increment_chamber">increment chamber temperature</string>
+    <string name="keyboard_action_decrement_chamber">decrement chamber temperature</string>
     <string name="keyboard_action_select_tool">select tool %d</string>
     <string name="keyboard_action_print">print selected file</string>
     <string name="keyboard_action_pause">pause print</string>

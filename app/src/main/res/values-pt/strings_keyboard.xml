@@ -34,6 +34,8 @@
     <string name="keyboard_action_decrement_ext">diminuir a temperatura do ext.%d</string>
     <string name="keyboard_action_increment_bed">aumentar a temperatura da mesa</string>
     <string name="keyboard_action_decrement_bed">diminuir a temperatura da mesa</string>
+    <string name="keyboard_action_increment_chamber">aumentar a temperatura da câmara</string>
+    <string name="keyboard_action_decrement_chamber">diminuir a temperatura da câmara</string>
     <string name="keyboard_action_select_tool">selecionar a ferramenta %d</string>
     <string name="keyboard_action_print">imprimir arquivo selecionado</string>
     <string name="keyboard_action_pause">pausar impressão</string>

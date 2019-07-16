@@ -53,6 +53,8 @@
     <string translatable="false" name="broadcast_action_decrement_ext9">DEC_EXT10</string>
     <string translatable="false" name="broadcast_action_increment_bed">INC_BED</string>
     <string translatable="false" name="broadcast_action_decrement_bed">DEC_BED</string>
+    <string translatable="false" name="broadcast_action_increment_chamber">INC_CHAMB</string>
+    <string translatable="false" name="broadcast_action_decrement_chamber">DEC_CHAMB</string>
     <string translatable="false" name="broadcast_action_print">PRINT</string>
     <string translatable="false" name="broadcast_action_pause">PAUSE</string>
     <string translatable="false" name="broadcast_action_stop">STOP</string>

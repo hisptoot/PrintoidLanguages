@@ -34,6 +34,8 @@
     <string name="keyboard_action_decrement_ext"> ext.%d Temperatur senken</string>
     <string name="keyboard_action_increment_bed">Bett-Temperatur erhöhen</string>
     <string name="keyboard_action_decrement_bed">Bett-Temperatur senken</string>
+    <string name="keyboard_action_increment_chamber">Kammer-Temperatur erhöhen</string>
+    <string name="keyboard_action_decrement_chamber">Kammer-Temperatur senken</string>
     <string name="keyboard_action_select_tool">Extruder %d auswählen</string>
     <string name="keyboard_action_print">Ausgewählte Datei drucken</string>
     <string name="keyboard_action_pause">Druck pausieren</string>
