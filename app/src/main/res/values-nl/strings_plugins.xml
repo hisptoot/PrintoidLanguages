@@ -8,12 +8,14 @@
     <string name="plugin_desc_psu">Deze OctoPrint-plug-in bestuurt een ATX/AUX-voeding om het energieverbruik en de ruis te verminderen wanneer de printer niet in gebruik is.</string>
     <string name="plugin_desc_autoshutdown">Plugin voor het automatisch afsluiten van het systeem nadat het afdrukken is voltooid. Kan alleen worden geconfigureerd als de server is opgestart.</string>
     <string name="plugin_desc_tp_link">Werk geïnspireerd door OctoPrint-PSUControl en TP-Link WiFi SmartPlug Client, bestuurt deze plug-in een TP-Link Smartplug via de navigatiebalk van OctoPrint.</string>
+    <string name="plugin_desc_wemo">Deze plug-in maakt controle van Belkin Wemo-apparaten mogelijk via navigatiebalkknoppen en gcode-opdrachten.</string>
     <string name="plugin_desc_enclosure">Beheers vrijwel alles wat je zou willen doen op je Raspberry Pi/OctoPrint/behuizing.</string>
     <string name="plugin_desc_navbartemp">Weergavetemperaturen op de navigatiebalk van OctoPrint. Voor gebruikers van Raspberry Pi kan deze plug-in de CPU-temperatuur van de Raspberry Pi weergeven in de titelbalk van de app.</string>
     <string name="plugin_desc_octolapse">Octolapse is ontworpen om gestabiliseerde timelapses van uw afdrukken te maken met zo weinig mogelijk moeite, en het is uiterst configureerbaar. Nu kunt u een zijdezachte timelapse maken zonder aangepaste camerabevestiging, geen aanpassingen van de GCode vereist.</string>
 
     <string name="plugin_message_psu">De plug-in PSU-besturing moet op uw OctoPrint-server zijn geïnstalleerd. Daarna verschijnt het automatisch in het linkermenu van de app.</string>
     <string name="plugin_message_tp_link">De TP-Link SmartPlug moet op uw OctoPrint-server worden geïnstalleerd. Daarna verschijnt het automatisch in het linkermenu van de app.</string>
+    <string name="plugin_message_wemo">De WemoSwitch moet op uw OctoPrint-server worden geïnstalleerd. Daarna verschijnt het automatisch in het linkermenu van de app.</string>
     <string name="plugin_message_enclosure">Deze plug-in wordt zeer binnenkort in Printoid geïntegreerd, even geduld aub :) U wordt op de hoogte gesteld zodra deze beschikbaar is.</string>
     <string name="plugin_message_navbartemp">De Navbar Temp-plug-in moet op uw OctoPrint-server worden geïnstalleerd.\n\nMaar als u een Raspberry Pi gebruikt, verschijnt de CPU-temperatuur automatisch in de titelbalk van de app.</string>
 
@@ -30,6 +32,11 @@
     <string name="plugin_tplink_enable">Schakel TP-Link SmartPlug in</string>
     <string name="plugin_tplink_state">Huidige toestand:</string>
     <string name="plugin_tplink_ip">Smartplug IP:</string>
+
+    <!-- WEMO SWITCH PLUGIN -->
+    <string name="plugin_wemo_enable">Schakel WemoSwitch in</string>
+    <string name="plugin_wemo_state">Huidige toestand:</string>
+    <string name="plugin_wemo_ip">WemoSwitch IP:</string>
     
     <string name="plugin_navbartemp_temperature">Systeem SoC temperatuur</string>
 
