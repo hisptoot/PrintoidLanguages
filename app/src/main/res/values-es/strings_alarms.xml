@@ -8,6 +8,7 @@
     <string name="alarm_type_progress">Progreso de la impresión</string>
     <string name="alarm_type_temperature_hot_end">Temperatura del extrusor</string>
     <string name="alarm_type_temperature_hot_bed">Temperatura de la cama</string>
+    <string name="alarm_type_temperature_chamber">Temperatura de la cámara</string>
     <string name="alarm_type_gcode_command">Ejecución del comando GCODE</string>
     <string name="alarm_type_z_height">Altura z</string>
 
@@ -18,6 +19,7 @@
     <string name="alarm_setting_value_progress">Alerta cuando el trabajo alcance este progreso (%)</string>
     <string name="alarm_setting_value_temperature_hot_end">Alerta cuando el extremo caliente alcance esta temperatura (°)</string>
     <string name="alarm_setting_value_temperature_hot_bed">Alerta cuando la cama caliente alcance esta temperatura (°)</string>
+    <string name="alarm_setting_value_temperature_chamber">Alerta cuando la cámara caliente alcance esta temperatura (°)</string>
     <string name="alarm_setting_value_gcode_command">Alerta cuando se ejecuta este comando GCODE</string>
     <string name="alarm_setting_value_z_height">Alerta cuando la boquilla alcance esta altura (mm)</string>
     <string name="alarm_settins_value">Valor de alerta</string>
@@ -49,6 +51,7 @@
     <string name="alarm_notification_progress">Progreso actual: %.1f%%</string>
     <string name="alarm_notification_temperature_hot_end">Temperatura del extrusor. %1$d: %2$.1f°</string>
     <string name="alarm_notification_temperature_hot_bed">Temperatura de la cama: %.1f°</string>
+    <string name="alarm_notification_temperature_hot_chamber">Temperatura de la cámara: %.1f°</string>
     <string name="alarm_notification_gcode_command">El comando GCODE ejecutado: %s</string>
     <string name="alarm_notification_z_height">Altura Z alcanzada: %.2f</string>
 

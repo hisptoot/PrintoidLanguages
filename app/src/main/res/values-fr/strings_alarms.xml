@@ -8,6 +8,7 @@
     <string name="alarm_type_progress">Progression d\'impression</string>
     <string name="alarm_type_temperature_hot_end">Température d\'extrudeur</string>
     <string name="alarm_type_temperature_hot_bed">Température du lit chauffant</string>
+    <string name="alarm_type_temperature_chamber">Température de la chambre chauffante</string>
     <string name="alarm_type_gcode_command">Exécution de commande GCODE</string>
     <string name="alarm_type_z_height">Hauteur en Z</string>
 
@@ -17,7 +18,8 @@
     <string name="alarm_setting_sensitivity">Sensibilité de l\'alerte (+ X% de la valeur)</string>
     <string name="alarm_setting_value_progress">Alerte de progression de l\'impression (%)</string>
     <string name="alarm_setting_value_temperature_hot_end">Alerte de température d\'extrudeur (°)</string>
-    <string name="alarm_setting_value_temperature_hot_bed">Alerte de température du lit (°)</string>
+    <string name="alarm_setting_value_temperature_hot_bed">Alerte de température du lit chauffant (°)</string>
+    <string name="alarm_setting_value_temperature_chamber">Alerte de température de la chambre chauffante (°)</string>
     <string name="alarm_setting_value_gcode_command">Alerte à l\'exécution de la commande GCODE</string>
     <string name="alarm_setting_value_z_height">Alerte à la hauteur de la tête (mm)</string>
     <string name="alarm_settins_value">Valeur de l\'alerte</string>
@@ -48,7 +50,8 @@
     <string name="alarm_notification_title">Alerte: %s</string>
     <string name="alarm_notification_progress">Progression actuelle : %.1f%%</string>
     <string name="alarm_notification_temperature_hot_end">Température de l\'ext. %1$d : %2$.1f°</string>
-    <string name="alarm_notification_temperature_hot_bed">Température du lit : %.1f°</string>
+    <string name="alarm_notification_temperature_hot_bed">Température du lit chauffant : %.1f°</string>
+    <string name="alarm_notification_temperature_hot_chamber">Température de la chambre chauffante : %.1f</string>
     <string name="alarm_notification_gcode_command">Commande GCODE exécutée : %s</string>
     <string name="alarm_notification_z_height">Hauteur Z atteinte : %.2f</string>
 
