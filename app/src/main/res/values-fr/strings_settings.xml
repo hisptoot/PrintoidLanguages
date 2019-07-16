@@ -8,7 +8,7 @@
     <string name="setting_title_multiple_profiles">Profiles OctoPrint</string>
     <string name="setting_title_printer_connection">Connexion à OctoPrint</string>
     <string name="setting_title_right_panel">Paramètres du panneau de droite</string>
-    <string name="setting_title_tools">Paramètres extrudeurs &amp; lit chauffant</string>
+    <string name="setting_title_tools">Paramètres extrudeurs, lit &amp; chambre</string>
     <string name="setting_title_ventilation">Paramètres de ventilation</string>
     <string name="setting_title_widgets">Paramètres des widgets</string>
     <string name="setting_title_controls">Paramètres des contrôles</string>
@@ -125,7 +125,11 @@
     <string name="setting_enable_keyboard_control">Activer le  contrôle au clavier</string>
     <string name="setting_enable_baby_stepping">Activer le Baby Stepping</string>
     <string name="settings_octoprint_credentials">Authentifiants du serveur OctoPrint</string>
+    <string name="setting_enable_hot_chamber">Contrôle de la chambre chauffante</string>
+    <string name="setting_max_chamber_temp">Temp. chambre max</string>
 
+    <string name="setting_enable_hot_chamber_tip">Ajuster et consulter la temp. de la chambre chauffante</string>
+    <string name="setting_max_chamber_temp_tip">Température max de la chambre chauffante</string>
     <string name="setting_enable_baby_stepping_tip">Permettre de déplacer les axes indépendamment du système de mouvement</string>
     <string name="setting_enable_keyboard_control_tip">Contrôler Printoid avec un clavier physique</string>
     <string name="setting_manage_account_tip">Créer/connecter/déconnecter votre compte Printoid</string>
@@ -226,6 +230,7 @@
 
     <string name="setting_error_max_temp">La température max d\'extrusion semble invalide, veuillez vérifier la valeur saisie</string>
     <string name="setting_error_max_hot_bed">La température max du lit chauffant semble invalide, veuillez vérifier la valeur saisie</string>
+    <string name="setting_error_max_hot_chamber">La température max de la chambre chauffante semble invalide, veuillez vérifier la valeur saisie</string>
     <string name="setting_error_max_fan">La vitesse de ventilation max semble invalide, veuillez vérifier la valeur saisie</string>
     <string name="setting_error_extrusion">La distance d\'extrusion semble invalide, veuillez vérifier la valeur saisie</string>
 

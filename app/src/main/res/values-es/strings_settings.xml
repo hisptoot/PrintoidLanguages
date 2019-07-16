@@ -124,7 +124,11 @@
     <string name="setting_enable_keyboard_control">Habilitar los controles con el teclado</string>
     <string name="setting_enable_baby_stepping">Habilitar el Baby Stepping</string>
     <string name="settings_octoprint_credentials">Credenciales del servidor OctoPrint</string>
+    <string name="setting_enable_hot_chamber">Habilitar el control de la cámara caliente</string>
+    <string name="setting_max_chamber_temp">Temperatura máxima de la cámara calentada</string>
 
+    <string name="setting_enable_hot_chamber_tip">Ajustar y mostrar la temperatura de la cámara calentada.</string>
+    <string name="setting_max_chamber_temp_tip">Temperatura máxima para la cámara calentada.</string>
     <string name="setting_enable_baby_stepping_tip">Permite mover el eje de forma transparente al sistema de movimiento.</string>
     <string name="setting_enable_keyboard_control_tip">Controla la interfaz con un teclado físico</string>
     <string name="setting_manage_account_tip">Regístrese / inicie sesión / cierre de sesión en su cuenta de Printoid</string>
@@ -226,6 +230,7 @@
 
     <string name="setting_error_max_temp">Temperatura máxima del extrusor inválida, por favor verifique su valor</string>
     <string name="setting_error_max_hot_bed">Temperatura máxima de la cama caliente inválida, por favor verifique su valor</string>
+    <string name="setting_error_max_hot_chamber">Temperatura máxima de la cámara caliente inválida, por favor verifique su valor</string>
     <string name="setting_error_max_fan">Nivel máximo del ventilador inválido, por favor verifique su valor</string>
     <string name="setting_error_extrusion">Longitud de extrusión inválida, por favor verifique su valor</string>
     

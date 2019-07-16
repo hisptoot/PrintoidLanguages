@@ -124,7 +124,11 @@
     <string name="setting_enable_keyboard_control">Aktivieren Sie Steuerelemente mit der Tastatur</string>
     <string name="setting_enable_baby_stepping">Aktivieren Sie das Baby-Stepping</string>
     <string name="settings_octoprint_credentials">OctoPrint-Server-Anmeldeinformationen</string>
+    <string name="setting_enable_hot_chamber">Aktivieren Sie die Steuerung der beheizten Kammer</string>
+    <string name="setting_max_chamber_temp">Max beheizte Kammertemperatur</string>
 
+    <string name="setting_enable_hot_chamber_tip">Justieren und zeigen beheizte Kammertemperatur</string>
+    <string name="setting_max_chamber_temp_tip">Maximaltemperatur für die beheizte Kammer</string>
     <string name="setting_enable_baby_stepping_tip">Bewegen Sie die Achse transparent zum Bewegungssystem</string>
     <string name="setting_enable_keyboard_control_tip">Steuern Sie die Schnittstelle mit einer physischen Tastatur</string>
     <string name="setting_manage_account_tip">Anmelden / Anmelden / Abmelden bei Ihrem Printoid-Konto</string>
@@ -225,7 +229,8 @@
     <string name="setting_hint_pwd">Passwort</string>
 
     <string name="setting_error_max_temp">Ungültige maximale Extruder-Temperatur. Bitte überprüfe deine Eingabe.</string>
-    <string name="setting_error_max_hot_bed">Ungültige maximale Heizbett-Temperatur. Bitte überprüfe deine Eingabe.</string>
+    <string name="setting_error_max_hot_bed">Ungültige maximale Kammer-Temperatur. Bitte überprüfe deine Eingabe.</string>
+    <string name="setting_error_max_hot_chamber">Ungültige maximale Heizbett-Temperatur. Bitte überprüfe deine Eingabe.</string>
     <string name="setting_error_max_fan">Ungültige maximale Lüftergeschwindigkeit. Bitte überprüfe deine Eingabe.</string>
     <string name="setting_error_extrusion">Ungültige Extrusionslänge. Bitte überprüfe deine Eingabe.</string>
     

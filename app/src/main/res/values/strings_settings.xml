@@ -14,7 +14,7 @@
     <string name="setting_title_cost_plugin">Cost plugin settings</string>
     <string name="setting_title_tplink_plugin">TP Link plugin settings</string>
     <string name="setting_title_widgets">Widgets settings</string>
-    <string name="setting_title_tools">Heated heads &amp; heated bed settings</string>
+    <string name="setting_title_tools">Heated heads, bed &amp; chamber settings</string>
     <string name="setting_title_ventilation">Ventilation settings</string>
     <string name="setting_title_controls">Controls settings</string>
     <string name="setting_title_streaming">Video streaming settings</string>
@@ -127,7 +127,11 @@
     <string name="setting_enable_keyboard_control">Enable controls with keyboard</string>
     <string name="setting_enable_baby_stepping">Enable the Baby Stepping</string>
     <string name="settings_octoprint_credentials">OctoPrint server credentials</string>
+    <string name="setting_enable_hot_chamber">Enable heated chamber control</string>
+    <string name="setting_max_chamber_temp">Max heated chamber temp.</string>
 
+    <string name="setting_enable_hot_chamber_tip">Adjust and show heated chamber temperature</string>
+    <string name="setting_max_chamber_temp_tip">Max temperature for the heated chamber</string>
     <string name="setting_enable_baby_stepping_tip">Allow to move the axis transparently to the motion system</string>
     <string name="setting_enable_keyboard_control_tip">Control the interface with a physical keyboard</string>
     <string name="setting_manage_account_tip">Sign-up / sign-in / sign-out to your Printoid account</string>
@@ -232,7 +236,8 @@
     <string name="setting_hint_pwd">Password</string>
 
     <string name="setting_error_max_temp">Invalid max extruder temperature, please verify your value</string>
-    <string name="setting_error_max_hot_bed">Invalid max hot bed temperature, please verify your value</string>
+    <string name="setting_error_max_hot_bed">Invalid max heated bed temperature, please verify your value</string>
+    <string name="setting_error_max_hot_chamber">Invalid max heated chamber temperature, please verify your value</string>
     <string name="setting_error_max_fan">Invalid max fan level, please verify your value</string>
     <string name="setting_error_extrusion">Invalid extrusion length, please verify your value</string>
     
