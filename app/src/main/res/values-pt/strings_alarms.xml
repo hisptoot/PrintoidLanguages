@@ -16,7 +16,7 @@
     <string name="alarm_setting_type">Tipo de alerta</string>
     <string name="alarm_setting_sensitivity">Sensibilidade deste alerta (+X% do valor)</string>
     <string name="alarm_setting_value_progress">Alerta quando o trabalho atingir este progresso (%)</string>
-    <string name="alarm_setting_value_temperature_hot_end">Alerta quando o hot end atingir esta temperatura (°)</string>
+    <string name="alarm_setting_value_temperature_hot_end">Alerta quando o heated head atingir esta temperatura (°)</string>
     <string name="alarm_setting_value_temperature_hot_bed">Alerta quando a mesa aquecida atingir esta temperatura (°)</string>
     <string name="alarm_setting_value_gcode_command">Alerta quando este comando GCODE for executado</string>
     <string name="alarm_setting_value_z_height">Alerta quando o bico atingir esta altura (mm)</string>

@@ -16,8 +16,8 @@
     <string name="alarm_setting_type">Type of alert</string>
     <string name="alarm_setting_sensitivity">Sensitivity of this alert (+X% of value)</string>
     <string name="alarm_setting_value_progress">Alert when job reach this progress (%)</string>
-    <string name="alarm_setting_value_temperature_hot_end">Alert when hot end reach this temperature (°)</string>
-    <string name="alarm_setting_value_temperature_hot_bed">Alert when hot bed reach this temperature (°)</string>
+    <string name="alarm_setting_value_temperature_hot_end">Alert when heated head reach this temperature (°)</string>
+    <string name="alarm_setting_value_temperature_hot_bed">Alert when heated bed reach this temperature (°)</string>
     <string name="alarm_setting_value_gcode_command">Alert when this GCODE command is executed</string>
     <string name="alarm_setting_value_z_height">Alert when nozzle reach this height (mm)</string>
     <string name="alarm_settins_value">Alert value</string>
