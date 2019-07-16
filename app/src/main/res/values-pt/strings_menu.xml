@@ -6,10 +6,6 @@
     <string name="menu_title_help">Ajuda &amp; suporte</string>
 
     <string name="menu_account">Printoid conta</string>
-    <string name="menu_psu_plugin_on" translatable="false">PSU on</string>
-    <string name="menu_psu_plugin_off" translatable="false">PSU off</string>
-    <string name="menu_tplink_plugin_on" translatable="false">TP Link on</string>
-    <string name="menu_tplink_plugin_off" translatable="false">TP Link off</string>
     <string name="menu_connect_server">Conectar o OctoPrint</string>
     <string name="menu_connect_printer">Conectar a impressora</string>
     <string name="menu_connecting_printer">Conectando a impressora</string>
@@ -31,8 +27,6 @@
     <string name="menu_app_infos">Ajuda</string>
     <string name="menu_octoprint_web">Interface web do OctoPrint</string>
     <string name="menu_files">Arquivos</string>
-    <string name="menu_cults" translatable="false">Cults</string>
-    <string name="menu_myminifactory" translatable="false">MyMiniFactory</string>
     <string name="menu_printoid_web">Website do Printoid</string>
     <string name="menu_timelapse">Timelapses</string>
     <string name="menu_contact_developer">Contate o desenvolvedor</string>

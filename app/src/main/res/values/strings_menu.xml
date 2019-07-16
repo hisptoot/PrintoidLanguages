@@ -10,6 +10,8 @@
     <string name="menu_psu_plugin_off" translatable="false">PSU off</string>
     <string name="menu_tplink_plugin_on" translatable="false">TP Link on</string>
     <string name="menu_tplink_plugin_off" translatable="false">TP Link off</string>
+    <string name="menu_wemo_plugin_on" translatable="false">WemoSwitch on</string>
+    <string name="menu_wemo_plugin_off" translatable="false">WemoSwitch off</string>
     <string name="menu_connect_server">Connect OctoPrint</string>
     <string name="menu_connect_printer">Connect printer</string>
     <string name="menu_connecting_printer">Connecting printer</string>
