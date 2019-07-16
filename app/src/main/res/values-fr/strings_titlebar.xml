@@ -8,6 +8,7 @@
     <string name="title_bar_bed">Lit : %.1f°</string>
     <string name="title_system_raspberry">Raspberry: %s°</string>
     <string name="title_system_other">Système: %s°</string>
+    <string name="title_bar_chamber">Chambre: %.1f°</string>
 
     <string name="title_bar_config_title">Configuration de la barre de titre</string>
 
@@ -22,7 +23,9 @@
     <string name="title_bar_spinner_change_delay">Délai de changement (sec)</string>
     <string name="title_bar_toggle_z_height">Hauteur Z (mm)</string>
     <string name="title_bar_toggle_system_temperature">Température système (°)</string>
+    <string name="title_bar_toggle_hot_chamber">Température chambre chauffante</string>
 
+    <string name="title_bar_toggle_hot_chamber_tip">Afficher la température de la chambre chauffante</string>
     <string name="title_bar_toggle_server_name_tip">Afficher le nom du serveur</string>
     <string name="title_bar_toggle_printer_state_tip">Afficher l\'état du serveur</string>
     <string name="title_bar_toggle_extruders_temp_tip">Afficher la température des extrudeurs</string>

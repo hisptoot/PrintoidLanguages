@@ -8,6 +8,7 @@
     <string name="title_bar_bed">Стол: %.1f°</string>
     <string name="title_system_raspberry">Raspberry: %s°</string>
     <string name="title_system_other">Cистема: %s°</string>
+    <string name="title_bar_chamber">Kамера: %.1f°</string>
 
     <string name="title_bar_config_title">Настройка заголовка</string>
 
@@ -22,7 +23,9 @@
     <string name="title_bar_spinner_change_delay">Период изменения (сек)</string>
     <string name="title_bar_toggle_system_temperature">Температура системы (°)</string>
     <string name="title_bar_toggle_z_height">Высота Z (мм)</string>
+    <string name="title_bar_toggle_hot_chamber">Показывать температуру kамера</string>
 
+    <string name="title_bar_toggle_hot_chamber_tip">Показывать температуру kамера в строке заголовка</string>
     <string name="title_bar_toggle_server_name_tip">Показывать имя сервера в строке заголовка</string>
     <string name="title_bar_toggle_printer_state_tip">Показывать состояние сервера в строке заголовка</string>
     <string name="title_bar_toggle_extruders_temp_tip">Показывать температуру экструдера в строке заголовка</string>

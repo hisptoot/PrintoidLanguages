@@ -8,13 +8,14 @@
     <string name="title_bar_bed">Piatto: %.1f°</string>
     <string name="title_system_raspberry">Raspberry: %s°</string>
     <string name="title_system_other">Sistema: %s°</string>
+    <string name="title_bar_chamber">Camera: %.1f°</string>
 
     <string name="title_bar_config_title">Configurazione della barra del titolo</string>
 
     <string name="title_bar_toggle_server_name">Mostra il nome del server</string>
     <string name="title_bar_toggle_printer_state">Mostra lo stato del server</string>
-    <string name="title_bar_toggle_extruders_temp">Mostra temp. Estrusori.</string>
-    <string name="title_bar_toggle_hot_bed">Mostra temperatura piatto.</string>
+    <string name="title_bar_toggle_extruders_temp">Mostra temp. estrusori</string>
+    <string name="title_bar_toggle_hot_bed">Mostra temperatura piatto</string>
     <string name="title_bar_toggle_gcode_progress">Mostra i progressi di GCODE</string>
     <string name="title_bar_toggle_time_progress">Mostra i progressi del tempo</string>
     <string name="title_bar_toggle_remaining_time">Mostra il tempo rimanente</string>
@@ -22,7 +23,9 @@
     <string name="title_bar_spinner_change_delay">Cambia ritardo (sec)</string>
     <string name="title_bar_toggle_z_height">Z altezza (mm)</string>
     <string name="title_bar_toggle_system_temperature">Temperatura di sistema (°)</string>
+    <string name="title_bar_toggle_hot_chamber">Mostra temperatura camera</string>
 
+    <string name="title_bar_toggle_hot_chamber_tip">Mostra temperatura camera nella barra del titolo</string>
     <string name="title_bar_toggle_server_name_tip">Mostra il nome del server nella barra del titolo</string>
     <string name="title_bar_toggle_printer_state_tip">Mostra lo stato del server nella barra del titolo</string>
     <string name="title_bar_toggle_extruders_temp_tip">Mostra temp. Estrusori nella barra del titolo</string>

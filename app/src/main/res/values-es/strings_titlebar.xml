@@ -8,6 +8,7 @@
     <string name="title_bar_bed">Cama: %.1f°</string>
     <string name="title_system_raspberry">Raspberry: %s°</string>
     <string name="title_system_other">Sistema: %s°</string>
+    <string name="title_bar_chamber">Cámara: %.1f°</string>
 
     <string name="title_bar_config_title">Configuración de la barra de título</string>
 
@@ -22,7 +23,9 @@
     <string name="title_bar_spinner_change_delay">Frecuencia de cambio (sec)</string>
     <string name="title_bar_toggle_z_height">Altura z (mm)</string>
     <string name="title_bar_toggle_system_temperature">Temperatura del sistema (°)</string>
+    <string name="title_bar_toggle_hot_chamber">Mostrar temp. de la cámara caliente</string>
 
+    <string name="title_bar_toggle_hot_chamber_tip">Mostrar temp. de la cámara caliente en la barra de título</string>
     <string name="title_bar_toggle_server_name_tip">Mostrar nombre del servidor en la barra de título en la barra de título</string>
     <string name="title_bar_toggle_printer_state_tip">Mostrar estado del servidor en la barra de título</string>
     <string name="title_bar_toggle_extruders_temp_tip">Mostrar temp. de los extrusores en la barra de título</string>
