@@ -32,6 +32,11 @@
     <string name="onboarding_baudrate_message">Per creare istanza della connessione con la stampante 3D, forniscici la sua baudrate.\n
         Questo può essere facilmente modificato se hai più di una stampante 3D collegata.</string>
 
+    <string name="onboarding_credentials_title">Credenziali di OctoPrint (facoltativo)</string>
+    <string name="onboarding_credentials_message">Accendi l\'interfaccia e mostra le informazioni più velocemente! Dare a stampa le credenziali che usi per accedere alla tua app web OctoPrint. È facoltativo, ma incoraggiato, in particolare per alimentare il terminale e l\'elenco dei plugin (è un requisito OctoPrint dalla versione 1.3.10).</string>
+    <string name="onboarding_credentials_login_error">Si prega di fornire il login OctoPrint</string>
+    <string name="onboarding_credentials_password_error">Si prega di fornire la password di OctoPrint</string>
+
     <string name="onboarding_security_title">Sicurezza (opzionale)</string>
     <string name="onboarding_security_message_basic_auth"><![CDATA[Fornire le credenziali di autenticazione di base se questa funzione è stata abilitata nel server.\n
         <a href="https://printoid.net/access-octoprint-from-the-internet/">Leggi questa pagina </a> per maggiori info.]]></string>
