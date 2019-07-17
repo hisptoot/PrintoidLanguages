@@ -10,32 +10,20 @@
 
     <!-- VERSIONS COMPARATOR -->
     <string name="tutorial_comparator_title">Versies comparator</string>
-    <string name="tutorial_comparator_premium_content">Meerdere OctoPrint-profielen, video, aangepaste besturingselementen, 2D- &amp; 3D-viewer, real-time simulator, geavanceerde bediening, widgets &amp; meer…</string>
+    <string name="tutorial_comparator_premium_content">Video, aangepaste besturingselementen, 2D- &amp; 3D-viewer, real-time simulator, geavanceerde bediening, widgets &amp; meer…</string>
     <string name="tutorial_comparator_lite_content">Gratis basisfunctiespakket zonder tijdslimiet</string>
-    <string name="tutorial_comparator_button_1">Compleet comparator</string>
-
-    <!-- KEYBOARD / ADB -->
-    <string name="tutorial_keyboard_title">Bediening via toetsenbord &amp; ADB</string>
-    <string name="tutorial_keyboard_message">Bediening via een traditioneel toetsenbord: de PREMIUM versie biedt u de mogelijkheid de Printoid interface te bedienen via een fysiek toetsenbord om tussen de schermen te schakelen en om functies te starten en te stoppen.</string>
-    <string name="tutorial_keyboard_message_3">Meer informatie over de beschikbare funkties vindt u op de officiële web site</string>
-    <string name="tutorial_keyboard_button_1">Bediening via ADB</string>
-    <string name="tutorial_keyboard_button_2">Bediening via toetsenbord</string>
-
-    <!-- ADVERTISEMENT -->
-    <string name="tutorial_ads_title">Adverteren in LITE</string>
-    <string name="tutorial_ads_message">De LITE-versie is gratis voor een onbeperkte duur, maar bevat advertenties.</string>
-    <string name="tutorial_ads_message_2">Om de advertenties te verwijderen, te genieten van de volledige app en de ontwikkelaar te ondersteunen, kunt u Printoid PRO of Printoid PREMIUM kopen.</string>
+    <string name="tutorial_comparator_button_1">Vergelijk de versies</string>
 
     <!-- WIDGETS -->
     <string name="tutorial_widgets_title">Exclusieve widgets</string>
     <string name="tutorial_widgets_message">Monitor uw 3d printers zonder dat u zelfs maar een applicatie hoeft te starten!</string>
-    <string name="tutorial_widgets_message_3">Voeg net zoweel widgets toe als u wenst om uw eigen interface gestalte te geven, druk op deze widgets om de functies te activeren!</string>
+    <string name="tutorial_widgets_message_2">Camera Widget: laat met één klik een nieuwe afbeelding zien van uw camera!</string>
+    <string name="tutorial_widgets_message_3">Serverstatus Widget: toont de huidige voortgang van de afdruktaak zonder de app te hoeven starten!</string>
 
     <!-- STREAMING -->
     <string name="tutorial_video_title">Streaming video</string>
     <string name="tutorial_video_message">Houd een oogje in het zeil, om altijd precies te weten wat er op het platform van uw 3D printer gebeurt!</string>
     <string name="tutorial_video_message_2">Een ingebouwde video speler met een widget om apps te starten via een meebewegend icoon om video\'s te bekijken, vanaf welk scherm dan ook</string>
-    <string name="tutorial_video_message_4">Voor meer informatie betreffende de reverse proxy installatie, zie de volgende link</string>
     <string name="tutorial_video_button_1">Camera configuratie</string>
     <string name="tutorial_video_button_2">Lage/hoge kwaliteit</string>
     <string name="tutorial_video_button_3">Ondersteun 2 camera\'s</string>
@@ -53,29 +41,29 @@
     <!-- MULTI PROFILES -->
     <string name="tutorial_multi_profiles_title">Verbinding met OctoPrint vereenvoudigd</string>
     <string name="tutorial_multi_profiles_message">Bedien en bekijk zoveel OctoPrint servers en 3D printers als u maar wenst!</string>
-    <string name="tutorial_multi_profiles_message_2">Printoid past automatisch uw locale (LAN) of globale (WAN) configuratie toe, afhankelijk wat nodig is.</string>
-    <string name="tutorial_multi_profiles_message_3">Houd er rekening mee, dat alle Printoid parameters afhankelijk zijn van het gekozen profiel</string>
+    <string name="tutorial_multi_profiles_message_2">Ondersteunt LAN- en WAN-configuratie, basisverificatie, SSL / TLS (HTTPS), TLS-certificaat, SSH …</string>
     <string name="tutorial_multi_profiles_button_1">OctoPrint-verbinding</string>
     <string name="tutorial_multi_profiles_button_2">Buitenverbinding (3G/4G)</string>
     <string name="tutorial_multi_profiles_button_3">Pas de instellingen aan</string>
 
     <!-- 2D / 3D RENDERERS -->
     <string name="tutorial_render_title">Visualisatie 2D &amp; 3D</string>
-    <string name="tutorial_render_message_0">De 2D en 3D visualisaties zijn beschikbaar vanuit de verkenner (uitgebeid menu, te openen via menu aan linker kant)</string>
     <string name="tutorial_render_message">Bekijk elke plak van uw GCODE bestand in 2D afzonderlijk of visualizeer het hele GCODE of STL bestand in 3D!</string>
     <string name="tutorial_render_message_2">Printoid toont ook de actueel geprinte laag in 2D (real-time), terwijl de print aan de gang is</string>
     <string name="tutorial_render_button_1">Verrichting</string>
 
     <!-- ANDROID WEAR -->
-    <string name="tutorial_wear_title">Module Android Wear</string>
+    <string name="tutorial_wear_title">Module WearOS</string>
     <string name="tutorial_wear_message_1">Alle controle over uw printer en overzicht wat er gebeurt, aan uw pols!</string>
     <string name="tutorial_wear_message_2">Informatie over de actuele print, de bestanden en commando\'s. Bedien alle assen, temperatuur, extruders en ventilatoren.</string>
-    <string name="tutorial_wear_message_3">Deze module is alleen beschikbaar voor Android Wear (niet beschikbaar voor Samsung Wear (Tizen))</string>
+    <string name="tutorial_wear_message_3">Deze module is alleen beschikbaar voor WearOS (niet beschikbaar voor Samsung Wear (Tizen))</string>
 
-    <!-- WEBAPP -->
-    <string name="tutorial_web_app_title">OctoPrint web interface</string>
-    <string name="tutorial_web_app_message">U heeft directe toegang tot de <b>web interface van uw OctoPrint server</b>, zonder dat u uit Printoid hoeft te gaan!</string>
-    <string name="tutorial_web_app_message_2">Past zich perfect aan aan de schermgrootte van uw tablet of smartphone</string>
+    <!-- BASIC TOOLS -->
+    <string name="tutorial_basic_tools_title">Alle tools die u nodig hebt voor uw 3D-printer (s)</string>
+    <string name="tutorial_basic_tools_message">Ondersteunt tot 10 verwarmde hoofden, verwarmd bed, verwarmde kamer, ventilatie…</string>
+    <string name="tutorial_basic_tools_message_2">Controle van feedrate, flowrate, extrusie, terugtrekking, as, homing, babystepping…</string>
+    <string name="tutorial_basic_tools_message_3">Temperatuurdoelen, temperatuurverschuivingen, knop om motoren te stoppen, voorinstellingen…</string>
+    <string name="tutorial_basic_tools_message_4">Timelapses, GCODE-scripts, waarschuwingen en meldingen…</string>
 
     <!-- WEBSITE -->
     <string name="tutorial_support_title">Web site web en ondersteuning</string>
@@ -85,6 +73,14 @@
     <string name="tutorial_support_button_1">Recente artikelen</string>
     <string name="tutorial_support_button_2">Veelgestelde vragen</string>
     <string name="tutorial_support_button_3">Neem contact op met de ontwikkelaar</string>
+
+    <!-- MORE FEATURES -->
+    <string name="tutorial_more_features_title">En nog veel meer avec Printoid PREMIUM!</string>
+    <string name="tutorial_more_features_message_1">Ondersteunt plugins OctoPrint: Enclosure, Octolapse, PSU Control, TPLink Smartplugs, WemoSwitch…</string>
+    <string name="tutorial_more_features_message_2">Bedienen met een fysiek toetsenbord of vanuit ADB!</string>
+    <string name="tutorial_more_features_message_3">Printoid Hub: de status van al uw OctoPrint-servers binnen hetzelfde scherm!</string>
+    <string name="tutorial_more_features_message_4">Filament spool manager: integratie met RollingUp!</string>
+    <string name="tutorial_more_features_message_5">Bescherm de app met een pincode of met uw vingerafdruk!</string>
 
     <!-- END -->
     <string name="tutorial_end_message">Start Printoid</string>
