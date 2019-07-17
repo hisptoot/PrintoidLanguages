@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="printer_state_disconnected">Geen verbinding</string>
-    <string name="printer_state_octo_disconnected">Offline</string>
-    <string name="printer_state_connecting">Aansluiten&#8230;</string>
+    <string name="printer_state_octo_disconnected">Server niet verbonden</string>
+    <string name="printer_state_disconnected">Printer losgekoppeld</string>
+    <string name="printer_state_connecting">Printer verbinden&#8230;</string>
     <string name="printer_state_sending_file">Verstuur bestand…</string>
     <string name="printer_state_paused">Gepauzeerd</string>
     <string name="printer_state_printing">Printing&#8230;</string>
