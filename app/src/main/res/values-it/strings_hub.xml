@@ -23,4 +23,7 @@
     <string name="hub_setting_hide_second_icon">Nascondi l\'icona dell\'hub Printoid</string>
     <string name="hub_setting_hide_second_icon_tip">Nascondi la seconda icona dell\'app per avviare Printoid Hub dal launcher dell\'app</string>
 
+    <string name="hub_show_camera"><u>Show camera…</u></string>
+    <string name="hub_show_other_camera"><u>Show the other camera…</u></string>
+
 </resources>
