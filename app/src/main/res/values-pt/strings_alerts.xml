@@ -103,7 +103,7 @@
     <string name="new_octoprint_version">Nova versão do OctoPrint disponível! (v%s)</string>
     <string name="new_octoprint_release_candidate">Novo candidato a lançamento do OctoPrint disponível! (v%s)</string>
 
-	<string name="promote_premium_message">Você amou o Printoid? Este app é o melhor companheiro para você e sua impressora 3D? \n\nSe você achar que sim (e quiser), compre o Printoid PREMIUM no Google Play para dar suporte ao desenvolvedor!\n\nA versão Premium oferece a você a possibilidade de criar sua própria interface física para o Printoid!</string>
+    <string name="promote_premium_message">Apoie o desenvolvedor do Printoid e compre a versão PREMIUM do aplicativo!\n\nO Printoid PREMIUM é a melhor ferramenta para suas impressoras 3D: streaming de vídeo, comandos personalizados, suporte a plug-ins do OctoPrint, visualizadores 2D e 3D, widgets, integração com o RollingUp (gerenciador de spool) e muito mais!</string>
 
     <string name="promote_donation_message">Você gostou do Printoid Premium? Este app é o melhor companheiro para você e sua impressora 3D?\n\nSe você quiser, pode doar um valor de sua escolha para apoiar o desenvolvedor e seu trabalho, ajudando assim no desenvolvimento de mais recursos novos e incríveis!</string>
 
