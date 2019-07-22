@@ -74,6 +74,15 @@
     <string name="command_tplink_turn_off_error">Schalten Sie den TPLink aus</string>
     <string name="command_tplink_turn_on_error">Schalten Sie den TPLink ein</string>
 
+    <string name="command_wemo_turn_off_alert_title">Schalten Sie das WemoSwitch aus</string>
+    <string name="command_wemo_turn_off_alert_msg">Ihr WemoSwitch ist tatsächlich eingeschaltet.\n\nMöchten Sie es jetzt ausschalten?\n\nWenn Sie gerade drucken, wird der aktuelle Job abgebrochen und der Fortschritt geht verloren.</string>
+    <string name="command_wemo_turn_on_alert_title">Schalten Sie das WemoSwitch ein</string>
+    <string name="command_wemo_turn_on_alert_msg">Ihr WemoSwitch ist eigentlich ausgeschaltet.\n\nMöchtest du es jetzt einschalten?</string>
+    <string name="command_wemo_turned_off">WemoSwitch ausgeschaltet</string>
+    <string name="command_wemo_turned_on">WemoSwitch ist eingeschaltet</string>
+    <string name="command_wemo_turn_off_error">Schalten Sie den WemoSwitch aus</string>
+    <string name="command_wemo_turn_on_error">Schalten Sie den TPLink ein</string>
+
     <string name="commands_not_loaded_title">Systembefehle wurden nicht geladen</string>
     <string name="commands_not_loaded_msg">Die Systembefehle von OctoPrint werden derzeit nicht für dieses Profil geladen. Bitte warten Sie einige Sekunden und versuchen Sie es erneut.</string>
 

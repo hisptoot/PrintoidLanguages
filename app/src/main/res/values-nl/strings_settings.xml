@@ -125,7 +125,11 @@
     <string name="setting_enable_keyboard_control">Schakel besturingselementen met toetsenbord in</string>
     <string name="setting_enable_baby_stepping">Schakel de baby-stepping in</string>
     <string name="settings_octoprint_credentials">OctoPrint-serverreferenties</string>
+    <string name="setting_enable_hot_chamber">Schakel de besturing van de verwarmde kamer in</string>
+    <string name="setting_max_chamber_temp">Max verwarmde kamertemperatuur.</string>
 
+    <string name="setting_enable_hot_chamber_tip">Pas de temperatuur van de verwarmde kamer aan en toon deze</string>
+    <string name="setting_max_chamber_temp_tip">Maximale temperatuur voor de verwarmde kamer</string>
     <string name="setting_enable_baby_stepping_tip">Laat toe de as transparant naar het bewegingssysteem te verplaatsen</string>
     <string name="setting_enable_keyboard_control_tip">Bedien de interface met een fysiek toetsenbord</string>
     <string name="setting_manage_account_tip">Meld u aan / meld u aan bij uw Printoid-account</string>
@@ -226,6 +230,7 @@
 
     <string name="setting_error_max_temp">De max. temperatuur voor de extruder lijkt ongeldig, verifieer uw waarde</string>
     <string name="setting_error_max_hot_bed">De max. temperatuur voor het verwarmde bed lijkt ongeldig, verifieer uw waarde</string>
+    <string name="setting_error_max_hot_chamber">De max. temperatuur voor het verwarmde kamer lijkt ongeldig, verifieer uw waarde</string>
     <string name="setting_error_max_fan">De max. ventilator snelheid lijkt ongeldig, verifieer uw waarde</string>
     <string name="setting_error_extrusion">De extrusie lengte lijkt ongeldig, verifieer uw waarde</string>
 

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="printer_state_octo_disconnected">Offline</string>
-    <string name="printer_state_disconnected">Getrennt</string>
-    <string name="printer_state_connecting">Verbinden&#8230;</string>
+    <string name="printer_state_octo_disconnected">Server nicht verbunden</string>
+    <string name="printer_state_disconnected">Drucker getrennt</string>
+    <string name="printer_state_connecting">Drucker anschließen&#8230;</string>
     <string name="printer_state_sending_file">Datei senden…</string>
     <string name="printer_state_ready">Bereit</string>
     <string name="printer_state_paused">Druck pausiert</string>

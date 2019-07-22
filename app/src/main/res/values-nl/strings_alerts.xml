@@ -78,9 +78,8 @@
     <string name="alert_select_tool_error">Kan tool%d niet selekteren</string>
 
     <string name="intro_printoid_website">Bekijk https://printoid.net, de officiele Printoid site! Hier vindt u de Changelogs, informatie over nieuwe versies, nieuwe functionaliteit, prktische voorbeelden &amp; nog veel meer!</string>
-    <string name="intro_printoid_website_button">Naar de website</string>
 
-    <string name="intro_spool_manager">Beheer uw voorraad spoelen met de Filament Spool Manager-module, beschikbaar voor Printoid PRO en PREMIUM! Met de gratis versie van deze module kunt u maximaal 2 spools beheren.</string>
+    <string name="intro_spool_manager">Beheer uw voorraad spoelen met de Filament Spool Manager-module, beschikbaar voor Printoid PREMIUM! Met de gratis versie van deze module kunt u maximaal 2 spools beheren.</string>
     <string name="intro_spool_manager_button">Installeer nu</string>
 
     <string name="alert_fan_speed_value_title">Opmerking over het koelen</string>
@@ -95,8 +94,7 @@
     <string name="new_octoprint_version">Er is een nieuwe OctoPrint versie! (v%s)</string>
     <string name="new_octoprint_release_candidate">Er is een nieuwe OctoPrint \"release candidate\" versie! (v%s)</string>
 
-    <string name="promote_pro_message">Bevalt Printoid U? Met Printoid heeft u de beste interface tot uw 3D printer?\n\nIndien Printoid u bevalt en u dat wenst kunt u de Printoid PRO versie aanschaffen via Google Play ter ondersteuning van de ontwikkeling!n\nDe PRO versie brengt functionaliteit, zoals video streaming, persoonlijke commando\'s, 2D en 3D visualisatie, een real time simulator en nog veel meer!</string>
-    <string name="promote_premium_message">Bevalt Printoid U? Met Printoid heeft u de beste interface tot uw 3D printer?\n\nIndien Printoid u bevalt en u dat wenst kunt u de Printoid PREMIUM versie aanschaffen via Google Play ter ondersteuning van de ontwikkeling!n\nMet de PREMIUM versie kunt u uw eigen fysieke interface tot uw printer creeren!</string>
+    <string name="promote_premium_message">Ondersteuning van de ontwikkelaar van Printoid en koop de PREMIUM-versie van de app!\n\nPrintoid PREMIUM is het beste hulpmiddel voor uw 3D-printer (s): videostreaming, aangepaste opdrachten, ondersteuning van OctoPrint-plug-ins, 2D- en 3D-viewers, widgets, integratie met RollingUp (spoolbeheer) en nog veel meer!</string>
 
     <string name="promote_donation_message">Bevalt Printoid U? Met Printoid heeft u de beste interface tot uw 3D printer?\n\nZo ja en als u wilt, kunt u het bedrag van uw keuze doneren om de ontwikkelaar en zijn werk te ondersteunen en helpen bij het ontwikkelen van nieuwe geweldige functies!</string>
 

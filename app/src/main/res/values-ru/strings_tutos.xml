@@ -10,32 +10,20 @@
 
     <!-- VERSIONS COMPARATOR -->
     <string name="tutorial_comparator_title">Отличия версий</string>
-    <string name="tutorial_comparator_premium_content">Несколько профилей OctoPrint, видео, пользовательские элементы управления, просмотрщик 2D и 3D, симулятор в реальном времени, расширенный контроль, виджеты и многое другое…</string>
+    <string name="tutorial_comparator_premium_content">Bидео, пользовательские элементы управления, просмотрщик 2D и 3D, симулятор в реальном времени, расширенный контроль, виджеты и многое другое…</string>
     <string name="tutorial_comparator_lite_content">Бесплатный базовый пакет функций и неограниченное время использования</string>
-    <string name="tutorial_comparator_button_1">Все отличия</string>
-
-    <!-- KEYBOARD / ADB -->
-    <string name="tutorial_keyboard_title">Клавиатура и ADB управление</string>
-    <string name="tutorial_keyboard_message">Управляйте Printoid с клавиатуры или собственного интерфейса через ADB!</string>
-    <string name="tutorial_keyboard_message_3">Больше информации по доступным командам на официальном сайте</string>
-    <string name="tutorial_keyboard_button_1">ADB управление</string>
-    <string name="tutorial_keyboard_button_2">Клавиатура</string>
-
-    <!-- ADVERTISEMENT -->
-    <string name="tutorial_ads_title">Реклама в LITE</string>
-    <string name="tutorial_ads_message">Версия LITE бесплатна, но содержит рекламу.</string>
-    <string name="tutorial_ads_message_2">Чтобы удалить рекламу, пользоваться полнофункциональным приложением и поддержать разработчика, вы можете приобрести Printoid PRO или Printoid PREMIUM.</string>
+    <string name="tutorial_comparator_button_1">Сравните версии</string>
 
     <!-- WIDGETS -->
     <string name="tutorial_widgets_title">Эксклюзивные виджеты</string>
     <string name="tutorial_widgets_message">Мониторим 3D-принтеры даже не запуская приложение!</string>
-    <string name="tutorial_widgets_message_3">Добавьте столько виджетов, сколько вы хотите, чтобы создать свой собственный интерфейс и прикоснуться к ним для обновления!</string>
+    <string name="tutorial_widgets_message_2">Camera Widget: покажите свежее изображение с камеры одним щелчком мыши!</string>
+    <string name="tutorial_widgets_message_3">Виджет состояния сервера: показывает текущее состояние печати без необходимости запуска приложения!</string>
 
     <!-- STREAMING -->
     <string name="tutorial_video_title">Видео поток</string>
     <string name="tutorial_video_message">Всегда контролируйте что происходит на столе Вашего 3D принтера!</string>
     <string name="tutorial_video_message_2">Видеопроигрыватель в приложении, виджет запуска и плавающий значок, позволяющий просматривать видео в любом месте</string>
-    <string name="tutorial_video_message_4">Подробная информация по установке реверс прокси по следующей ссылке</string>
     <string name="tutorial_video_button_1">Настройка камеры</string>
     <string name="tutorial_video_button_2">Низкое/высокое качество</string>
     <string name="tutorial_video_button_3">Поддержка 2 камер</string>
@@ -53,29 +41,29 @@
     <!-- MULTI PROFILES -->
     <string name="tutorial_multi_profiles_title">Простое подключение к OctoPrint</string>
     <string name="tutorial_multi_profiles_message">Контроль и управление несколькими OctoPrint серверами и 3D принтерами!</string>
-    <string name="tutorial_multi_profiles_message_2">Printoid сам решит использовать локальное (LAN) или удаленное (WAN) соединение</string>
-    <string name="tutorial_multi_profiles_message_3">Обратите внимание, что все настройки Printoid относятся к выбранному профилю</string>
+    <string name="tutorial_multi_profiles_message_2">Поддержка конфигурации LAN и WAN, базовая аутентификация, SSL / TLS (HTTPS), сертификат TLS, SSH…</string>
     <string name="tutorial_multi_profiles_button_1">Соединение OctoPrint</string>
     <string name="tutorial_multi_profiles_button_2">Внешнее соединение (3G/4G)</string>
     <string name="tutorial_multi_profiles_button_3">Отрегулируйте настройки</string>
 
     <!-- 2D / 3D RENDERERS -->
     <string name="tutorial_render_title">2D и 3D просмотр</string>
-    <string name="tutorial_render_message_0">2D-и 3D-визуализаторы доступны из расширенного файлового менеджера (откройте его в левом меню)</string>
     <string name="tutorial_render_message">Проверьте каждый слой Вашего GCODE файла в 2D или просмотрите сразу STL или GCODE обьект в 3D прямо в приложении!</string>
     <string name="tutorial_render_message_2">Printoid также позволяет в реальном времени 2D эмуляцию во время печати Вашего обьекта</string>
     <string name="tutorial_render_button_1">Oперация</string>
 
     <!-- ANDROID WEAR -->
-    <string name="tutorial_wear_title">Модуль Android Wear</string>
+    <string name="tutorial_wear_title">Модуль WearOS</string>
     <string name="tutorial_wear_message_1">Контролируйте и управляйте 3D-принтером прямо с вашего запястья!</string>
     <string name="tutorial_wear_message_2">Информация о принтере, управление осью, управление температурой/обдувом/экструдерами, списки файлов и команд</string>
-    <string name="tutorial_wear_message_3">Этот модуль доступен только для Android Wear (недоступен для Samsung Wear (Tizen))</string>
+    <string name="tutorial_wear_message_3">Этот модуль доступен только для WearOS (недоступен для Samsung Wear (Tizen))</string>
 
-    <!-- WEBAPP -->
-    <string name="tutorial_web_app_title">Web интерфейс OctoPrint</string>
-    <string name="tutorial_web_app_message">Вы можете перейти в <b>Web интерфейс Вашего OctoPrint сервера</b>, без необходимости закрытия Printoid!</string>
-    <string name="tutorial_web_app_message_2">Разработанный специально для смартфонов и планшетов</string>
+    <!-- BASIC TOOLS -->
+    <string name="tutorial_basic_tools_title">Все инструменты, необходимые для вашего 3D-принтера (ов)</string>
+    <string name="tutorial_basic_tools_message">Поддерживает до 10 головок с подогревом, кровать с подогревом, камеру с подогревом, вентиляцию…</string>
+    <string name="tutorial_basic_tools_message_2">Контроль подачи, расхода, экструзии, втягивания, оси, перемещения, перемещения ребенка…</string>
+    <string name="tutorial_basic_tools_message_3">Температурные цели, температурные коррекции, кнопка остановки двигателей, предустановки…</string>
+    <string name="tutorial_basic_tools_message_4">Замедленная съемка, GCODE-скрипты, оповещения и уведомления…</string>
 
     <!-- WEBSITE -->
     <string name="tutorial_support_title">Официальный веб-сайт и медиа</string>
@@ -85,6 +73,14 @@
     <string name="tutorial_support_button_1">Последние статьи</string>
     <string name="tutorial_support_button_2">Часто задаваемые вопросы</string>
     <string name="tutorial_support_button_3">Написать разработчику</string>
+
+    <!-- MORE FEATURES -->
+    <string name="tutorial_more_features_title">И многое другое в Printoid PREMIUM!</string>
+    <string name="tutorial_more_features_message_1">Поддержка плагинов OctoPrint: Enclosure, Octolapse, PSU Control, TPLink Smartplugs, WemoSwitch…</string>
+    <string name="tutorial_more_features_message_2">Управление с физической клавиатуры или из АБР!</string>
+    <string name="tutorial_more_features_message_3">Printoid Hub: статус всех ваших серверов OctoPrint на одном экране!</string>
+    <string name="tutorial_more_features_message_4">Менеджер катушек накаливания: интеграция с RollingUp!</string>
+    <string name="tutorial_more_features_message_5">Защитите приложение с помощью PIN-кода или отпечатка пальца!</string>
 
     <!-- END -->
     <string name="tutorial_end_message">Запустить Printoid</string>

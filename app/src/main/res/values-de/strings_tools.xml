@@ -14,17 +14,20 @@
     <string name="printer_head_level">Extruder\n%d°</string>
     <string name="printer_headX_level">Extruder %1$d\n%2$d°</string>
     <string name="hot_bed_level">Bet\n%d°</string>
+    <string name="chamber_level">Kammer\n%d°</string>
     <string name="fan_level">Lüfter\n%d%%</string>
     <string name="fan_level_index">Lüfter %1$d\n%2$d%%</string>
 
     <string name="printer_head_level_off">Extruder\nAUS</string>
     <string name="printer_headX_level_off">Extruder %d\nAUS</string>
     <string name="hot_bed_level_off">Bet\nAUS</string>
+    <string name="chamber_level_off">Kammer\nAUS</string>
     <string name="fan_level_off">Lüfter\nAUS</string>
     <string name="fan_level_index_off">Lüfter %d\nAUS</string>
 
     <string name="input_headX_level">Extruder %d (°)</string>
     <string name="input_bed_level">Bet (°)</string>
+    <string name="input_chamber_level">Kammer (°)</string>
     <string name="input_fan_level">Lüfter %d (%%)</string>
 
     <string name="input_feedrate">Feedrate (%)</string>

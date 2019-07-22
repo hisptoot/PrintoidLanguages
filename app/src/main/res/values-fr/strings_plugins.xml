@@ -9,12 +9,14 @@
     <string name="plugin_desc_psu">Plugin permettant de contrôler une alimentation ATX/AUX pour réduire votre consommation et le bruit lorsque l\'imprimante n\'est pas en fonctionnement.</string>
     <string name="plugin_desc_autoshutdown">Plugin permettant l\'arrêt automatique du serveur OctoPrint à la fin d\'une impression. Ne peut être contrôlé que lorsque le serveur est démarré.</string>
     <string name="plugin_desc_tp_link">Travail inspiré des plugins OctoPrint-PSUControl et TP-Link WiFi SmartPlug Client, ce plugin contrôle un Smartplug TP-Link via la barre de navigation d\'OctoPrint.</string>
+    <string name="plugin_desc_wemo">Ce plugin permet de contrôler les appareils Belkin Wemo via les boutons de la navbar et des commandes GCODE.</string>
     <string name="plugin_desc_enclosure">Contrôlez presque tout ce dont vous pourriez avoir besoin grâce à ce plugin de gestion d\'enclosure.</string>
     <string name="plugin_desc_navbartemp">Affiche la température du système dans la barre de navigation.</string>
     <string name="plugin_desc_octolapse">Octolapse est fait pour créer des timelapses stabilisés de vos impressions, et est extremement configurable. Vous n\'avez plus besoin d\'un stand stabilisé, et aucune customisation GCODE n\'est nécessaire.</string>
 
     <string name="plugin_message_psu">Le plugin PSU doit être installé sur votre Raspberry Pi. Il apparaîtra ainsi automatiquement dans le menu latéral de gauche dans l\'application.</string>
     <string name="plugin_message_tp_link">Le plugin TP-Link SmartPlug doit être installé sur votre Raspberry Pi. Il apparaîtra ainsi automatiquement dans le menu latéral de gauche dans l\'application.</string>
+    <string name="plugin_message_wemo">Le plugin WemoSwitch doit être installé sur votre Raspberry Pi. Il apparaîtra ainsi automatiquement dans le menu latéral de gauche dans l\'application.</string>
     <string name="plugin_message_enclosure">Ce plugin sera bientôt disponible dans Printoid, soyez patient :) Vous serez informé lorsqu\'il sera disponible.</string>
     <string name="plugin_message_navbartemp">Le plugin NavBar Temp doit être installé sur votre Raspberry Pi.\n\nLa température système s\'affichera automatiquement dans la barre de navigation.</string>
 
@@ -35,6 +37,11 @@
     <string name="plugin_tplink_enable">Activer le TP-Link SmartPlug</string>
     <string name="plugin_tplink_state">Etat actuel :</string>
     <string name="plugin_tplink_ip">Smartplug IP :</string>
+
+    <!-- WEMO SWITCH PLUGIN -->
+    <string name="plugin_wemo_enable">Activer le WemoSwitch</string>
+    <string name="plugin_wemo_state">Etat actuel :</string>
+    <string name="plugin_wemo_ip">WemoSwitch IP:</string>
 
     <!-- NAVBARTEMP PLUGIN -->
     <string name="plugin_navbartemp_temperature">Température du CPU du système</string>

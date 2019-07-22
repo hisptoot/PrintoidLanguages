@@ -58,6 +58,7 @@
     <string name="never_ask_again">Nooit meer vragen</string>
 
     <string name="heated_bed">Bed</string>
+    <string name="heated_chamber">Kamer</string>
     <string name="heated_head">Kop %d</string>
     <string name="extruder">Extruder %d</string>
 

@@ -124,7 +124,11 @@
     <string name="setting_enable_keyboard_control">Abilita i controlli con la tastiera</string>
     <string name="setting_enable_baby_stepping">Abilita il Baby Stepping</string>
     <string name="settings_octoprint_credentials">Credenziali del server OctoPrint</string>
+    <string name="setting_enable_hot_chamber">Abilita il controllo della camera riscaldata</string>
+    <string name="setting_max_chamber_temp">Temperatura massima della camera riscaldata.</string>
 
+    <string name="setting_enable_hot_chamber_tip">Regola e mostra la temperatura della camera riscaldata</string>
+    <string name="setting_max_chamber_temp_tip">Temperatura massima per la camera riscaldata</string>
     <string name="setting_enable_baby_stepping_tip">Consentire di spostare l\'asse in modo trasparente sul sistema di movimento</string>
     <string name="setting_enable_keyboard_control_tip">Controlla l\'interfaccia con una tastiera fisica</string>
     <string name="setting_manage_account_tip">Iscriviti / Registrati / Disconnetti il tuo Printoid account</string>
@@ -226,6 +230,7 @@
 
     <string name="setting_error_max_temp">Temperatura massima estrusore non valida, verificare il valore</string>
     <string name="setting_error_max_hot_bed">Temperatura massima del piatto riscaldato non valida, verificare il valore</string>
+    <string name="setting_error_max_hot_chamber">Temperatura massima del camera riscaldata non valida, verificare il valore</string>
     <string name="setting_error_max_fan">Livello di ventola massimo non valido, verifica il tuo valore</string>
     <string name="setting_error_extrusion">Lunghezza estrusione non valida, verifica il tuo valore</string>
     

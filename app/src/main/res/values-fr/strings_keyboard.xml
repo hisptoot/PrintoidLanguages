@@ -34,6 +34,8 @@
     <string name="keyboard_action_decrement_ext">décrémenter la température de l\'ext.%d</string>
     <string name="keyboard_action_increment_bed">incrémenter la température du lit chauffant</string>
     <string name="keyboard_action_decrement_bed">décrémenter la température du lit chauffant</string>
+    <string name="keyboard_action_increment_chamber">incrémenter la température de la chambre chauffante</string>
+    <string name="keyboard_action_decrement_chamber">décrémenter la température de la chambre chauffante</string>
     <string name="keyboard_action_select_tool">sélection de l\'outil %d</string>
     <string name="keyboard_action_print">imprimer le fichier sélectionné</string>
     <string name="keyboard_action_pause">mettre l\'impression en pause</string>

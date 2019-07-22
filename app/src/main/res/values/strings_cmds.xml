@@ -74,6 +74,15 @@
     <string name="command_tplink_turn_off_error">Turn OFF TPLink error</string>
     <string name="command_tplink_turn_on_error">Turn ON TPLink error</string>
 
+    <string name="command_wemo_turn_off_alert_title">Turn OFF WemoSwitch</string>
+    <string name="command_wemo_turn_off_alert_msg">Your WemoSwitch is actually ON.\n\nDo you want to turn it OFF right now?\n\nIf you are currently printing, the current job will be aborted and the progress will be lost.</string>
+    <string name="command_wemo_turn_on_alert_title">Turn ON WemoSwitch</string>
+    <string name="command_wemo_turn_on_alert_msg">Your WemoSwitch is actually OFF.\n\nDo you want to turn it ON right now?</string>
+    <string name="command_wemo_turned_off">WemoSwitch turned OFF</string>
+    <string name="command_wemo_turned_on">WemoSwitch turned ON</string>
+    <string name="command_wemo_turn_off_error">Turn OFF WemoSwitch error</string>
+    <string name="command_wemo_turn_on_error">Turn ON WemoSwitch error</string>
+
     <string name="commands_not_loaded_title">System commands not loaded</string>
     <string name="commands_not_loaded_msg">The OctoPrint system commands are currently not loaded for this profile, please wait a few seconds and retry.</string>
 

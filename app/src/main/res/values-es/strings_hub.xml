@@ -23,4 +23,7 @@
     <string name="hub_setting_hide_second_icon">Ocultar icono de Printoid Hub</string>
     <string name="hub_setting_hide_second_icon_tip">Oculte el segundo icono de la aplicación para iniciar Printoid Hub desde el iniciador de su aplicación</string>
 
+    <string name="hub_show_camera"><u>Show camera…</u></string>
+    <string name="hub_show_other_camera"><u>Show the other camera…</u></string>
+
 </resources>

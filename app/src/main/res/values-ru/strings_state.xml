@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="printer_state_octo_disconnected">Отключен</string>
-    <string name="printer_state_disconnected">Отключен</string>
-    <string name="printer_state_connecting">Подключение&#8230;</string>
+    <string name="printer_state_octo_disconnected">Сервер не подключен</string>
+    <string name="printer_state_disconnected">Принтер отключен</string>
+    <string name="printer_state_connecting">Подключение принтера&#8230;</string>
     <string name="printer_state_sending_file">Отправка файла…</string>
     <string name="printer_state_ready">Готов к печати</string>
     <string name="printer_state_paused">Пауза печати</string>

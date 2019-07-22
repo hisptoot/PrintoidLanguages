@@ -74,6 +74,15 @@
     <string name="command_tplink_turn_off_error">Errore Spegnimento TPLink</string>
     <string name="command_tplink_turn_on_error">Errore Accensione TPLink</string>
 
+    <string name="command_wemo_turn_off_alert_title">Spegni WemoSwitch</string>
+    <string name="command_wemo_turn_off_alert_msg">Il tuo WemoSwitch è attualmente ON.\n\nVuoi disattivarlo adesso OFF?\n\nSe si sta stampando, il lavoro corrente verrà interrotto e la stampa andrà persa.</string>
+    <string name="command_wemo_turn_on_alert_title">Accendi WemoSwitch</string>
+    <string name="command_wemo_turn_on_alert_msg">Il tuo WemoSwitch è attualmente OFF.\n\nVuoi accenderlo adesso ON?</string>
+    <string name="command_wemo_turned_off">WemoSwitch spegni OFF</string>
+    <string name="command_wemo_turned_on">WemoSwitch accendi ON</string>
+    <string name="command_wemo_turn_off_error">Errore Spegnimento WemoSwitch</string>
+    <string name="command_wemo_turn_on_error">Errore Accensione WemoSwitch</string>
+
     <string name="commands_not_loaded_title">Comandi di sistema non caricati</string>
     <string name="commands_not_loaded_msg">I comandi di sistema di OctoPrint non sono attualmente caricati per questo profilo, si prega di attendere qualche secondo e riprovare.</string>
 

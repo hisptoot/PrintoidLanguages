@@ -2,8 +2,9 @@
 <resources>
 
     <string name="alert_rate_app_title">Puntúe Printoid %s</string>
-    <string name="alert_rate_app_message">Ha utilizado Printoid desde hace nás de una semana, ¡gracias!\n\nSi le gusta la aplicación, no dudes puntuar Printoid %s en Google Play, esta es la mejor forma de dar soporte al desarrollador!</string>
+    <string name="alert_rate_app_message">¡Parece que utilizas mucho el Printoid, gracias!\nSi te encanta la aplicación, tómate unos segundos para calificarla en Google Play, ¡es una buena manera de apoyar al desarrollador!\n(Si te gusta la aplicación, ¡5⭐ es una buena nota!)</string>
 
+    <string name="rate_app_button_ok">OK no hay problema !</string>
     <string name="rate_app_button_never">Nunca</string>
     <string name="rate_app_button_later">Más tarde</string>
 

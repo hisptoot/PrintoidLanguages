@@ -58,6 +58,7 @@
     <string name="never_ask_again">Ne plus demander</string>
 
     <string name="heated_bed">Lit chauffant</string>
+    <string name="heated_chamber">Chambre chauffante</string>
     <string name="heated_head">Tête chauffante %d</string>
     <string name="extruder">Extrudeur %d</string>
 

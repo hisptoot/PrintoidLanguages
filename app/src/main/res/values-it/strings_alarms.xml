@@ -8,6 +8,7 @@
     <string name="alarm_type_progress">Progressi di stampa</string>
     <string name="alarm_type_temperature_hot_end">Temperatura Testa Heated</string>
     <string name="alarm_type_temperature_hot_bed">Temperatura Piatto</string>
+    <string name="alarm_type_temperature_chamber">Temperatura Camera</string>
     <string name="alarm_type_gcode_command">comando GCODE eseguito</string>
     <string name="alarm_type_z_height">Altezza Z</string>
 
@@ -18,6 +19,7 @@
     <string name="alarm_setting_value_progress">Avviso quando il lavoro raggiunge questo progresso (%)</string>
     <string name="alarm_setting_value_temperature_hot_end">Avvisa quando la parte calda raggiunge questa temperatura (°)</string>
     <string name="alarm_setting_value_temperature_hot_bed">Avvisare quando il Piatto raggiunge questa temperatura (°)</string>
+    <string name="alarm_setting_value_temperature_chamber">Avvisare quando il Camera raggiunge questa temperatura (°)</string>
     <string name="alarm_setting_value_gcode_command">Avvisa quando viene eseguito questo comando GCODE</string>
     <string name="alarm_setting_value_z_height">Avvisa quando l\'ugello raggiunge questa altezza (mm)</string>
     <string name="alarm_settins_value">Valore di allerta</string>
@@ -49,6 +51,7 @@
     <string name="alarm_notification_progress">Progressi in corso: %.1f%%</string>
     <string name="alarm_notification_temperature_hot_end">Temperatura estrusore. %1$d: %2$.1f°</string>
     <string name="alarm_notification_temperature_hot_bed">Temperatura Piatto: %.1f°</string>
+    <string name="alarm_notification_temperature_hot_chamber">Temperatura Camera: %.1f°</string>
     <string name="alarm_notification_gcode_command">comando GCODE eseguito: %s</string>
     <string name="alarm_notification_z_height">Altezza Z raggiunta: %.2f</string>
 

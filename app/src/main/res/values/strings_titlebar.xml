@@ -8,13 +8,14 @@
     <string name="title_bar_bed">Bed: %.1f°</string>
     <string name="title_system_raspberry">Raspberry: %s°</string>
     <string name="title_system_other">System: %s°</string>
+    <string name="title_bar_chamber">Chamber: %.1f°</string>
 
     <string name="title_bar_config_title">Title bar configuration</string>
 
     <string name="title_bar_toggle_server_name">Show server name</string>
     <string name="title_bar_toggle_printer_state">Show server state</string>
     <string name="title_bar_toggle_extruders_temp">Show extruders temperatures</string>
-    <string name="title_bar_toggle_hot_bed">Show hot bed temperature</string>
+    <string name="title_bar_toggle_hot_bed">Show heated bed temperature</string>
     <string name="title_bar_toggle_gcode_progress">Show expected progress</string>
     <string name="title_bar_toggle_time_progress">Show real progress</string>
     <string name="title_bar_toggle_remaining_time">Show remaining time</string>
@@ -22,11 +23,13 @@
     <string name="title_bar_toggle_z_height">Show Z height (mm)</string>
     <string name="title_bar_toggle_system_temperature">Show system temperature (°)</string>
     <string name="title_bar_spinner_change_delay">Change delay (sec)</string>
+    <string name="title_bar_toggle_hot_chamber">Show heated chamber temperature</string>
 
+    <string name="title_bar_toggle_hot_chamber_tip">Show heated chamber temp. or not in the title bar</string>
     <string name="title_bar_toggle_server_name_tip">Show server name or not in the title bar</string>
     <string name="title_bar_toggle_printer_state_tip">Show server state or not in the title bar</string>
     <string name="title_bar_toggle_extruders_temp_tip">Show extruders temp. or not in the title bar</string>
-    <string name="title_bar_toggle_hot_bed_tip">Show hot bed temp. or not in the title bar</string>
+    <string name="title_bar_toggle_hot_bed_tip">Show heated bed temp. or not in the title bar</string>
     <string name="title_bar_toggle_gcode_progress_tip">Show expected progress or not in the title bar</string>
     <string name="title_bar_toggle_time_progress_tip">Show real progress or not in the title bar</string>
     <string name="title_bar_toggle_remaining_time_tip">Show remaining time or not in the title bar</string>

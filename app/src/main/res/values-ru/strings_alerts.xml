@@ -78,9 +78,8 @@
     <string name="alert_select_tool_error">Не могу выбрать сопло %d</string>
 
     <string name="intro_printoid_website">Посетите https://printoid.net, официальный сайт Printoid! Списки изменений, новые версии, новые функции, советы по использованию и многое другое!</string>
-    <string name="intro_printoid_website_button">Перейти</string>
 
-    <string name="intro_spool_manager">Управляйте своим запасом катушек с помощью модуля Filament Spool Manager, доступного для Printoid PRO и PREMIUM! Бесплатная версия этого модуля позволяет вам управлять только двумя катушками!</string>
+    <string name="intro_spool_manager">Управляйте своим запасом катушек с помощью модуля Filament Spool Manager, доступного для Printoid PREMIUM! Бесплатная версия этого модуля позволяет вам управлять только двумя катушками!</string>
     <string name="intro_spool_manager_button">Установить сейчас</string>
 
     <string name="alert_fan_speed_value_title">Предупреждение о значении оборотов вентилятора</string>
@@ -95,8 +94,7 @@
     <string name="new_octoprint_version">Доступна новая версия OctoPrint! (v%s)</string>
     <string name="new_octoprint_release_candidate">Доступен новый выпуск OctoPrint! (v%s)</string>
 
-    <string name="promote_pro_message">Вам нравится Printoid? Это приложение - лучший компаньон для Вашего 3D-принтера?\n\nЕсли да, Вы можете купить Printoid PRO в Google Play для поддержки разработчика!\n\nВерсия Pro предлагает Вам потоковое видео, встроенные команды, 2D и 3D визуализаторы, симулятор в реальном времени и многое другое!</string>
-    <string name="promote_premium_message">Вам нравится Printoid? Это приложение - лучший компаньон для Вашего 3D-принтера?\n\nЕсли да, Вы можете купить Printoid PREMIUM в Google Play для поддержки разработчика!\n\nPREMIUM версия даст Вам возможность создать свой собственный физический интерфейс для Printoid!</string>
+    <string name="promote_premium_message">Поддержите разработчика Printoid и приобретите PREMIUM-версию приложения!\n\nPrintoid PREMIUM - лучший инструмент для ваших 3D-принтеров: потоковое видео, пользовательские команды, поддержка плагинов OctoPrint, средства просмотра 2D и 3D, виджеты, интеграция с RollingUp (диспетчер спула) и многое другое!</string>
 
     <string name="promote_donation_message">Вам нравится Printoid? Это приложение - лучший компаньон для Вашего 3D-принтера?\n\nЕсли да, Вы можете пожертвовать любую сумму для поддержки разработчика и его работы и помочь в разработке новых потрясающих функций!</string>
 

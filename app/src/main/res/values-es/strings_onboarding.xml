@@ -31,6 +31,11 @@
     <string name="onboarding_baudrate_message">Para crear una instancia de la conexión con su impresora 3D, proporcione su tasa de baudios.\n
         Esto se puede cambiar fácilmente si tiene más de una impresora 3D conectada.</string>
 
+    <string name="onboarding_credentials_title">Credenciales de OctoPrint (opcional)</string>
+    <string name="onboarding_credentials_message">¡Encienda la interfaz y muestre la información más rápido! Proporcione a Printoid las credenciales que usa para iniciar sesión en su aplicación web OctoPrint. Es opcional, pero se recomienda, especialmente para alimentar el terminal y la lista de complementos (es un requisito de OctoPrint desde la versión 1.3.10).</string>
+    <string name="onboarding_credentials_login_error">Por favor proporcione su nombre de usuario OctoPrint</string>
+    <string name="onboarding_credentials_password_error">Por favor proporcione su contraseña OctoPrint</string>
+
     <string name="onboarding_security_title">Seguridad (opcional)</string>
     <string name="onboarding_security_message_basic_auth"><![CDATA[Proporcione sus credenciales de autenticación básica si ha habilitado esta función en su servidor.\n
         <a href="https://printoid.net/access-octoprint-from-the-internet/"> Lea esta página </a> para obtener más información.]]></string>

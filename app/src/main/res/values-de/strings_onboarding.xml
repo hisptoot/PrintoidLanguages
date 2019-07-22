@@ -31,6 +31,11 @@
     <string name="onboarding_baudrate_message">Um die Verbindung mit Ihrem 3D-Drucker herzustellen, geben Sie bitte die Baudrate an.\n
         Dies kann leicht geändert werden, wenn mehr als ein 3D-Drucker angeschlossen ist.</string>
 
+    <string name="onboarding_credentials_title">OctoPrint-Anmeldeinformationen (optional)</string>
+    <string name="onboarding_credentials_message">Schalten Sie die Benutzeroberfläche ein und zeigen Sie Informationen schneller an! Geben Sie Printoid die Anmeldeinformationen, mit denen Sie sich in Ihrer OctoPrint-Web-App anmelden. Es ist optional, aber empfehlenswert, insbesondere das Terminal und die Liste der Plugins einzugeben (Dies ist eine OctoPrint-Anforderung seit Version 1.3.10).</string>
+    <string name="onboarding_credentials_login_error">Bitte geben Sie Ihren OctoPrint-Login an</string>
+    <string name="onboarding_credentials_password_error">Bitte geben Sie Ihr OctoPrint-Passwort ein</string>
+
     <string name="onboarding_security_title">Sicherheit (optional)</string>
     <string name="onboarding_security_message_basic_auth"><![CDATA[Geben Sie Ihre Anmeldeinformationen für die Basisauthentifizierung an, wenn Sie diese Funktion auf Ihrem Server aktiviert haben.\n
         <a href="https://printoid.net/access-octoprint-from-the-internet/">Weitere Informationen finden Sie auf dieser Seite</a>.]]></string>

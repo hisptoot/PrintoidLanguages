@@ -81,9 +81,8 @@
     <string name="alert_fan_speed_value_message">Es gibt keine Möglichkeit im Standard GCODE-Syntax um die aktuelle Geschwindigkeit eines Lüfters zu erhalten.\n\nDarum kann Printoid den Slider nicht auf den richtigen Wert setzen. Wenn der Slider 0% anzeigt, ist das kein Bug sondern eine technische Einschränkung \uD83D\uDE48</string>
 
     <string name="intro_printoid_website">Entdecke https://printoid.net, die offizielle Printoid-Website! Komplette Changelogs, nächste Versionen, neue Funktionen, nützliche Tipps &amp; mehr!</string>
-    <string name="intro_printoid_website_button">Jetzt besuchen</string>
 
-    <string name="intro_spool_manager">Verwalten Sie Ihren Spulenbestand mit dem Filament Spool Manager Modul, das für Printoid PRO und PREMIUM erhältlich ist! Mit der kostenlosen Version dieses Moduls können Sie bis zu 2 Spools verwalten.</string>
+    <string name="intro_spool_manager">Verwalten Sie Ihren Spulenbestand mit dem Filament Spool Manager Modul, das für Printoid PREMIUM erhältlich ist! Mit der kostenlosen Version dieses Moduls können Sie bis zu 2 Spools verwalten.</string>
     <string name="intro_spool_manager_button">Jetzt installieren</string>
 
     <string name="steaming_not_available">Streaming nicht verfügbar\nBitte prüfe Deine Kameraverbindung und die in Printoid eingestellten Pfade.</string>
@@ -95,8 +94,7 @@
     <string name="new_octoprint_version">Neue OctoPrint Version verfügbar! (v%s)</string>
     <string name="new_octoprint_release_candidate">Neue OctoPrint Release Kandidat verfügbar! (v%s)</string>
 
-    <string name="promote_pro_message">Liebst du Printoid? Ist diese App dein bester Begleiter für deinen 3D-Drucker?\n\nWenn ja und wenn du willst, kannst du Printoid PRO bei Google Play kaufen, um den Entwickler zu unterstützen!\n\nDie Pro-Version bringt Ihnen das Video-Streaming, die eingebauten Befehle, die 2D- und 3D-Visualizer, den Echtzeit-Simulator und vieles mehr!</string>
-    <string name="promote_premium_message">Liebst du Printoid? Ist diese App dein bester Begleiter für deinen 3D-Drucker?\n\nWenn ja und wenn du willst, kannst du Printoid PREMIUM bei Google Play kaufen, um den Entwickler zu unterstützen!\n\nDie Premium-Version bietet Ihnen die Möglichkeit, eine eigene physikalische Oberfläche für Printoid zu erstellen!</string>
+    <string name="promote_premium_message">Unterstützen Sie die Entwickler von Printoid und erwerben Sie die PREMIUM-Version der App!\n\nPrintoid PREMIUM ist das beste Tool für Ihre 3D-Drucker: Video-Streaming, benutzerdefinierte Befehle, Unterstützung der OctoPrint-Plugins, 2D- und 3D-Viewer, Widgets, Integration mit RollingUp (Spool-Manager) und vieles mehr!</string>
 
     <string name="promote_donation_message">Liebst du Printoid Premium? Ist diese App dein bester Begleiter für deinen 3D-Drucker?\n\nWenn ja und wenn du willst, Sie können den Betrag Ihrer Wahl spenden, um den Entwickler und seine Arbeit zu unterstützen und bei der Entwicklung neuer erstaunlicher Funktionen zu helfen!</string>
 

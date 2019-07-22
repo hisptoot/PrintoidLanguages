@@ -124,7 +124,11 @@
     <string name="setting_enable_keyboard_control">Включить управление с клавиатуры</string>
     <string name="setting_enable_baby_stepping">Включить Baby Stepping</string>
     <string name="settings_octoprint_credentials">Учетные данные сервера OctoPrint</string>
+    <string name="setting_enable_hot_chamber">Включить управление камерой с подогревом</string>
+    <string name="setting_max_chamber_temp">Макс. Температура нагреваемой камеры</string>
 
+    <string name="setting_enable_hot_chamber_tip">Отрегулируйте и покажите температуру нагретой камеры</string>
+    <string name="setting_max_chamber_temp_tip">Максимальная температура для камеры с подогревом</string>
     <string name="setting_enable_baby_stepping_tip">Позволяют прозрачно перемещать ось в систему движения</string>
     <string name="setting_enable_keyboard_control_tip">Управление интерфейсом с помощью физической клавиатуры</string>
     <string name="setting_manage_account_tip">Зарегистрируйтесь / войдите / выйдите из своей учетной записи Printoid</string>
@@ -226,6 +230,7 @@
 
     <string name="setting_error_max_temp">Неверная максимальная температура экструдера, пожалуйста проверьте</string>
     <string name="setting_error_max_hot_bed">Неверная максимальная температура стола, пожалуйста проверьте</string>
+    <string name="setting_error_max_hot_chamber">Неверная максимальная температура камера с подогревом, пожалуйста проверьте</string>
     <string name="setting_error_max_fan">Неверная максимальный уровень обдува, пожалуйста проверьте</string>
     <string name="setting_error_extrusion">Неверная длина выдавливания, пожалуйста проверьте</string>
     

@@ -2,8 +2,9 @@
 <resources>
 
     <string name="alert_rate_app_title">Noter Printoid %s</string>
-    <string name="alert_rate_app_message">Vous utilisez Printoid depuis plus d\'une semaine, merci !\n\nSi vous appréciez l\'application, n\'hésitez pas à noter Printoid %s sur Google Play, c\'est le meilleur moyen de supporter le développeur !</string>
+    <string name="alert_rate_app_message">Vous semblez beaucoup utiliser Printoid, merci!\nSi vous aimez l\’application, veuillez prendre quelques secondes pour la noter sur Google Play, c\’est un bon moyen de soutenir le développeur !\n(Si vous appréciez l\'application, 5⭐ est une bonne note !)</string>
 
+    <string name="rate_app_button_ok">OK, pas de problème !</string>
     <string name="rate_app_button_never">Jamais</string>
     <string name="rate_app_button_later">Plus tard</string>
 

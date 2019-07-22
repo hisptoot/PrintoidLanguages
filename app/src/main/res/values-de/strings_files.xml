@@ -76,4 +76,6 @@
 
     <string name="download_file_done">Auf Ihren internen Speicher heruntergeladene Datei (%s)</string>
 
+    <string name="upload_empty_folder">Dieser Ordner enthält keine 3D-Dateien!</string>
+
 </resources>

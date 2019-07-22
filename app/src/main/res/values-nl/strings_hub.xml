@@ -23,4 +23,7 @@
     <string name="hub_setting_hide_second_icon">Verberg Printoid Hub-pictogram</string>
     <string name="hub_setting_hide_second_icon_tip">Verberg het tweede app-pictogram om Printoid Hub te starten vanuit uw app-opstartprogramma</string>
 
+    <string name="hub_show_camera"><u>Show camera…</u></string>
+    <string name="hub_show_other_camera"><u>Show the other camera…</u></string>
+
 </resources>

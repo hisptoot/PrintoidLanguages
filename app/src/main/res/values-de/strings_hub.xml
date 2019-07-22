@@ -23,4 +23,7 @@
     <string name="hub_setting_hide_second_icon">Das Printoid Hub-Symbol ausblenden</string>
     <string name="hub_setting_hide_second_icon_tip">Blenden Sie das zweite App-Symbol aus, um Printoid Hub im App-Starter zu starten</string>
 
+    <string name="hub_show_camera"><u>Show camera…</u></string>
+    <string name="hub_show_other_camera"><u>Show the other camera…</u></string>
+
 </resources>

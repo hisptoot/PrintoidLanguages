@@ -34,6 +34,8 @@
     <string name="keyboard_action_decrement_ext">lagere temperatuur ext.%d</string>
     <string name="keyboard_action_increment_bed">hogere temperatuur verw. bed</string>
     <string name="keyboard_action_decrement_bed">lagere temperatuur verw. bed</string>
+    <string name="keyboard_action_increment_chamber">hogere temperatuur verw. kamer</string>
+    <string name="keyboard_action_decrement_chamber">lagere temperatuur verw. kamer</string>
     <string name="keyboard_action_select_tool">selecteer tool %d</string>
     <string name="keyboard_action_print">print het geselecteerde bestand</string>
     <string name="keyboard_action_pause">zet de printer op \"pauze\"</string>

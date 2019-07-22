@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="printer_state_octo_disconnected">Fuera de línea</string>
-    <string name="printer_state_disconnected">Desconectada</string>
-    <string name="printer_state_connecting">Conectando&#8230;</string>
+    <string name="printer_state_octo_disconnected">Servidor no conectado</string>
+    <string name="printer_state_disconnected">Impresora desconectada</string>
+    <string name="printer_state_connecting">Conexión de la impresora&#8230;</string>
     <string name="printer_state_sending_file">Enviando archivo…</string>
     <string name="printer_state_ready">Lista para imprimir</string>
     <string name="printer_state_paused">Impresión pausada</string>

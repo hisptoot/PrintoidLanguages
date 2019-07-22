@@ -90,9 +90,8 @@
     <string name="alert_choose_ip_wan" translatable="false">WAN</string>
 
     <string name="intro_printoid_website">Descubra o website official do Printoid em https://printoid.net ! Descrições completas das novas alterações de versão, próximos lançamentops, novos recursos, dicas úteis e muito mais!</string>
-    <string name="intro_printoid_website_button">Visite agora!</string>
 
-    <string name="intro_spool_manager">Gerencie seu estoque de bobinas com o módulo Gerenciador de Bobinas de Filamentos, compatível com o Printoid PRO e PREMIUM! A versão gratuita deste módulo permite gerenciar até 2 bobinas.</string>
+    <string name="intro_spool_manager">Gerencie seu estoque de bobinas com o módulo Gerenciador de Bobinas de Filamentos, compatível com o Printoid PREMIUM! A versão gratuita deste módulo permite gerenciar até 2 bobinas.</string>
     <string name="intro_spool_manager_button">Instale agora!</string>
 
     <string name="steaming_not_available">Streaming de vídeo não disponível.\nFavor verificar a conexão de sua câmera e os sufixos URL nos ajustes do Printoid.</string>
@@ -104,9 +103,7 @@
     <string name="new_octoprint_version">Nova versão do OctoPrint disponível! (v%s)</string>
     <string name="new_octoprint_release_candidate">Novo candidato a lançamento do OctoPrint disponível! (v%s)</string>
 
-    <string name="promote_pro_message">Você amou o Printoid? Este app é o melhor companheiro para você e sua impressora 3D? \n\nSe você achar que sim (e quiser), compre o Printoid PRO no Google Play para dar suporte ao desenvolvedor!\n\nA versão Pro traz para você o fluxo de vídeo (streaming), o recurso integrado de comandos GCODE e SSH, os visualizadores de arquivos 2D e 3D, o simulador de impressão em tempo real e muito mais!</string>
-    
-	<string name="promote_premium_message">Você amou o Printoid? Este app é o melhor companheiro para você e sua impressora 3D? \n\nSe você achar que sim (e quiser), compre o Printoid PREMIUM no Google Play para dar suporte ao desenvolvedor!\n\nA versão Premium oferece a você a possibilidade de criar sua própria interface física para o Printoid!</string>
+    <string name="promote_premium_message">Apoie o desenvolvedor do Printoid e compre a versão PREMIUM do aplicativo!\n\nO Printoid PREMIUM é a melhor ferramenta para suas impressoras 3D: streaming de vídeo, comandos personalizados, suporte a plug-ins do OctoPrint, visualizadores 2D e 3D, widgets, integração com o RollingUp (gerenciador de spool) e muito mais!</string>
 
     <string name="promote_donation_message">Você gostou do Printoid Premium? Este app é o melhor companheiro para você e sua impressora 3D?\n\nSe você quiser, pode doar um valor de sua escolha para apoiar o desenvolvedor e seu trabalho, ajudando assim no desenvolvimento de mais recursos novos e incríveis!</string>
 
