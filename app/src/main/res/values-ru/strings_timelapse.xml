@@ -44,8 +44,8 @@
     <string name="alert_video_player_permission_title">Проблема доступа</string>
     <string name="alert_video_player_permission_msg">Выбранный видеоплеер не имеет прав на чтение с внешнего хранилища.</string>
 
-    <string name="alert_vlc_title">Устанавка VLC™</string>
-    <string name="alert_vlc_msg">Android не может изначально воспроизводить видео MJEG. К счастью, VideoLAN Client ™ (VLC ™ Media Player) умеет его проигрывать!
+    <string name="alert_vlc_title">Устанавка VLC™ или MxPlayer™</string>
+    <string name="alert_vlc_msg">Android не может изначально воспроизводить видео MJEG. К счастью, VideoLAN Client ™ (VLC ™ Media Player) или MxPlayer™ может его проигрывать!
          Установите приложение на свой телефон и не забудьте активировать разрешение \"читать внешнее хранилище\".</string>
 
 </resources>

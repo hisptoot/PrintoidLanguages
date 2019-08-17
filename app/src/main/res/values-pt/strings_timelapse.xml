@@ -44,7 +44,7 @@
     <string name="alert_video_player_permission_title">Problema de permissão</string>
     <string name="alert_video_player_permission_msg">O player de vídeo selecionado não tem permissão para ler o armazenamento externo.</string>
 
-    <string name="alert_vlc_title">Instalar VLC™</string>
-    <string name="alert_vlc_msg">O Android não é capaz de reproduzir vídeos MJEG nativamente. Felizmente, o VideoLAN Client™ (VLC™ Media Player) pode reproduzi-los!.\n\nPor favor, instale o aplicativo no seu dispositivo e não se esqueça de ativar a permissão \"Ler armazenamento externo\".</string>
+    <string name="alert_vlc_title">Instalar VLC™ o MxPlayer™</string>
+    <string name="alert_vlc_msg">O Android não é capaz de reproduzir vídeos MJEG nativamente. Felizmente, o VideoLAN Client™ (VLC™ Media Player) o MxPlayer™ podem reproduzi-los!.\n\nPor favor, instale o aplicativo no seu dispositivo e não se esqueça de ativar a permissão \"Ler armazenamento externo\".</string>
 
 </resources>

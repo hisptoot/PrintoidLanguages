@@ -44,8 +44,8 @@
     <string name="alert_video_player_permission_title">Problème de permission</string>
     <string name="alert_video_player_permission_msg">Le lecteur vidéo sélectionné semble ne pas avoir la permission de lire le stockage externe.</string>
 
-    <string name="alert_vlc_title">Installer VLC™</string>
-    <string name="alert_vlc_msg">Android n\'est pas capable de lire les vidéos MJPEG nativement. Heureusement, VideoLAN Client™ (VLC™ Media Player) en est capable !\n\n
+    <string name="alert_vlc_title">Installer VLC™ ou MxPlayer™</string>
+    <string name="alert_vlc_msg">Android n\'est pas capable de lire les vidéos MJPEG nativement. Heureusement, VideoLAN Client™ (VLC™ Media Player) ou MxPlayer™ en sont capables !\n\n
         Veuillez installer l\'application sur votre appareil et ne pas oublier d\'accepter la permission \"Lire le stockage externe\".</string>
 
 </resources>

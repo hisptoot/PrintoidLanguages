@@ -44,8 +44,8 @@
     <string name="alert_video_player_permission_title">Probleem met rechten</string>
     <string name="alert_video_player_permission_msg">De geselecteerde video speler lijkt geen lees rechten te hebben op het externe opslag medium.</string>
 
-    <string name="alert_vlc_title">Installeer VLC™</string>
-    <string name="alert_vlc_msg">Android is niet in staat MJPEG\'s te tonen. Gelukkig kan de VideoLAN Client™ (VLC™ Media Player) dit wel!\n\n
+    <string name="alert_vlc_title">Installeer VLC™ of MxPlayer™</string>
+    <string name="alert_vlc_msg">Android is niet in staat MJPEG\'s te tonen. Gelukkig kan de VideoLAN Client™ (VLC™ Media Player) of MxPlayer™ kunnen!\n\n
         Gelieve deze applicatie op uw telefoon te installeren en niet vergeten (lees)rechten vanaf het externe geheugen te verlenen aan deze player.</string>
 
 </resources>
