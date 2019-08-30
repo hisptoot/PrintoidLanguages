@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="full_screen_helper_control">打印机控制全屏</string>
+    <string name="full_screen_helper_print">打印信息全屏</string>
+    <string name="full_screen_helper_temperature">温度信息全屏</string>
+    <string name="full_screen_helper_files">文件列表全屏</string>
+    <string name="full_screen_helper_streaming">视频监控全屏</string>
+    <string name="full_screen_helper_commands">指令终端全屏</string>
+
+</resources>

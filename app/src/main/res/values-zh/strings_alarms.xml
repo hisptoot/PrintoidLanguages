@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="notif_channel_name_alerts">提醒通知</string>
+
+    <string name="alarms_title">提醒管理</string>
+
+    <string name="alarm_type_progress">打印进度</string>
+    <string name="alarm_type_temperature_hot_end">打印头温度</string>
+    <string name="alarm_type_temperature_hot_bed">热床温度</string>
+    <string name="alarm_type_temperature_chamber">加热箱温度</string>
+    <string name="alarm_type_gcode_command">GCODE指令执行</string>
+    <string name="alarm_type_z_height">Z轴高度</string>
+
+    <string name="alerts_list_empty">尚未有提醒被创建</string>
+
+    <string name="alarm_setting_type">提醒的类型</string>
+    <string name="alarm_setting_sensitivity">该提醒的灵敏度</string>
+    <string name="alarm_setting_value_progress">当打印进度达到该百分比(%)时提醒</string>
+    <string name="alarm_setting_value_temperature_hot_end">当打印头达到该温度(°)时提醒</string>
+    <string name="alarm_setting_value_temperature_hot_bed">当热床达到该温度(°)时提醒</string>
+    <string name="alarm_setting_value_temperature_chamber">当加热箱达到该温度(°)时提醒</string>
+    <string name="alarm_setting_value_gcode_command">当该GCODE指令执行时提醒</string>
+    <string name="alarm_setting_value_z_height">当打印头达到该高度(mm)时提醒</string>
+    <string name="alarm_settins_value">提醒触发数值</string>
+    <string name="alarm_setting_vibration_pattern">震动模式</string>
+    <string name="alarm_setting_vibration_pattern_hint" translatable="false">0,100,75,100</string>
+
+    <string name="alarm_created">新的提醒已被创建</string>
+    <string name="alarm_updated">提醒已更新</string>
+    <string name="alarm_deleted">提醒已删除</string>
+
+    <string name="alarms_delete_alert_title">删除提醒</string>
+    <string name="alarms_delete_alert_msg">您真的要删除该提醒吗? 该操作将无法撤销.</string>
+
+    <string name="alarms_exit_editor_alert_title">保存改动</string>
+    <string name="alarms_exit_editor_alert_msg">在退出编辑器前, 您需要保存您的改动吗?</string>
+
+    <string name="alarm_alert_value_title">错误的提醒触发值</string>
+    <string name="alarm_alert_type_msg">触发值对于该提醒而言是错误的! 请联系Printoid的开发人员</string>
+    <string name="alarm_alert_value_progress_msg">请启用后台模式来保证打印结束时得到提醒, 而不是使用一个自定义提醒!</string>
+    <string name="alarm_alert_value_empty_msg">您应该为该提醒提供一个触发量!</string>
+    <string name="alarm_alert_value_float_msg">该提醒的触发量应该是一个浮点数或者整数!</string>
+
+    <string name="alarm_help_title">提醒管理器</string>
+    <string name="alarm_help_msg">您可以在Printoid中添加自定义提醒.\n\n
+        根据您的系统设置, 提醒将产生一个伴随着声音和震动安卓标准通知.\n\n
+        只有Printoid在前台或者在后台运行时, 提醒在会被触发.\n\n
+        请注意该特性仍在开发中, 后续将会有更大的加强! :)</string>
+
+    <string name="alarm_notification_title">提醒: %s</string>
+    <string name="alarm_notification_progress">当前进度: %.1f%%</string>
+    <string name="alarm_notification_temperature_hot_end">打印头 %1$d 温度: %2$.1f°</string>
+    <string name="alarm_notification_temperature_hot_bed">热床温度: %.1f°</string>
+    <string name="alarm_notification_temperature_hot_chamber">加热箱温度: %.1f°</string>
+    <string name="alarm_notification_gcode_command">GCODE指令被执行: %s</string>
+    <string name="alarm_notification_z_height">Z轴到达该高度: %.2f</string>
+
+</resources>

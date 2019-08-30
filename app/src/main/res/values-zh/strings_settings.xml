@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="settings_printer_profile" translatable="false">@string/menu_app_settings</string>
+    <string name="settings_printer_profile_with_version_msg" translatable="false">Printoid %1$s v%2$s</string>
+
+    <string name="setting_title_general">通用设置</string>
+    <string name="setting_title_communication">通讯设置</string>
+    <string name="setting_title_ui_settings">界面设置</string>
+    <string name="setting_title_connection">服务器连接设置</string>
+    <string name="setting_title_multiple_profiles">OctoPrint配置项设置</string>
+    <string name="setting_title_printer_connection">打印机连接设置</string>
+    <string name="setting_title_right_panel">右侧面板设置</string>
+    <string name="setting_title_cost_plugin">费用插件设置</string>
+    <string name="setting_title_tplink_plugin">TP Link插座插件设置</string>
+    <string name="setting_title_widgets">部件设置</string>
+    <string name="setting_title_tools">打印头, 热床, 加热箱设置</string>
+    <string name="setting_title_ventilation">风扇设置</string>
+    <string name="setting_title_controls">控制设置</string>
+    <string name="setting_title_streaming">视频监控设置</string>
+    <string name="setting_title_streaming_first">首要摄像头设置</string>
+    <string name="setting_title_streaming_second">次要摄像头设置</string>
+    <string name="setting_title_streaming_tools">视频流工具设置</string>
+    <string name="setting_title_backup">本地备份和恢复</string>
+    <string name="setting_title_accessibility">轻松使用设置</string>
+    <string name="setting_title_security">安全设置</string>
+    <string name="setting_title_pick_color">%1$s 部件背景色 (%2$s)</string>
+    <string name="setting_title_pick_text_color">%1$s 部件字体颜色 (%2$s)</string>
+    <string name="setting_title_toolbar">工具栏设置</string>
+    <string name="setting_title_language">语言设置</string>
+    <string name="setting_title_account">Printoid帐号</string>
+    <string name="setting_title_keyboard">使用键盘控制</string>
+
+    <string name="setting_enable_notif">启用通知提醒</string>
+    <string name="setting_battery_optimizations">为Printoid启用安卓电池优化</string>
+    <string name="setting_enable_unread_messages">显示未读消息</string>
+    <string name="setting_enable_changelogs">新版本提醒</string>
+    <string name="setting_enable_check_connection">定时检查连接</string>
+    <string name="setting_enable_always_prompt_tty">总是显示串口端口列表</string>
+    <string name="setting_enable_fix_octoprint_updates">修正连接问题</string>
+    <string name="setting_enable_axis_control_display">显示轴控制项</string>
+    <string name="setting_enable_printer_info_display">显示OctoPrint服务器信息</string>
+    <string name="setting_enable_auto_config">自动获取配置</string>
+    <string name="setting_enable_hot_bed">启用热床控制</string>
+    <string name="setting_enable_fps">显示视频监控帧率</string>
+    <string name="setting_enable_flip_vertical">垂直翻转</string>
+    <string name="setting_enable_flip_horizontal">水平翻转</string>
+    <string name="setting_enable_haptic">震动</string>
+    <string name="setting_enable_screensaver">屏幕保护</string>
+    <string name="setting_enable_ssl">使用HTTPS通讯(SSL/TLS)</string>
+    <string name="setting_enable_basic_auth">基础认证</string>
+    <string name="setting_enable_overlay">启用悬浮图标</string>
+    <string name="setting_enable_autostart_overlay">自动启动悬浮图标</string>
+    <string name="settings_extruders_count">打印头数量</string>
+    <string name="settings_fan_count">风扇数量</string>
+    <string name="settings_fan_count_id">GCODE风扇ID</string>
+    <string name="setting_enable_advanced_axis">启用高级轴控制(摇杆)</string>
+    <string name="setting_enable_invert_x">反转X轴控制</string>
+    <string name="setting_enable_invert_y">反转Y轴控制</string>
+    <string name="setting_enable_invert_z">反转Z轴控制</string>
+    <string name="setting_rotate_streaming">视频监控画面旋转(度)</string>
+    <string name="setting_snapshot_fps">每秒帧数</string>
+    <string name="setting_screen_orientation">屏幕方向</string>
+    <string name="settings_language">语言</string>
+    <string name="setting_force_24h">强制使用12h/24h时间格式</string>
+    <string name="setting_screen_refresh_idle">闲置刷新间隔(秒)</string>
+    <string name="setting_screen_refresh_printing">打印时刷新间隔(秒)</string>
+    <string name="setting_screen_refresh_background">后台刷新间隔(分钟)</string>
+    <string name="setting_theme">应用主题</string>
+    <string name="setting_sound">打印结束提示音</string>
+    <string name="setting_quick_access">快速访问</string>
+    <string name="setting_max_temp_1">打印头1最大温度</string>
+    <string name="setting_max_temp_2">打印头2最大温度</string>
+    <string name="setting_max_temp_3">打印头3最大温度</string>
+    <string name="setting_max_temp_4">打印头4最大温度</string>
+    <string name="setting_max_temp_5">打印头5最大温度</string>
+    <string name="setting_max_temp_6">打印头6最大温度</string>
+    <string name="setting_max_temp_7">打印头7最大温度</string>
+    <string name="setting_max_temp_8">打印头8最大温度</string>
+    <string name="setting_max_temp_9">打印头9最大温度</string>
+    <string name="setting_max_temp_10">打印头10最大温度</string>
+    <string name="setting_max_bed_temp">热床最大温度</string>
+    <string name="setting_max_fan">最大风扇速率</string>
+    <string name="setting_webcam_streaming">视频流地址</string>
+    <string name="setting_webcam_snapshot">快照地址</string>
+    <string name="setting_streaming_method">视频流模式</string>
+    <string name="setting_streaming_security">视频流加密(协议)</string>
+    <string name="setting_hint_webcam_suffix">链接地址或者后缀</string>
+    <string name="setting_extrusion">挤出长度</string>
+    <string name="setting_tools_presets">打印头预设</string>
+    <string name="setting_move_distance">移动距离</string>
+    <string name="setting_feedrate">打印速度倍率</string>
+    <string name="setting_flowrate">流量</string>
+    <string name="setting_basic_auth_login">基础认证用户名</string>
+    <string name="setting_basic_auth_pwd">基础认证密码</string>
+    <string name="setting_enable_fullscreen">全屏模式</string>
+    <string name="setting_enable_menu_button">显示菜单按钮</string>
+    <string name="setting_connected_keyboard_type">键盘类型</string>
+    <string name="setting_backup">备份配置信息</string>
+    <string name="setting_restore">恢复配置信息</string>
+    <string name="setting_show_tutorial_again">显示教程</string>
+    <string name="setting_contact">联系开发人员</string>
+    <string name="setting_website_rssfeed">Printoid官方网站</string>
+    <string name="setting_accessibility_red_green_weekness">红绿色盲模式</string>
+    <string name="settings_enable_right_panel_streaming">显示视频监控</string>
+    <string name="settings_enable_right_panel_commands">显示自定义指令</string>
+    <string name="settings_enable_right_panel_visualizer">显示实时2D预览器</string>
+    <string name="settings_enable_password_locker">启用密码锁屏</string>
+    <string name="settings_choose_password_locker">修改密码</string>
+    <string name="settings_enable_right_panel">启用右侧面板</string>
+    <string name="settings_enable_beta_program">启用测试程序</string>
+    <string name="setting_enable_keep_screen_on">保持屏幕常亮</string>
+    <string name="setting_config_camera_parameters">配置参数</string>
+    <string name="setting_cost_plugin_currency">货币</string>
+    <string name="setting_cost_plugin_cost_per_hour">每小时开销</string>
+    <string name="setting_cost_plugin_cost_per_meter">每米开销</string>
+    <string name="setting_cost_plugin_cost_per_weight">每公斤开销</string>
+    <string name="setting_cost_plugin_filament_diameter">耗材直径(mm)</string>
+    <string name="setting_cost_plugin_filament_density">耗材密度(g/cm³)</string>
+    <string name="setting_cost_plugin_cost_method">开销计算模式</string>
+    <string name="setting_connection_ip_selection_mode">连接模式</string>
+    <string name="setting_tplink_plugin_ip">TP Link IP地址</string>
+    <string name="setting_improve_connection">改善连接过程</string>
+    <string name="setting_enable_auto_screen_locker">自动锁定屏幕</string>
+    <string name="setting_enable_ask_profile">在启动时显示可用的OctoPrint服务器</string>
+    <string name="setting_manage_account">管理帐号</string>
+    <string name="setting_enable_keyboard_control">启用键盘控制</string>
+    <string name="setting_enable_baby_stepping">启用微量调整</string>
+    <string name="settings_octoprint_credentials">OctoPrint服务器认证信息</string>
+    <string name="setting_enable_hot_chamber">启用加热箱控制</string>
+    <string name="setting_max_chamber_temp">加热箱最大温度</string>
+
+    <string name="setting_enable_hot_chamber_tip">调节并显示加热箱温度</string>
+    <string name="setting_max_chamber_temp_tip">加热箱的最大温度</string>
+    <string name="setting_enable_baby_stepping_tip">允许在打印中微量调整轴的偏移量</string>
+    <string name="setting_enable_keyboard_control_tip">使用物理键盘控制界面</string>
+    <string name="setting_manage_account_tip">注册 / 登录 / 登出 您的Printoid帐号</string>
+    <string name="setting_enable_ask_profile_tip">应用启动时选择需要连接的服务器</string>
+    <string name="setting_enable_auto_screen_locker_tip">未活动15秒后锁屏</string>
+    <string name="setting_improve_connection_tip">需要网络粗略定位权限以获取WiFI SSID</string>
+    <string name="setting_enable_screensaver_tip">在未活动间隔后只显示当前任务信息</string>
+    <string name="setting_enable_fix_octoprint_updates_tip">如果您无法连接到OctoPrint, 开启此项</string>
+    <string name="setting_battery_optimizations_tip">电池优化功能可能会杀掉Printoid进程</string>
+    <string name="setting_enable_unread_messages_tip">网站发布新文章时进行提醒</string>
+    <string name="setting_enable_changelogs_tip">当GooglePlay上架新版本时进行提醒</string>
+    <string name="setting_enable_notif_tip">用通知栏保持应用在后台运行</string>
+    <string name="setting_enable_check_connection_tip">保证Printoid仍可以通讯</string>
+    <string name="setting_enable_always_prompt_tty_tip">无视默认选项, 在连接打印机时显示所有串口端口</string>
+    <string name="setting_enable_axis_control_display_tip">在视频监控画面上显示轴控制按钮</string>
+    <string name="setting_enable_printer_info_display_tip">在监控画面上显示温度和打印信息</string>
+    <string name="setting_enable_auto_config_tip">根据OctoPrint设置自动配置热床和打印头</string>
+    <string name="setting_enable_hot_bed_tip">调节并显示热床温度</string>
+    <string name="setting_enable_fps_tip">在画面上显示FPS信息</string>
+    <string name="setting_enable_flip_vertical_tip">垂直翻转视频画面</string>
+    <string name="setting_enable_flip_horizontal_tip">水平翻转视频画面</string>
+    <string name="setting_enable_haptic_tip">按按钮时进行触摸反馈</string>
+    <string name="setting_enable_ssl_tip">使用HTTPS协议而不是HTTP</string>
+    <string name="setting_ssl_mode_tip">在局域网或者公网使用HTTPS</string>
+    <string name="setting_enable_auto_trust_cert_tip">自动信任自签名证书 &#x26A0;</string>
+    <string name="setting_enable_use_modern_tls_tip">使用modern TLS (修正握手问题)</string>
+    <string name="setting_enable_basic_auth_tip">使用代理认证</string>
+    <string name="setting_enable_overlay_tip">在任何界面都能通过悬浮图标显示视频监控</string>
+    <string name="setting_enable_autostart_overlay_tip">打印开始时自动显示悬浮图标</string>
+    <string name="settings_extruders_count_tip">3D打印机可用打印头数量</string>
+    <string name="settings_fan_count_tip">3D打印机独立风扇数量</string>
+    <string name="settings_fan_count_id_tip">固件中风扇的ID</string>
+    <string name="setting_enable_advanced_axis_tip">摇杆可以让您在控制轴时更方便</string>
+    <string name="setting_enable_invert_x_tip">为X轴反转左/右移动按钮</string>
+    <string name="setting_enable_invert_y_tip">为Y轴反转上/下移动按钮</string>
+    <string name="setting_enable_invert_z_tip">为Z轴反转加/减移动按钮</string>
+    <string name="setting_rotate_streaming_tip">旋转视频流画面</string>
+    <string name="setting_snapshot_fps_tip">每秒抓取多少张图片</string>
+    <string name="setting_screen_orientation_tip">强制横屏或者竖屏</string>
+    <string name="settings_language_tip">强制显示选中的语言</string>
+    <string name="setting_force_24h_tip">强制12h或者24h模式, 或者让系统决定</string>
+    <string name="setting_screen_refresh_idle_tip">打印机待机状态下的刷新间隔</string>
+    <string name="setting_screen_refresh_printing_tip">打印状态下的刷新间隔</string>
+    <string name="setting_screen_refresh_background_tip">应用在后台运行时的刷新间隔</string>
+    <string name="setting_theme_tip">全局界面使用的色彩搭配</string>
+    <string name="setting_sound_tip">打印结束提醒时播放的音效</string>
+    <string name="setting_quick_access_tip">Printoid提示栏可以最多显示 %d 个图标</string>
+    <string name="setting_max_temp_1_tip">第1个热床的最大温度</string>
+    <string name="setting_max_temp_2_tip">第2个热床的最大温度</string>
+    <string name="setting_max_temp_3_tip">第3个热床的最大温度</string>
+    <string name="setting_max_temp_4_tip">第4个热床的最大温度</string>
+    <string name="setting_max_temp_5_tip">第5个热床的最大温度</string>
+    <string name="setting_max_temp_6_tip">第6个热床的最大温度</string>
+    <string name="setting_max_temp_7_tip">第7个热床的最大温度</string>
+    <string name="setting_max_temp_8_tip">第8个热床的最大温度</string>
+    <string name="setting_max_temp_9_tip">第9个热床的最大温度</string>
+    <string name="setting_max_temp_10_tip">第10个热床的最大温度</string>
+    <string name="setting_max_bed_temp_tip">热床的最大温度</string>
+    <string name="setting_max_fan_tip">风扇速率控制的GCODE最大数值</string>
+    <string name="setting_webcam_streaming_tip">视频流的完整链接地址或者后缀</string>
+    <string name="setting_webcam_snapshot_tip">快照的完整链接地址或者后缀</string>
+    <string name="setting_streaming_method_tip">视频流工作的方式</string>
+    <string name="setting_streaming_security_tip">强制使用HTTP或者HTTPS. 按照OctoPrint配置自动选择.</string>
+    <string name="setting_basic_auth_login_tip">基础认证的用户名</string>
+    <string name="setting_basic_auth_pwd_tip">基础认证的密码</string>
+    <string name="setting_enable_fullscreen_tip">隐藏安卓状态栏(应用需要重启)</string>
+    <string name="setting_enable_menu_button_tip">在隐藏状态下, 从左侧边框向右拖动可以打开菜单</string>
+    <string name="setting_keyboard_type_tip">您连接的键盘类型</string>
+    <string name="setting_backup_tip">把Printoid的所有配置信息保存到SD卡</string>
+    <string name="setting_restore_tip">从SD卡恢复Printoid的所有配置信息</string>
+    <string name="setting_show_tutorial_again_tip">再次显示演示界面</string>
+    <string name="setting_contact_tip">帮助, bug反馈, 功能需求, 改动请求…</string>
+    <string name="setting_website_rssfeed_tip"><![CDATA[You have <b><font color=#FF4444>%s</font></b> 未读消息]]></string>
+    <string name="setting_website_rssfeed_tip_nohtml">您有 %d 个未读消息</string>
+    <string name="setting_accessibility_red_green_weekness_tip">该模式适用于红绿色盲</string>
+    <string name="settings_enable_right_panel_streaming_tip">在打开右面板时显示视频监控</string>
+    <string name="settings_enable_right_panel_commands_tip">快速访问所有的自定义指令</string>
+    <string name="settings_enable_right_panel_visualizer_tip">显示当前打印层的2D切片预览画面</string>
+    <string name="settings_enable_password_locker_tip">打开Prinotid时要求输入密码</string>
+    <string name="settings_choose_password_locker_tip">修改当前密码</string>
+    <string name="settings_enable_right_panel_tip">允许使用滑动手势打开右侧菜单</string>
+    <string name="settings_enable_beta_program_tip">帮助开发人员开发新版本Printoid!</string>
+    <string name="setting_enable_keep_screen_on_tip">使用Printoid时强制屏幕亮起</string>
+    <string name="setting_config_camera_parameters_tip">亮度, 对比度, 饱和度, 质量, 曝光…</string>
+    <string name="setting_cost_plugin_currency_tip">用于开销预估的货币单位</string>
+    <string name="setting_cost_plugin_cost_per_hour_tip">每小时电力开销</string>
+    <string name="setting_cost_plugin_cost_per_meter_tip">每米耗材的开销</string>
+    <string name="setting_cost_plugin_cost_per_weight_tip">每千克耗材的开销</string>
+    <string name="setting_cost_plugin_filament_diameter_tip">通常是 1.75mm 或者 3mm</string>
+    <string name="setting_cost_plugin_filament_density_tip">通常是 1.25g/cm³ (PLA) 或者 1.01g/cm³ (ABS)</string>
+    <string name="setting_cost_plugin_cost_method_tip">如何计算耗材开销</string>
+    <string name="setting_connection_ip_selection_mode_tip">应用如何选项用于连接到OctoPrint的IP地址</string>
+    <string name="setting_tplink_plugin_ip_tip">您的TP Link智能插座的局域网IP地址</string>
+    <string name="setting_certificate_tip">SSL/TLS证书文件</string>
+    <string name="setting_certificate_select_tip">选择…</string>
+
+    <string name="setting_hint_id" translatable="false">ID</string>
+    <string name="setting_hint_temp" translatable="false">240</string>
+    <string name="setting_hint_fan" translatable="false">500</string>
+    <string name="setting_hint_extrusion" translatable="false">5</string>
+    <string name="setting_hint_login">用户名</string>
+    <string name="setting_hint_pwd">密码</string>
+
+    <string name="setting_error_max_temp">无效的最大打印头温度值, 请仔细检查您的值</string>
+    <string name="setting_error_max_hot_bed">无效的最大热床温度值, 请仔细检查您的值</string>
+    <string name="setting_error_max_hot_chamber">无效的最大加热箱温度值, 请仔细检查您的值</string>
+    <string name="setting_error_max_fan">无效的最大风扇速率值, 请仔细检查您的值</string>
+    <string name="setting_error_extrusion">无效的挤出长度值, 请仔细检查您的值</string>
+
+    <string name="settings_warning_reload_application">请重启Prinotid来应用新的主题</string>
+    <string name="setting_warning_max_quick_action_reached">你最多可以选择 %d 个功能</string>
+
+    <string name="config_title_alert_settings_changed">配置信息已发生变动</string>
+    <string name="config_title_alert_settings_changed_msg">配置信息已发生变动, 是否保存?</string>
+
+    <string name="settings_warning_permission_title">需要权限</string>
+    <string name="settings_warning_permission_backup_msg">Printoid需要写外部存储的权限用于备份配置信息.\n\n请在接下来的对话框中允许该权限, 然后再次点击"备份"按钮</string>
+    <string name="settings_warning_permission_restore_msg">Printoid需要读外部存储的权限用于恢复配置信息.\n\n请在接下来的对话框中允许该权限, 然后再次点击"恢复"按钮</string>
+    <string name="backup_canceled">备份已取消</string>
+    <string name="restore_canceled">恢复已取消</string>
+
+    <string name="settings_saved">配置信息已保存!</string>
+
+    <string name="backup_status_title">备份管理器</string>
+    <string name="backup_completed">备份已成功完成.\n\n可以在SD卡的/Printoid/settings目录下找到对应的文件</string>
+    <string name="backup_partial">备份部分成功.\n\n可以在SD卡的/Printoid/settings目录下找到对应的文件</string>
+    <string name="backup_completed_other">备份已成功完成.\n\n现在您可以关闭本应用了.</string>
+    <string name="backup_partial_other">备份部分成功.\n\n现在您可以关闭本应用了.</string>
+    <string name="backup_error_fnfe">备份错误(FileNotFound异常), 请联系Printoid开发人员</string>
+    <string name="backup_error_ioe"备份错误(IO异常), 请联系Printoid开发人员</string>
+    <string name="backup_error">备份错误, 请联系Printoid开发人员</string>
+    <string name="backup_error_permission">发生关于写权限的错误</string>
+    <string name="backup_error_unknown">发送未知错误, 请联系Printoid开发人员</string>
+
+    <string name="restore_status_title">恢复管理器</string>
+    <string name="restore_completed">恢复已成功完成, 需要重启本应用才能生效</string>
+    <string name="restore_partial">恢复部分成功, 需要重启本应用才能生效</string>
+    <string name="restore_error">恢复错误, 请联系Printoid开发人员</string>
+    <string name="restore_error_fnfe">恢复错误(FileNotFound异常), 请联系Printoid开发人员</string>
+    <string name="restore_error_ioe">恢复错误(IO异常), 请联系Printoid开发人员</string>
+    <string name="restore_error_cnfe">恢复错误(ClassNotFound异常), 请联系Printoid开发人员</string>
+    <string name="restore_error_nothing">未找到恢复文件, 请确保你把文件拷贝到了SD卡的/Printoid/settings/目录中</string>
+    <string name="restore_error_permission">发生关于读权限的错误</string>
+    <string name="restore_error_unknown">发送未知错误, 请联系Printoid开发人员</string>
+
+    <string name="baby_stepping_distance">微量调整距离</string>
+    <string name="baby_stepping_disabled">已禁用</string>
+    <string name="baby_stepping_reprap_118" translatable="false">RepRapFirmware (v1.18+)</string>
+    <string name="baby_stepping_reprap_121" translatable="false">RepRapFirmware (v1.21+)</string>
+    <string name="baby_stepping_repetier" translatable="false">Repetier</string>
+    <string name="baby_stepping_marlin_117" translatable="false">Marlin (v1.1.7+)</string>
+
+    <string name="widget_setting_text_color" translatable="false">文本</string>
+    <string name="widget_setting_background_color" translatable="false">背景</string>
+
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="notif_channel_name_pull_service">Printoid后台客户端</string>
+
+    <string name="notif_foreground_service_title" translatable="false">@string/notif_channel_name_pull_service</string>
+    <string name="notif_foreground_service_msg">Printoid将在后台与OctoPrint通讯…</string>
+
+    <string name="notif_print_completed">打印结束</string>
+    <string name="notif_print_paused">打印暂停</string>
+    <string name="notif_printing">打印开始</string>
+    <string name="notif_printing_percent">打印中 [ 进度: %1$.1f%% - %2$s ]</string>
+    <string name="notif_paused_percent">已暂停 [ 进度: %1$.1f%% - %2$s ]</string>
+
+    <string name="notification_file">文件: %s</string>
+    <string name="notification_time_progress">时间进度: %.1f%%</string>
+    <string name="notification_gcode_progress">Gcode进度: %.1f%%</string>
+    <string name="notification_remaining_time">剩余时间: %s</string>
+    <string name="notification_end_time">结束时间: %s</string>
+    <string name="notification_temperature">温度: %1$.1f° / %2$.1f°</string>
+    <string name="notification_temperature_ext_0">打印头0 [%1$.1f°/%2$.1f°]</string>
+    <string name="notification_temperature_ext_1">打印头1 [%1$.1f°/%2$.1f°]</string>
+    <string name="notification_temperature_bed">热床 [%1$.1f°/%2$.1f°]</string>
+
+</resources>

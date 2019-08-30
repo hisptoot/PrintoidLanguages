@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="commands_panel_label">指令</string>
+    <string name="commands_history_label">GCODE历史</string>
+    <string name="commands_editing_label">指令编辑器</string>
+
+    <string name="abitrary_gcode_command">发送GCODE指令</string>
+    <string name="add_command">添加新指令</string>
+    <string name="add_command_type">类型</string>
+    <string name="add_command_curl_type">方法</string>
+    <string name="add_command_label">标签</string>
+    <string name="add_command_command_title">执行的指令</string>
+    <string name="add_command_content">指令参数</string>
+    <string name="add_command_icon">图标</string>
+    <string name="add_command_color">图标颜色</string>
+    <string name="add_command_show_on_home">在首页展示</string>
+    <string name="add_command_favorite">标记为喜欢</string>
+    <string name="add_command_request_confirmation">确认</string>
+    <string name="add_command_wait_result">显示指令结果</string>
+    <string name="add_command_name">指令标签</string>
+    <string name="add_command_command">指令</string>
+    <string name="add_command_argument">参数</string>
+    <string name="delete_command_title">删除指令</string>
+    <string name="delete_command_msg">删除指令后无法撤销, 是否确认?</string>
+    <string name="add_command_error_name">无效的指令名称, 请检查您输入的值</string>
+    <string name="add_command_error_command">无效指令, 请检查您输入的值</string>
+    <string name="add_command_error_command_octoprint">无效指令, 没有可用的OctoPrint指令</string>
+    <string name="command_detail_ssh">SSH指令 : %s</string>
+    <string name="command_detail_gcode">Gcode指令 : %s</string>
+    <string name="command_sent">指令已发送</string>
+    <string name="command_sent_answer">指令执行结果: %s</string>
+    <string name="command_not_sent">发送指令时发生错误: %s</string>
+    <string name="command_not_sent_reason">发送指令时发生错误: %1$s (%2$s)</string>
+    <string name="send_command_error">指令错误: %1$s (%2$d)</string>
+
+    <string name="command_help_for">点击此处查看 %s 指令的教程</string>
+
+    <string name="command_add_new">添加</string>
+
+    <string name="alert_command_help_title">什么是自定义指令?</string>
+    <string name="alert_command_help_message">Printoid允许您使用您自己的指令来进行定制化.\n\n
+    1/ <b>OctoPrint系统指令:</b> Printoid可以执行您在config.yaml里定义的指令\n\n
+    2/ <b>GCODE指令:</b> 您可以发送自定义GCODE指令到3D打印机. 指令可以是单独一条也可以是多条为一组(通过回车符分割)\n\n
+    3/ <b>SSH指令:</b> 您可以通过SSH向树莓派发送指令，例如GPIO操作或者执行脚本等\n\n
+    4/ <b>CURL指令:</b> 您可以通过CURL命令向树莓派发送指令(在Printoid中指令类似command?enable=relay1或者api/plugin/psucontrol再跟着一个JSON参数)\n\n
+    更多信息可以在官网查看 https://printoid.net</string>
+
+    <string name="max_home_commands_reached_title">首页指令已达到上限</string>
+    <string name="max_home_commands_reached_msg">您刚刚选择了在首页显示 %d 指令.\n\n请在添加该指令前从首页删除一个指令.</string>
+
+    <string name="command_confirmation_title">发送指令确认</string>
+    <string name="command_confirmation_msg">Printoid将会发送如下指令: %s\n\n是否确认?</string>
+
+    <string name="command_list_empty">没有可用的指令</string>
+    <string name="command_list_no_favs">没有标记为喜欢的指令</string>
+    <string name="gcode_base_list_empty">未知GCODE指令</string>
+
+    <string name="command_psu_turn_off_alert_title">关闭电源</string>
+    <string name="command_psu_turn_off_alert_msg">您的电源处于通电状态.\n\n您是否想要现在关闭它?\n\n如果您现在正在打印中, 当前打印任务将会被终止, 正在打印中的物体将会报废.</string>
+    <string name="command_psu_turn_on_alert_title">打开电源</string>
+    <string name="command_psu_turn_on_alert_msg">您的电源处于断电状态.\n\n您是否想要现在打开它?</string>
+    <string name="command_psu_turned_off">电源已关闭</string>
+    <string name="command_psu_turned_on">电源已打开</string>
+    <string name="command_psu_turn_off_error">电源关闭错误</string>
+    <string name="command_psu_turn_on_error">电源打开错误</string>
+
+    <string name="command_tplink_turn_off_alert_title">关闭TPLink智能插座</string>
+    <string name="command_tplink_turn_off_alert_msg">您的TPLink插座处于通电状态.\n\n您是否现在关闭它?\n\n如果您现在正在打印中, 当前打印任务将会被终止, 正在打印中的物体将会报废.</string>
+    <string name="command_tplink_turn_on_alert_title">打开TPLink智能插座</string>
+    <string name="command_tplink_turn_on_alert_msg">您的TPLink插座处于断电状态.\n\n您是否想要现在打开它?</string>
+    <string name="command_tplink_turned_off">TPLink插座已关闭</string>
+    <string name="command_tplink_turned_on">TPLink插座已打开</string>
+    <string name="command_tplink_turn_off_error">TPLink插座关闭错误</string>
+    <string name="command_tplink_turn_on_error">TPLink插座打开错误</string>
+
+    <string name="command_wemo_turn_off_alert_title">关闭Wemo智能插座</string>
+    <string name="command_wemo_turn_off_alert_msg">您的Wemo插座处于通电状态.\n\n您是否现在关闭它?\n\n如果您现在正在打印中, 当前打印任务将会被终止, 正在打印中的物体将会报废.</string>
+    <string name="command_wemo_turn_on_alert_title">打开Wemo智能插座</string>
+    <string name="command_wemo_turn_on_alert_msg">您的Wemo插座处于断电状态.\n\n您是否想要现在打开它?</string>
+    <string name="command_wemo_turned_off">Wemo插座已关闭</string>
+    <string name="command_wemo_turned_on">Wemo插座已打开</string>
+    <string name="command_wemo_turn_off_error">Wemo插座关闭错误</string>
+    <string name="command_wemo_turn_on_error">Wemo插座打开错误</string>
+
+    <string name="commands_not_loaded_title">系统指令尚未加载</string>
+    <string name="commands_not_loaded_msg">当前打印机的OctoPrint系统指令尚未被加载, 请耐心等待几秒钟再试.</string>
+
+    <string name="commands_empty_title">没有系统指令</string>
+    <string name="commands_empty_msg">当前打印机没有OctoPrint系统指令. 您可以在OctoPrint的config.yaml文件中配置一些新的系统指令.</string>
+
+    <string name="commands_config_menu_title">指令配置</string>
+    <string name="commands_show_only_favorites">只显示标记为喜欢的</string>
+    <string name="commands_show_temperatures">显示温度相关指令</string>
+    <string name="commands_filter_temperatures">过滤温度相关指令</string>
+    <string name="commands_filter_temperatures_on">过滤温度相关指令已开启</string>
+    <string name="commands_filter_temperatures_off">过滤温度相关指令已关闭</string>
+    <string name="commands_show_only_favorites_on">只显示标记为喜欢的指令</string>
+    <string name="commands_show_only_favorites_off">显示所有指令</string>
+
+</resources>

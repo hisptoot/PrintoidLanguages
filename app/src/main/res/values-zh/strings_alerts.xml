@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="alert_pro_feature_title">旗舰版功能</string>
+    <string name="alert_pro_feature_streaming_msg">本Printoid是免费版本. 视频流查看功能仅在旗舰版中提供, 快去Google Play下载吧!</string>
+    <string name="alert_pro_feature_plugins_msg">本Printoid是免费版本. OctoPrint插件功能仅在旗舰版中提供, 快去Google Play下载吧!</string>
+    <string name="alert_pro_feature_screensaver_msg">本Printoid是免费版本. 屏幕保护模式仅在旗舰版中提供, 快去Google Play下载吧!</string>
+    <string name="alert_pro_feature_command_msg">本Printoid是免费版本. 自定义SSH及GCODE指令功能仅在旗舰版中提供, 快去Google Play下载吧!</string>
+    <string name="alert_pro_feature_octoprint_web_interface_msg">本Printoid是免费版本. 访问Octoprint网页界面功能仅在旗舰版中提供, 快去Google Play下载吧!</string>
+    <string name="alert_pro_feature_multi_profile_msg">本Printoid是免费版本. 添加多个打印机配置功能仅在旗舰版中提供, 快去Google Play下载吧!</string>
+    <string name="alert_pro_feature_render_msg">本Printoid是免费版本. GCODE及STL 3D预览功能仅在旗舰版中提供, 快去Google Play下载吧!</string>
+    <string name="alert_pro_feature_layers_msg">本Printoid是免费版本. GCODE 2D层视图功能仅在旗舰版中提供, 快去Google Play下载吧!</string>
+    <string name="alert_pro_feature_realtime_layers_msg">本Printoid是免费版本. 实时层视图功能仅在旗舰版中提供, 快去Google Play下载吧!</string>
+    <string name="alert_pro_feature_spools_manager_msg">本Printoid是免费版本. 耗材管理器模块仅在旗舰版中提供, 快去Google Play下载吧!</string>
+
+    <string name="alert_cancel_print_title">中止当前打印</string>
+    <string name="alert_cancel_print_msg">当前打印任务将会被取消, 是否继续?\n被取消的打印任务将无法恢复到之前的状态, 您的打印物将会报废.</string>
+
+    <string name="alert_start_print_title">开始打印任务</string>
+    <string name="alert_start_print_msg">将要打印当前选中的文件, 是否继续?</string>
+    <string name="alert_start_print_file_msg">将要打印文件 <b>%s</b>, 是否继续?</string>
+
+    <string name="alert_pause_print_title">暂停当前打印</string>
+    <string name="alert_pause_print_msg">当前打印任务将会被暂停, 是否继续?</string>
+
+    <string name="alert_resume_print_title">继续当前打印</string>
+    <string name="alert_resume_print_msg">继续进行当前打印任务, 是否继续?</string>
+
+    <string name="alert_restart_print_title">重新开始打印任务</string>
+    <string name="alert_restart_print_msg">当前打印任务将会重新开始, 是否继续?\n之前的打印任务将无法恢复, 您的打印物将会报废</string>
+
+    <string name="alert_delete_printer_profile_title">删除OctoPrint配置</string>
+    <string name="alert_delete_printer_profile_message">本OctoPrint配置将会被删除, 是否确认?\n本操作无法被撤销.</string>
+
+    <string name="alert_streaming_issue_title">视频流</string>
+    <string name="alert_streaming_issue_msg">警告!\n\n如果您在使用Printoid内置视频播放器遇到了问题(比如黑屏、连接错误或者导致您的OctoPrint服务器崩溃), 您可以在设置项中切换到 "网页视图"" 模式.\n\n如果该默认仍未解决您的问题, 请联系开发人员 :)</string>
+    <string name="alert_streaming_remind_me">提醒我</string>
+
+    <string name="alert_floating_icon_title">悬浮图标</string>
+    <string name="alert_floating_icon_msg">悬浮图标是Printoid的一个功能.它能悬浮在您手机任意界面上,让您可以随时查看视频流.\n\n
+        您是否想要开启? 该功能可以在设置中开启或关闭.</string>
+
+    <string name="alert_snapshot_ready_title">快照已截取</string>
+    <string name="alert_snapshot_ready_msg">您的快照已截取, 您可以把它保存到外置存储或者和他人分享.</string>
+
+    <string name="alert_snapshot_error_title">快照截取失败</string>
+    <string name="alert_snapshot_error_msg">Printoid无法截取快照. 请检查您的配置并重试.</string>
+
+    <string name="toast_snapshot_saved">快照已保存到 %s</string>
+    <string name="toast_snapshot_save_error">Printoid无法保存您的快照</string>
+
+    <string name="alert_license_invalid_title">无效的许可证书</string>
+    <string name="alert_license_invalid_message">您的Printoid许可证书似乎是无效的. %1$s版的功能将会被自动关闭.\n\n您是否想要从Google Play中购买Printoid %2$s版?\n\n(如果您已经购买过 %3$s版本, 请点击 \"帮助\" 按钮)\n\n[无法和开发人员取得联系: %4$s]</string>
+    <string name="purchase">购买</string>
+    <string name="license_error_contacting_server" translatable="false">ERROR_CONTACTING_SERVER</string>
+    <string name="license_error_server_failure" translatable="false">ERROR_SERVER_FAILURE</string>
+    <string name="license_error_invalid_package_name" translatable="false">ERROR_INVALID_PACKAGE_NAME</string>
+    <string name="license_error_non_matching_uid" translatable="false">ERROR_NON_MATCHING_UID</string>
+    <string name="license_error_not_market_managed" translatable="false">ERROR_NOT_MARKET_MANAGED</string>
+    <string name="license_error_over_quota" translatable="false">ERROR_OVER_QUOTA</string>
+    <string name="license_error_not_licensed" translatable="false">NOT_LICENSED</string>
+
+    <string name="alert_theme_changed_title">重启以应用新主题</string>
+    <string name="alert_theme_changed_msg">您必须重启本应用才能让新主题生效. 您是否想要立刻重启?</string>
+
+    <string name="alert_language_changed_title">重启以应用新语言</string>
+    <string name="alert_language_changed_msg">您必须重启本应用才能让新语言生效. 您是否想要立刻重启?</string>
+
+    <string name="alert_manage_file_title" translatable="false">文件 \'%s\'</string>
+    <string name="alert_manage_file_msg">您希望如何处理该文件? 您可以上传到当前服务器或者以2D或3D的形式预览.</string>
+
+    <string name="alert_permission_denied_title">权限不足</string>
+    <string name="alert_permission_denied_read_msg">Printoid无法执行该操作, 因为您拒绝了 <b>读取外部存储</b> 权限.\n\n您是否想要手动启用该权限?</string>
+    <string name="alert_permission_denied_write_msg">Printoid无法执行该操作, 因为您拒绝了 <b>写入外部存储</b> 权限.\n\n您是否想要手动启用该权限?</string>
+    <string name="alert_permission_denied_camera_msg">Printoid无法执行该操作, 因为您拒绝了 <b>访问摄像头</b> 权限.\n\n您是否想要手动启用该权限?</string>
+
+    <string name="alert_select_tool_title">选择打印头</string>
+    <string name="alert_select_tool_message">为 %s 选择打印头:</string>
+    <string name="alert_select_tool_message_retraction">退料</string>
+    <string name="alert_select_tool_message_extrusion">进料</string>
+    <string name="alert_select_tool_extruder">打印头 %1$d (工具头%2$d)</string>
+    <string name="alert_select_tool_keep_for">记住打印头30秒</string>
+    <string name="alert_select_tool_error">无法选择打印头 %d</string>
+
+    <string name="alert_fan_speed_value_title">有关风扇速度值的提示</string>
+    <string name="alert_fan_speed_value_message">标准GCODE无法获取到当前风扇的速度.\n\n这就是Printoid无法把风扇速度滑块值设置为实际数值的原因. 如果滑块值显示为0%, 这是一个正常的行为而不是一个bug \uD83D\uDE48</string>
+
+    <string name="alert_choose_ip_title">选择IP地址</string>
+    <string name="alert_choose_ip_msg">Printoid似乎无法连接到您的OctoPrint服务.\n请选择用于该SSH命令的IP地址(或者域名)</string>
+    <string name="alert_choose_ip_lan" translatable="false">LAN</string>
+    <string name="alert_choose_ip_wan" translatable="false">WAN</string>
+
+    <string name="intro_printoid_website">访问Printoid的官方网站 https://printoid.net ! 这里有完整的更新日志、新的发布信息、新的功能信息、实用技巧以及更多!</string>
+    <string name="intro_printoid_website_image_url" translatable="false">https://printoidnet.files.wordpress.com/2019/07/screen-shot-2019-07-18-at-15.20.32.png</string>
+
+    <string name="intro_spool_manager">使用耗材管理器模块来管理您的耗材, 该功能兼容Printoid旗舰版! 该模块的免费版本允许您管理最多两卷耗材.</string>
+    <string name="intro_spool_manager_button">马上安装</string>
+
+    <string name="steaming_not_available">视频流无法访问.\n请在Printoid设置中检查您的摄像头连接以及URL后缀.</string>
+
+    <string name="file_list_empty">没有可用文件</string>
+
+    <string name="screen_locked_msg">屏幕\n已锁定!</string>
+
+    <string name="new_octoprint_version">有新的OctoPrint版本可用! (v%s)</string>
+    <string name="new_octoprint_release_candidate">有新的OctoPrint候选版本可用! (v%s)</string>
+
+    <string name="promote_premium_message">支持Printoid的开发人员, 购买旗舰版吧!\n\nPrintoid旗舰版是您3D打印机最好的工具: 视频流, 自定义指令, 支持OctoPrint插件, 2D及3D查看器, 桌面小部件, 与RollingUp(耗材管理器)的集成以及更多!</string>
+
+    <string name="promote_donation_message">您是否喜欢Printoid旗舰版? 本应用是否是您3D打印机的最佳拍档?\n\n如果是并且您愿意, 您可以依据喜好捐款，来表达您对开发人员及他的工作的支持，并让应用的功能更加强大!</string>
+
+    <string name="notif_channel_name_overlay">悬浮服务通知</string>
+    <string name="notif_overlay_running_title">开启悬浮视频流</string>
+    <string name="notif_overlay_running_message">点击此处关闭视频流</string>
+
+    <string name="alert_baby_stepping_sent">微量调整(BabyStep) %s 已发送</string>
+
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="temperatures_state_all_correct">所有的温度都正常!</string>
+    <string name="temperatures_state_bed_issue_only">热床加热故障: %1$.1f / %2$.1f</string>
+    <string name="temperatures_state_ext_issue_only">打印头%1$d加热故障: %2$.1f / %3$.1f</string>
+    <string name="temperatures_state_ext_issues">有%s个打印头加热发生故障!</string>
+
+    <string name="z_height_unit" translatable="false">mm</string>
+
+</resources>

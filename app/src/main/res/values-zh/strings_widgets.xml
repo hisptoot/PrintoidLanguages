@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string translatable="false" name="widget_snapshot_name">摄像头部件(快照)</string>
+    <string translatable="false" name="widget_job_name">服务器状态部件</string>
+    <string translatable="false" name="widget_job_name_4x1">服务器状态部件 (4x1)</string>
+    <string translatable="false" name="widget_job_name_4x2">服务器状态部件 (4x2)</string>
+    <string translatable="false" name="widget_starter_name">快速连接服务器</string>
+    <string translatable="false" name="widget_profiles_name">服务器列表</string>
+
+    <string translatable="false" name="widget_snapshot_name_reduced">摄像头</string>
+    <string translatable="false" name="widget_job_name_reduced">状态</string>
+    <string translatable="false" name="widget_starter_name_reduced">快速连接</string>
+    <string translatable="false" name="widget_profiles_name_reduced">服务列表</string>
+
+    <string name="widget_no_snapshot_connection">无法接收快照\n(%s)</string>
+    <string name="widget_no_snapshot_connection_unknown_profile">无法接收快照</string>
+    <string name="widget_unknown_profile">未知配置项</string>
+
+    <string name="widget_starter_error_no_profiles">无法选择配置项: 没有可用配置项</string>
+    <string name="widget_starter_error_profile_not_found">无法选择配置项: 未找到或者没有更多的了</string>
+    <string name="widget_starter_error_null_id">无法选择配置项: id不合法</string>
+
+    <string name="widget_empty_profiles" translatable="false">没有OctoPrint配置项</string>
+
+    <string name="widget_id" translatable="false">部件ID: %d</string>
+
+</resources>

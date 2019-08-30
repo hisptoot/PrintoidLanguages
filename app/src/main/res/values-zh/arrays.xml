@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="titlebar_change_delay_array" translatable="false">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+
+    <string-array name="command_types_array" translatable="false">
+        <item>SSH</item>
+        <item>GCODE</item>
+        <item>OctoPrint (系统)</item>
+        <item>CURL</item>
+    </string-array>
+
+    <string-array name="themes_array" translatable="false">
+        <item>经典</item>
+        <item>黑色</item>
+        <item>高对比度(OLED)</item>
+        <item>暗绿</item>
+        <item>暗红</item>
+        <item>暗蓝</item>
+        <item>海洋蓝</item>
+        <item>火焰红</item>
+        <item>夏日绿</item>
+        <item>阴影黑</item>
+    </string-array>
+
+    <string-array name="security_settings_array">
+        <item>自动</item>
+        <item>HTTP</item>
+        <item>HTTPS</item>
+    </string-array>
+
+    <string-array name="setting_connection_mode_array">
+        <item>自动</item>
+        <item>LAN优先</item>
+        <item>WAN优先</item>
+    </string-array>
+
+    <string-array name="screen_orientations_array">
+        <item>自动</item>
+        <item>竖屏</item>
+        <item>竖屏反转</item>
+        <item>横屏</item>
+        <item>横屏反转</item>
+    </string-array>
+
+    <string-array name="streaming_method_array">
+        <item>视频播放器</item>
+        <item>网页视图</item>
+        <item>快照</item>
+    </string-array>
+
+    <string-array translatable="false" name="keyboard_type_array">
+        <item>QWERTY</item>
+        <item>AZERTY</item>
+        <item>QWERTZ</item>
+    </string-array>
+
+    <string-array name="sort_method_array" translatable="false">
+        <item>@string/sort_name_ascending</item>
+        <item>@string/sort_name_descending</item>
+        <item>@string/sort_newest_first</item>
+        <item>@string/sort_oldest_first</item>
+        <item>@string/sort_shortest_first</item>
+        <item>@string/sort_longest_first</item>
+        <item>@string/sort_most_success_first</item>
+        <item>@string/sort_less_success_first</item>
+        <item>@string/sort_favorites_only</item>
+    </string-array>
+
+    <string-array name="sort_method_timelapses_array" translatable="false">
+        <item>@string/sort_name_ascending</item>
+        <item>@string/sort_name_descending</item>
+        <item>@string/sort_newest_first</item>
+        <item>@string/sort_oldest_first</item>
+        <item>@string/sort_shortest_first</item>
+        <item>@string/sort_longest_first</item>
+    </string-array>
+
+    <string-array name="setting_sound_array">
+        <item>音效1</item>
+        <item>音效2</item>
+        <item>音效3</item>
+        <item>音效4</item>
+        <item>音效5</item>
+        <item>音效6</item>
+        <item>无音效</item>
+    </string-array>
+
+    <string-array name="ssl_modes_array">
+        <item>全部</item>
+        <item>只有LAN</item>
+        <item>只有WAN</item>
+    </string-array>
+
+    <string-array name="setting_cost_methods">
+        <item>价格/米</item>
+        <item>价格/公斤</item>
+    </string-array>
+
+    <string-array name="setting_force_clock_array">
+        <item>关闭</item>
+        <item>12H</item>
+        <item>24H</item>
+    </string-array>
+
+    <string-array name="after_slicing_array">
+        <item>不做任何事</item>
+        <item>选中文件</item>
+        <item>开始打印</item>
+    </string-array>
+
+    <string-array name="render_mode_array">
+        <item>正常</item>
+        <item>标记悬垂</item>
+        <item>透明</item>
+        <item>透视</item>
+    </string-array>
+
+    <string-array name="render_mode_gcode_array">
+        <item>正常</item>
+        <item>透明</item>
+    </string-array>
+
+    <string-array name="slicer_support_array" translatable="false">
+        <item>无</item>
+        <item>仅从打印平台支撑</item>
+        <item>全部支撑</item>
+    </string-array>
+
+    <string-array name="slicer_support_type_array" translatable="false">
+        <item>网格</item>
+        <item>直线</item>
+    </string-array>
+
+    <string-array name="slicer_support_dual_extrusion_array" translatable="false">
+        <item>全部</item>
+    </string-array>
+
+    <string-array name="slicer_platform_adhesion_array" translatable="false">
+        <item>无</item>
+        <item>沿轮廓扩展</item>
+        <item>底筏</item>
+    </string-array>
+
+    <string-array name="slicer_combing_array" translatable="false">
+        <item>关闭</item>
+        <item>所有</item>
+        <item>除了皮肤</item>
+    </string-array>
+
+    <string-array name="timelapse_type_array" translatable="false">
+        <item>关闭</item>
+        <item>基于时间</item>
+        <item>基于Z轴变化</item>
+    </string-array>
+
+</resources>

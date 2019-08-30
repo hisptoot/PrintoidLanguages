@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="render_activity_name" translatable="false">Printoid查看器</string>
+
+    <string name="download_file_dialog_title">正在下载中</string>
+    <string name="download_file_dialog_msg">Printoid正在下载您的文件,请等待…</string>
+
+    <string name="download_file_alert_title">下载失败</string>
+    <string name="download_file_alert_msg">文件下载失败, %s</string>
+    <string name="download_file_alert_error_url">在链接中检测到错误</string>
+    <string name="download_file_alert_error_fnf">文件无法在OctoPrint服务器上找到</string>
+    <string name="download_file_alert_error_io">文件无法写入手机存储</string>
+    <string name="download_file_alert_error_unknown">发生了未知错误</string>
+
+    <string name="load_gcode_file_dialog_title">正在渲染</string>
+    <string name="load_gcode_file_dialog_msg">Printoid正在渲染您的GCODE文件,请等待…</string>
+
+    <string name="load_stl_file_dialog_title">正在渲染</string>
+    <string name="load_stl_file_dialog_msg">Printoid正在渲染您的STL文件,请等待…</string>
+
+    <string name="load_file_alert_title">渲染失败</string>
+    <string name="load_file_alert_msg">该文件的3D渲染失败, 请重试或者联系Printoid开发人员</string>
+
+    <string name="render_selected_layer">层: %1$d / %2$d</string>
+    <string name="render_selected_layer_z">Z: %s</string>
+    <string name="render_Z">Z:</string>
+
+    <string name="render_file_progress">进度:</string>
+    <string name="render_file_progress_values">%1$s / %2$s</string>
+    <string name="render_file_no_file">目前没有文件在打印中</string>
+    <string name="render_file_remaining_time">剩余时间:</string>
+    <string name="render_file_z_height">Z轴高度:</string>
+    <string name="render_file_z_height_value_mm" translatable="false">%.2fmm</string>
+    <string name="render_file_z_height_value_cm" translatable="false">%.3fcm</string>
+    <string name="render_file_layers">%1$d / %2$d</string>
+
+    <string name="render_error_not_supported_title">GCODE格式不支持</string>
+    <string name="render_error_not_supported_msg">您的GCODE文件格式似乎仍未被3D渲染器支持. 以下是当前各个切片工具支持情况:\n\n
+    - <b>Cura (桌面版)</b>: 支持\n
+    - <b>Cura引擎 (OctoPrint内置)</b>: 支持\n
+    - <b>Simplify3D</b>: 仍未支持\n
+    - <b>Slic3r</b>: 仍未支持\\n
+    - <b>Others</b>: 仍未有反馈\n\n我正在努力支持更多的切片工具输出格式, 请持续更新Printoid!
+    </string>
+    <string name="render_error_2D_not_supported_msg">您的GCODE文件格式似乎仍未被2D渲染器支持.\n请联系Printoid开发人员.</string>
+
+    <string name="right_panel_2D_render_not_available">实时2D预览器不可用\n(当前未在打印状态)</string>
+
+    <string name="simulator_back_to_direct">同步打印进度</string>
+    <string name="simulator_pause">暂停模拟器</string>
+
+    <string name="alert_large_file_title">渲染大文件</string>
+    <string name="alert_large_file_msg">您让Printoid来渲染%1$s, 大概有%2$s.\n\n这对于本应用来说恐怕太大了, 可能会令安卓系统杀掉进程.\n\n您是否仍要继续?</string>
+
+</resources>

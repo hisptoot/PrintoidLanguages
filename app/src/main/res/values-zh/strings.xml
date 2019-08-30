@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="printoid_contact_developer">联系\n开发人员</string>
+    <string name="printoid_visit_website">访问\nprintoid.net</string>
+
+    <string name="ok">好</string>
+    <string name="cancel">取消</string>
+    <string name="no">否</string>
+    <string name="yes">是</string>
+    <string name="back">后退</string>
+    <string name="next">下一个</string>
+    <string name="previous">上一个</string>
+    <string name="quit">退出</string>
+    <string name="terminate">终止</string>
+    <string name="search">在文件中搜索...</string>
+    <string name="retry">重试</string>
+    <string name="set_home">归位XYZ</string>
+    <string name="backup">备份</string>
+    <string name="restore">恢复</string>
+    <string name="start">开始</string>
+    <string name="start_printoid">打开Printoid</string>
+    <string name="contact">联系</string>
+    <string name="update">升级</string>
+    <string name="share">分享</string>
+    <string name="save">保存</string>
+    <string name="show">展示</string>
+    <string name="change">更改</string>
+    <string name="improve">改进</string>
+    <string name="add">添加</string>
+    <string name="more_info">更多信息</string>
+    <string name="send_logs">发送日志</string>
+    <string name="value">价值</string>
+    <string name="thank_you">谢谢!</string>
+    <string name="username">用户名</string>
+    <string name="email">邮箱</string>
+    <string name="configure">配置</string>
+    <string name="agree">同意</string>
+    <string name="continuee">继续</string>
+    <string name="help">帮助</string>
+    <string name="install_now">立即安装</string>
+    <string name="set">设置</string>
+    <string name="target">目标 (°)</string>
+    <string name="offset">偏移量 (°)</string>
+    <string name="extrude">挤出</string>
+    <string name="retract">回退</string>
+    <string name="distance">长度 (mm)</string>
+    <string name="current">(当前: %d)</string>
+    <string name="remaining">剩余</string>
+    <string name="none">无</string>
+    <string name="upload">上传</string>
+    <string name="render2d">2D渲染</string>
+    <string name="render3d">3D渲染</string>
+    <string name="manage">管理</string>
+    <string name="password">密码</string>
+    <string name="copy">复制</string>
+    <string name="copied_to_clipboard">已复制到剪贴板</string>
+    <string name="never_ask_again">不再询问</string>
+
+    <string name="google_drive" translatable="false">磁盘</string>
+
+    <string name="heated_bed">热床</string>
+    <string name="heated_chamber">加热箱</string>
+    <string name="heated_head">加热头%d</string>
+    <string name="extruder">打印头%d</string>
+
+    <string name="default_currency">￥</string>
+
+    <string name="simple_day_offset_format">%1$s (D+%2$d)</string>
+
+    <string name="simple_hour_format">hh:mm:ss a</string>
+    <string name="simple_hour_format_12" translatable="false">hh:mm:ss a</string>
+    <string name="simple_hour_format_24" translatable="false">HH:mm:ss</string>
+
+    <string name="simple_hour_reduced_format">hh:mm a</string>
+    <string name="simple_hour_reduced_format_12" translatable="false">hh:mm a</string>
+    <string name="simple_hour_reduced_format_24" translatable="false">HH:mm</string>
+
+    <string name="simple_date_format">dd MMM yyyy - hh:mm a</string>
+    <string name="simple_date_format_12" translatable="false">@string/simple_date_format</string>
+    <string name="simple_date_format_24" translatable="false">dd MMM yyyy - HH:mm</string>
+
+    <string name="overlay_tile_title">Printoid视频流</string>
+    <string name="snapshot_tile_title">Printoid快照</string>
+
+    <string name="network_type_wifi">WiFi</string>
+    <string name="network_type_mobile">移动数据</string>
+    <string name="network_type_none">无网络连接</string>
+    <string name="network_type_unknown">未知网络类型</string>
+
+    <string name="arrow" translatable="false">→</string>
+
+    <string name="image_picker_tool_folders">文件夹</string>
+    <string name="image_picker_tool_tap">点击选中</string>
+    <string name="image_picker_tool_camera">摄像头</string>
+
+</resources>

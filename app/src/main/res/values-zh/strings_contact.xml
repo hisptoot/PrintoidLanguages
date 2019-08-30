@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="contact_email" translatable="false">contact@printoid.net</string>
+    <string name="contact_subject">Printoid技术支持 (已安装版本: v%1$s - %2$s)</string>
+    <string name="contact_choose_client">请选择您的邮箱客户端:</string>
+
+    <string name="contact_body">亲爱的Printoid开发者,\n\n
+    以下是我的相关配置信息:\n\n
+    - 设备型号:\n\u0020\u0020\u0020\u0020\u0020[%1$s]\n
+    - Android版本:\n\u0020\u0020\u0020\u0020\u0020[%2$s]\n
+    - 指纹:\n\u0020\u0020\u0020\u0020\u0020[%3$s]\n
+    - 3D打印机:\n\u0020\u0020\u0020\u0020\u0020[%4$s]\n
+    - OctoPrint版本:\n\u0020\u0020\u0020\u0020\u0020[%5$s]\n\n
+    我的消息:\n\n\n
+    %6$s\n\n\n
+    万分感谢</string>
+
+    <string name="contact_version_premium" translatable="false">PREMIUM</string>
+    <string name="contact_version_pro" translatable="false">PRO</string>
+    <string name="contact_version_trial" translatable="false">LITE</string>
+
+    <string name="alert_contact_tutorials_label">教程</string>
+    <string name="alert_contact_faq_label">常见问题解答</string>
+
+    <string name="alert_contact_title">联系开发人员</string>
+
+    <string name="contact_conditions_title">在联系开发人员之前, 请先确认以下几项内容:</string>
+    <string name="contact_condition_1">Printoid已经更新到最新版本</string>
+    <string name="contact_condition_2">OctoPrint已经更新到最新版本</string>
+    <string name="contact_condition_3">我已经阅读了教程</string>
+    <string name="contact_condition_4">我已经阅读了常见问题解答</string>
+    <string name="contact_condition_5">我会非常客气有礼貌</string>
+
+    <string name="contact_form_title">请写下您要发送给Printoid开发者Anthony的消息:</string>
+    <string name="contact_form_hint">您好, 我想要告诉您…</string>
+    <string name="contact_form_logs_attached">失败的连接日志将会在保证您的隐私前提下与消息一起发送给开发者.</string>
+    <string name="contact_form_with_logs_hint">您好, 我会向你讲解我的使用背景 (这是否是我用Printoid的第一次连接尝试? 之前连接是否正常? …)</string>
+
+</resources>

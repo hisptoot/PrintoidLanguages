@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="debug_item_connection" translatable="false">连接</string>
+    <string name="debug_item_files" translatable="false">文件</string>
+    <string name="debug_item_job" translatable="false">任务</string>
+    <string name="debug_item_bed_historic" translatable="false">热床历史</string>
+    <string name="debug_item_printer_profiles" translatable="false">打印机配置项</string>
+    <string name="debug_item_printer_state" translatable="false">打印机状态</string>
+    <string name="debug_item_tools_historic" translatable="false">打印头历史</string>
+    <string name="debug_item_settings" translatable="false">配置</string>
+    <string name="debug_item_slicers" translatable="false">切片</string>
+    <string name="debug_item_system_commands" translatable="false">系统指令</string>
+    <string name="debug_item_timelapses" translatable="false">延时拍摄</string>
+    <string name="debug_item_version" translatable="false">版本</string>
+
+    <string name="debug_message">Printoid调试通道是一个针对开发人员的工具, 当你遇到有关OctoPrint功能的问题时就要用到它. 请在开发人员指示下使用 ;)</string>
+
+    <string name="debug_item_connection_desc">获取 /api/connection 返回当前打印机连接状态的描述.</string>
+    <string name="debug_item_files_desc">获取 /api/files 返回所有存储文件以及目录的描述.</string>
+    <string name="debug_item_job_desc">获取 /api/job 返回当前打印任务的描述.</string>
+    <string name="debug_item_bed_historic_desc">获取 /api/printer/bed 返回热床温度历史记录的描述.</string>
+    <string name="debug_item_printer_profiles_desc">获取 /api/printerprofiles 返回当前已配置的打印机的配置项的描述.</string>
+    <string name="debug_item_printer_state_desc">获取 /api/printer 返回打印机状态, 包括温度信息.</string>
+    <string name="debug_item_tools_historic_desc">获取 /api/printer/tool 返回打印头温度历史记录的描述.</string>
+    <string name="debug_item_settings_desc">获取 /api/settings 返回服务器设置及已安装插件的描述.</string>
+    <string name="debug_item_slicers_desc">获取 /api/slicing 返回可用切片及切片配置的描述</string>
+    <string name="debug_item_system_commands_desc">获取 /api/system/commands 返回OctoPrint可用系统指令的描述.</string>
+    <string name="debug_item_timelapses_desc">获取 /api/timelapse 返回当前已保存的延时拍摄视频的描述.</string>
+    <string name="debug_item_version_desc">获取 /api/version 返回当前OctoPrint服务版本号的描述.</string>
+
+</resources>

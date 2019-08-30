@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="locker_password_bullet" translatable="false">○</string>
+    <string name="locker_password_bullet_full" translatable="false">⦿</string>
+    <string name="locker_password_hint" translatable="false">○ ○ ○ ○</string>
+
+    <string name="locker_enter_password">输入密码</string>
+    <string name="locker_enter_password_or_fingerprint">输入密码或者使用指纹验证</string>
+    <string name="locker_cancel">取消</string>
+    <string name="locker_unlocked">已解锁!</string>
+
+    <string name="locker_enter_current_password">输入当前密码</string>
+    <string name="locker_enter_new_password_1">输入新密码</string>
+    <string name="locker_enter_new_password_2">再次确认新密码</string>
+
+    <string name="locker_mode">锁定模式: %s</string>
+    <string name="locker_mode_off">关闭</string>
+    <string name="locker_mode_critical">只保护关键功能</string>
+    <string name="locker_mode_full">保护整个屏幕</string>
+
+    <string name="locker_mode_cant_send_critical_commands">无法发送关键指令, 锁定模式已激活</string>
+
+</resources>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name_hub" translatable="false">Printoid中枢</string>
+
+    <string name="hub_settings">设置</string>
+
+    <string name="hub_introduction">Printoid中枢是旗舰版的一个功能. 它允许您在一个页面上查看您所有3D打印机的状态!\n
+        一个用于启动该功能的新图标已经添加到您的应用列表中. 您可以在设置中隐藏Printoid中枢的应用图标.</string>
+    <string name="hub_introduction_short">Printoid中枢是旗舰版的一个功能. 它允许您在一个页面上查看您所有3D打印机的状态!</string>
+    <string name="hub_start_description">在一个页面上显示您所有3D打印机的状态!</string>
+
+    <string name="hub_introduction_image_url" translatable="false">https://printoidnet.files.wordpress.com/2019/03/d2hv6wnxcaa2cjr.jpg_large_framed-1.png</string>
+    <string name="hub_introduction_more_info_url" translatable="false">https://printoid.net/2019/04/13/introducing-printoid-hub-all-your-octoprint-servers-on-the-same-screen/</string>
+
+    <string name="hub_onboarding_message">欢迎来到Printoid中枢!\n\n这个旗舰版功能允许您在一个页面上查看您所有已配置的Octoprint服务的状态!\n\n
+        请注意该功能仍在开发中, 未来版本中将会被逐步改进及加强.\n\n
+        并不是所有的信息目前都会显示在屏幕上(比如摄像头), 不过不用担心, 在下一个版本中将会被加入支持!</string>
+
+    <string name="hub_no_managed_profiles">在这里添加至少一个OctoPrint配置项用于查看他们的状态!</string>
+    <string name="hub_profile_already_managed">您的OctoPrint配置项 \'%s\' 已在Printoid中枢中可用</string>
+
+    <string name="hub_connecting_to_server">正在连接到OctoPrint…</string>
+    <string name="hub_loading_profile_state">正在加载OctoPrint状态…</string>
+
+    <string name="hub_error_connection_to_server">无法连接到OctoPrint</string>
+
+    <string name="hub_setting_hide_second_icon">隐藏Printoid中枢的应用图标</string>
+    <string name="hub_setting_hide_second_icon_tip">在应用程序启动器中隐藏用于启动Printoid中枢的第二应用程序图标</string>
+
+    <string name="hub_show_camera"><u>查看摄像头…</u></string>
+    <string name="hub_show_other_camera"><u>查看其它摄像头…</u></string>
+
+</resources>

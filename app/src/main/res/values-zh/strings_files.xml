@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="select_file_to_upload">选择一个文件上传</string>
+    <string name="upload_new_file">上传一个新文件</string>
+    <string name="select_file_install_file_explorer">未找到文件浏览器应用.</string>
+    <string name="upload_file_dialog_title">正在上传文件</string>
+    <string name="upload_file_dialog_msg">%1$s\n%2$d%%</string>
+
+    <string name="upload_error_file_not_found">错误: 文件未找到</string>
+    <string name="upload_error_bad_request">错误: 错误的请求</string>
+    <string name="upload_error_remote_not_found">错误: 服务器目录未找到</string>
+    <string name="upload_error_conflict">错误: 该文件发生冲突</string>
+    <string name="upload_error_unsupported_media">错误: 不支持的文件类型, 只支持GCODE或者STL文件</string>
+    <string name="upload_error_internal_server_error">错误: OctoPrint服务内部错误</string>
+    <string name="upload_error_unknown">错误: 无法发送文件到您的OctoPrint服务器 (%d)</string>
+
+    <string name="create_folder_title">创建文件夹</string>
+    <string name="create_folder_message">请设置新文件夹的名称:</string>
+    <string name="create_folder_message_hint">新文件夹名称</string>
+    <string name="create_folder_created">文件夹已创建</string>
+    <string name="create_folder_error_file_not_found">错误: 文件夹未找到</string>
+    <string name="create_folder_error_bad_request">错误: 错误的请求</string>
+    <string name="create_folder_error_remote_not_found">错误: 服务器目录未找到</string>
+    <string name="create_folder_error_conflict">错误: 该文件夹发生冲突</string>
+    <string name="create_folder_error_internal_server_error">错误: OctoPrint服务内部错误</string>
+    <string name="create_folder_error_unknown">错误: 无法在您的OctoPrint服务器上创建文件夹 (%d)</string>
+
+    <string name="move_file_title">移动文件</string>
+    <string name="move_file_message">移动文件 %s 到以下目录:</string>
+    <string name="move_file_done">文件已移动</string>
+    <string name="move_file_error_sdcard_msg">Printoid无法移动3d打印机的sd卡中的文件!</string>
+
+    <string name="upload_file_title">上传文件</string>
+    <string name="upload_file_message">您想要上传文件 %s 到3d打印机的sd卡上 还是 OctoPrint服务器本地存储?</string>
+    <string name="upload_file_done">文件已上传</string>
+    <string name="upload_location_octoprint">OctoPrint服务器</string>
+    <string name="upload_location_sdcard">P打印机sd卡</string>
+
+    <string name="downloading_file">正在下载文件&#8230;</string>
+    <string name="file_deleted">文件已从OctoPrint删除</string>
+    <string name="folder_deleted">文件夹已从OctoPrint删除</string>
+
+    <string name="alert_delete_file_title">删除文件</string>
+    <string name="alert_delete_file_msg">您是否想要删除文件 <b>%s</b>? 该操作将无法被撤销.</string>
+
+    <string name="alert_delete_folder_title">删除文件夹</string>
+    <string name="alert_delete_folder_msg">您是否想要删除文件夹 <b>%s</b>? 该文件夹下的所有文件也将会被一同删除. 该操作将无法被撤销.</string>
+
+    <string name="alert_cant_delete_msg">Printoid无法删除 %s</string>
+
+    <string name="files_create_new_folder">创建目录</string>
+    <string name="files_move_file">移动文件</string>
+    <string name="files_upload_file">上传文件</string>
+    <string name="files_sort_files">文件排序</string>
+    <string name="files_analyze">分析</string>
+    <string name="files_history">历史记录</string>
+
+    <string name="analyzer_folder_root">ROOT</string>
+    <string name="analyzer_number_file">%d 个文件</string>
+    <string name="analyzer_number_files">%d 个文件</string>
+    <string name="analyzer_number_folder">%d 个目录</string>
+    <string name="analyzer_number_folders">%d 个目录</string>
+    <string name="analyzer_success_failures">%1$d %2$s / %3$d %4$s</string>
+    <string name="analyzer_success">个成功</string>
+    <string name="analyzer_success_plural">个成功</string>
+    <string name="analyzer_failure">个失败</string>
+    <string name="analyzer_failure_plural">个失败</string>
+    <string name="analyzer_total_print_time">打印时间合计:</string>
+    <string name="analyzer_total_size">大小合计:</string>
+    <string name="analyzer_total_filament_length">耗材长度合计:</string>
+    <string name="analyzer_total_folders">文件夹数目:</string>
+    <string name="analyzer_total_machine_code">GCODE数目:</string>
+    <string name="analyzer_total_models">模型数目:</string>
+    <string name="analyzer_total_estimated_cost">预计开销合计:</string>
+
+    <string name="download_file_done">文件已下载到您的内部存储中 (%s)</string>
+
+    <string name="upload_empty_folder">这个目录不包括3D文件!</string>
+
+</resources>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="shortcut_website_home_label_long" translatable="false">官方网站</string>
+    <string name="shortcut_website_home_label_short" translatable="false">Printoid.net</string>
+    <string name="shortcut_website_home_disabled" translatable="false">Printoid.net</string>
+
+    <string name="shortcut_website_news_label_long" translatable="false">动态消息与更新日志</string>
+    <string name="shortcut_website_news_label_short" translatable="false">动态与更新日志</string>
+    <string name="shortcut_website_news_disabled" translatable="false">动态与更新日志</string>
+
+    <string name="shortcut_website_tuto_label_long" translatable="false">教程与帮助</string>
+    <string name="shortcut_website_tuto_label_short" translatable="false">教程</string>
+    <string name="shortcut_website_tuto_disabled" translatable="false">教程</string>
+
+    <string name="shortcut_website_faq_label_long" translatable="false">常见问题解答</string>
+    <string name="shortcut_website_faq_label_short" translatable="false">F.A.Q.</string>
+    <string name="shortcut_website_faq_disabled" translatable="false">F.A.Q.</string>
+
+    <string name="shortcut_load">加载</string>
+    <string name="shortcut_print">打印</string>
+    <string name="shortcut_input">输入</string>
+    <string name="shortcut_render3D">3D视图</string>
+    <string name="shortcut_render2D">2D视图</string>
+    <string name="shortcut_download">下载</string>
+    <string name="shortcut_delete">删除</string>
+    <string name="shortcut_slice">切片</string>
+
+    <string name="shortcut_distance_1mm" translatable="false">1 mm</string>
+    <string name="shortcut_distance_5mm" translatable="false">5 mm</string>
+    <string name="shortcut_distance_10mm" translatable="false">10 mm</string>
+    <string name="shortcut_distance_100mm" translatable="false">100 mm</string>
+
+</resources>

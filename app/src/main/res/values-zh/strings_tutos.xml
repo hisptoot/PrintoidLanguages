@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="tutorial_available_in_premium_version">在旗舰版中可用</string>
+    <string name="tutorial_available_in_pro_version" translatable="false">@string/tutorial_available_in_premium_version</string>
+    <string name="tutorial_only_in_lite_version">仅在精简版中</string>
+
+    <!-- WELCOME -->
+    <string name="tutorial_message_welcome">欢迎进入Printoid %s</string>
+    <string name="tutorial_message_welcome_2">该简要的介绍将会先您展现本应用的功能</string>
+
+    <!-- VERSIONS COMPARATOR -->
+    <string name="tutorial_comparator_title">版本比较</string>
+    <string name="tutorial_comparator_premium_title" translatable="false">Printoid旗舰版</string>
+    <string name="tutorial_comparator_premium_content">视频流监控, 自定义GCODE指令, 2D及3D查看器, 实时模拟器, 高级控制, 桌面部件等更多…</string>
+    <string name="tutorial_comparator_lite_title" translatable="false">Printoid精简版</string>
+    <string name="tutorial_comparator_lite_content">包含免费的基础功能, 可永久使用的</string>
+    <string name="tutorial_comparator_button_1">比较版本</string>
+
+    <!-- WIDGETS -->
+    <string name="tutorial_widgets_title">独有的桌面部件</string>
+    <string name="tutorial_widgets_message">不用打开应用就可监控您的3D打印机!</string>
+    <string name="tutorial_widgets_message_2">监控部件: 点击即显示监控摄像头的画面!</string>
+    <string name="tutorial_widgets_message_3">服务器状态部件: 不用打开应用就可查看当前打印机进度!</string>
+
+    <!-- STREAMING -->
+    <string name="tutorial_video_title">视频流监控</string>
+    <string name="tutorial_video_message">随时监控您的3D打印机平台!</string>
+    <string name="tutorial_video_message_2">支持应用内置播放器、桌面部件、悬浮图标, 无论在哪里都可以进行监控</string>
+    <string name="tutorial_video_button_1">配置我的摄像头</string>
+    <string name="tutorial_video_button_2">以高/低画质查看</string>
+    <string name="tutorial_video_button_3">支持2个摄像头</string>
+
+    <!-- COMMANDS -->
+    <string name="tutorial_commands_title">您自定义的指令</string>
+    <string name="tutorial_commands_message">用自定义指令定制化Printoid!</string>
+    <string name="tutorial_commands_message_2">创建您自己的按钮向3D打印机发送自定义GCODE指令</string>
+    <string name="tutorial_commands_message_3">通过SSH控制您的树莓派(比如控制继电器…)</string>
+    <string name="tutorial_commands_message_4">使用OctoPrint内置指令(在config.yaml中配置的指令)</string>
+    <string name="tutorial_commands_button_1">GCODE指令</string>
+    <string name="tutorial_commands_button_2">SSH指令</string>
+    <string name="tutorial_commands_button_3">HTTP指令</string>
+
+    <!-- MULTI PROFILES -->
+    <string name="tutorial_multi_profiles_title">方便地与OctoPrint服务器建立连接</string>
+    <string name="tutorial_multi_profiles_message">控制并管理多组OctoPrint服务器和打印机!</string>
+    <string name="tutorial_multi_profiles_message_2">支持局域网和广域网配置, 基础认证, SSL/TLS (HTTPS), TLS证书, SSH…</string>
+    <string name="tutorial_multi_profiles_button_1">如何连接?</string>
+    <string name="tutorial_multi_profiles_button_2">在远程访问(3G/4G)</string>
+    <string name="tutorial_multi_profiles_button_3">调整设置参数</string>
+
+    <!-- 2D / 3D RENDERERS -->
+    <string name="tutorial_render_title">2D及3D查看器</string>
+    <string name="tutorial_render_message">以2D层方式查看GCODE文件 或者 以3D的方式预览您的STL及GCODE物体!</string>
+    <string name="tutorial_render_message_2">同时Printoid还提供了一个实时2D模拟器用于查看打印进度</string>
+    <string name="tutorial_render_button_1">这是如何工作的</string>
+
+    <!-- ANDROID WEAR -->
+    <string name="tutorial_wear_title">WearOS模块</string>
+    <string name="tutorial_wear_message_1">直接用手表控制并管理您的3D打印机!</string>
+    <string name="tutorial_wear_message_2">打印机信息, 多轴控制, 温度/风扇/挤出机管理, 文件及指令列表</string>
+    <string name="tutorial_wear_message_3">该模块仅支持WearOS(不支持三星手表(Tizen系统))</string>
+
+    <!-- BASIC TOOLS -->
+    <string name="tutorial_basic_tools_title">您所需的全部3D打印机工具</string>
+    <string name="tutorial_basic_tools_message">支持多达10个打印头, 热床, 加热箱, 风扇…</string>
+    <string name="tutorial_basic_tools_message_2">控制打印倍率, 流量, 进料, 退料, 移动轴, 归零, 微量调整…</string>
+    <string name="tutorial_basic_tools_message_3">目标温度, 温度偏移量, 按键停止电机, 预设…</string>
+    <string name="tutorial_basic_tools_message_4">延时摄影, GCODE脚本, 提醒 和 通知…</string>
+
+    <!-- WEBSITE -->
+    <string name="tutorial_support_title">官方网站和技术支持</string>
+    <string name="tutorial_support_message_1">您将会在https://printoid.net找到所有问题的答案</string>
+    <string name="tutorial_support_message_2">日常更新, 使用技巧和建议, 实用信息, 开发交流…</string>
+    <string name="tutorial_support_message_3">任何问题或者功能需求都可以随时通过邮件联系开发人员!</string>
+    <string name="tutorial_support_button_1">动态消息</string>
+    <string name="tutorial_support_button_2">常见问题</string>
+    <string name="tutorial_support_button_3">联系开发者</string>
+
+    <!-- MORE FEATURES -->
+    <string name="tutorial_more_features_title">Printoid旗舰版还有更多功能!</string>
+    <string name="tutorial_more_features_message_1">支持OctoPrint插件: Enclosure, Octolapse, PSU Control, TPLink Smartplugs, WemoSwitch…</string>
+    <string name="tutorial_more_features_message_2">通过物理键盘或者ADB控制!</string>
+    <string name="tutorial_more_features_message_3">Printoid中枢: 在同一个屏幕显示所有OctoPrint服务器的状态!</string>
+    <string name="tutorial_more_features_message_4">耗材管理器: 集成RollingUp功能!</string>
+    <string name="tutorial_more_features_message_5">通过密码或者指纹锁定保护应用!</string>
+
+    <!-- END -->
+    <string name="tutorial_end_message">启动Printoid</string>
+
+    <!-- BACKUP -->
+    <string name="tutorial_backup_read_permission_title">备份与恢复</string>
+    <string name="tutorial_backup_read_permission_msg">如果需要, Printoid可以从之前的安装中恢复所有的配置(例如您之前安装的是精简版).\n\n如果需要恢复, 请在之后的对话框里允许操作权限.</string>
+    <string name="tutorial_backup_from_other_app_premium" translatable="false">旗舰版</string>
+    <string name="tutorial_backup_from_other_app_pro" translatable="false">专业版</string>
+    <string name="tutorial_backup_from_other_app_trial" translatable="false">精简版</string>
+    <string name="tutorial_backup_from_other_error">无法从Printoid %s中恢复配置, 发生错误</string>
+    <string name="tutorial_backup_from_other_error_permission">无法从Printoid %s中恢复配置, 未授权"写外部存储:的权限未没</string>
+    <string name="tutorial_backup_from_other_error_unknown">无法从Printoid %s中恢复配置, 发生未知错误</string>
+    <string name="tutorial_backup_from_sdcard">从本地备份恢复Restore local backup</string>
+    <string name="tutorial_backup_from_other_app">从Printoid %s恢复</string>
+    <string name="tutorial_backup_from_account">我有云端帐号</string>
+    <string name="tutorial_backup_more_backup_options">更多备份选项</string>
+
+    <!-- LINKS -->
+    <string name="printoid_facebook_url" translatable="false">https://www.facebook.com/printoid/</string>
+    <string name="printoid_facebook_app_link" translatable="false">fb://facewebmodal/f?href=https://www.facebook.com/printoid/</string>
+    <string name="printoid_twitter_url" translatable="false">https://twitter.com/AndroidPrintoid</string>
+    <string name="printoid_twitter_app_link" translatable="false">twitter://user?screen_name=AndroidPrintoid</string>
+    <string name="printoid_patreon_url" translatable="false">https://www.patreon.com/printoid</string>
+
+</resources>

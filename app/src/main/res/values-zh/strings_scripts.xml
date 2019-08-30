@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="scripts_before_print_started">在打印任务开始前</string>
+    <string name="scripts_after_print_done">在打印任务结束后</string>
+    <string name="scripts_after_print_cancelled">在打印任务取消后</string>
+    <string name="scripts_after_print_paused">在打印任务暂停后</string>
+    <string name="scripts_before_print_resumed">在打印任务继续前</string>
+    <string name="scripts_before_tool_changed">在打印头切换前</string>
+    <string name="scripts_after_tool_changed">在打印头切换后</string>
+    <string name="scripts_after_printer_connected">在打印机连接建立后</string>
+    <string name="scripts_before_printer_disconnected">在打印机连接关闭前</string>
+
+    <string name="scripts_hint">添加动作触发时执行的GCODE脚本…</string>
+
+</resources>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="title_bar_time_percent">%.1f%% (时间)</string>
+    <string name="title_bar_gcode_percent">%.1f%% (gcode)</string>
+    <string name="title_bar_remaining_time">剩余 %s</string>
+    <string name="title_bar_ext">打印头 %1$d: %2$.1f°</string>
+    <string name="title_bar_bed">热床: %.1f°</string>
+    <string name="title_system_raspberry">树莓派: %s°</string>
+    <string name="title_system_other">系统: %s°</string>
+    <string name="title_bar_chamber">加热箱: %.1f°</string>
+
+    <string name="title_bar_config_title">标题栏配置</string>
+
+    <string name="title_bar_toggle_server_name">显示服务器名称</string>
+    <string name="title_bar_toggle_printer_state">显示服务器状态</string>
+    <string name="title_bar_toggle_extruders_temp">显示打印头温度</string>
+    <string name="title_bar_toggle_hot_bed">显示热床温度</string>
+    <string name="title_bar_toggle_gcode_progress">显示预期进度</string>
+    <string name="title_bar_toggle_time_progress">显示实际进度</string>
+    <string name="title_bar_toggle_remaining_time">显示剩余进度</string>
+    <string name="title_bar_toggle_file_name">显示文件名</string>
+    <string name="title_bar_toggle_z_height">显示Z轴高度(mm)</string>
+    <string name="title_bar_toggle_system_temperature">显示系统温度(°)</string>
+    <string name="title_bar_spinner_change_delay">更改刷新间隔 (sec)</string>
+    <string name="title_bar_toggle_hot_chamber">显示加热箱温度</string>
+
+    <string name="title_bar_toggle_hot_chamber_tip">是否在标题栏显示加热箱温度</string>
+    <string name="title_bar_toggle_server_name_tip">是否在标题栏显示服务器名称</string>
+    <string name="title_bar_toggle_printer_state_tip">是否在标题栏显示服务器状态</string>
+    <string name="title_bar_toggle_extruders_temp_tip">是否在标题栏显示打印头温度</string>
+    <string name="title_bar_toggle_hot_bed_tip">是否在标题栏显示热床温度</string>
+    <string name="title_bar_toggle_gcode_progress_tip">是否在标题栏显示预期进度</string>
+    <string name="title_bar_toggle_time_progress_tip">是否在标题栏显示实际进度</string>
+    <string name="title_bar_toggle_remaining_time_tip">是否在标题栏显示剩余进度</string>
+    <string name="title_bar_toggle_file_name_tip">是否在标题栏显示文件名</string>
+    <string name="title_bar_toggle_z_height_tip">是否在标题栏显示Z轴高度</string>
+    <string name="title_bar_toggle_system_temperature_tip">是否在标题栏显示系统温度</string>
+    <string name="title_bar_spinner_change_delay_tip">标题栏信息刷新时间间隔, 单位为秒</string>
+
+</resources>

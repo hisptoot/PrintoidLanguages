@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="onboarding_welcome_title">首次配置您的OctoPrint服务</string>
+    <string name="onboarding_welcome_message">Printoid将会引导您在应用中创建并配置您的首个OctoPrint服务.\n\n
+        这非常简单只会占用您几分钟的时间.请仔细阅读并遵循所有的步骤操作.</string>
+
+    <string name="onboarding_profile_name_title">配置名称</string>
+    <string name="onboarding_profile_name_message">请给该配置项一个名称以及照片, 方便在应用中查找.</string>
+    <string name="onboarding_profile_name_error">请提供一个有效的配置项名称</string>
+
+    <string name="onboarding_local_ip_title">本地IP地址</string>
+    <string name="onboarding_local_ip_message">本地IP地址(或者域名)允许Printoid在本地网络中连接您的OctoPrint服务.\n
+        如果您已经更改了默认端口号(80),请提供一个端口号.</string>
+    <string name="onboarding_local_ip_port">本地端口号(可选)</string>
+    <string name="onboarding_local_ip_address_error">请提供一个有效的IP地址(或者域名)</string>
+    <string name="onboarding_local_ip_port_error">请提供一个有效的端口号</string>
+
+    <string name="onboarding_public_ip_title">公网IP地址(可选)</string>
+    <string name="onboarding_public_ip_message"><![CDATA[公网IP地址(或者域名)允许Printoid从互联网连接您的OctoPrint服务 (在非本地网络的环境下).\n
+        <a href="https://printoid.net/access-octoprint-from-the-internet/">请遵循该教程操作</a>, 再尝试从3G或者4G网络等环境连接您的服务器.]]></string>
+    <string name="onboarding_public_ip">@string/config_wan_ip</string>
+    <string name="onboarding_public_ip_port">公网端口号(可选)</string>
+    <string name="onboarding_public_ip_port_error">@string/onboarding_local_ip_port_error</string>
+
+    <string name="onboarding_api_key_title">OctoPrint API密钥</string>
+    <string name="onboarding_api_key_message">Printoid需要您的API密钥才能连接到您的OctoPrint服务.\n
+        可以在您的OctoPrint网页界面中找到, 位置在API菜单项中. \'启用\' 勾选框必须被勾选.</string>
+    <string name="onboarding_api_key_error">请提供您的OctoPrint API密钥</string>
+
+    <string name="onboarding_baudrate_title">打印机波特率</string>
+    <string name="onboarding_baudrate_message">为了与您的3D打印机建立连接, 请提供它的通讯波特率.\n
+        如果您有多台打印机连接, 之后修改也很简单.</string>
+
+    <string name="onboarding_credentials_title">OctoPrint认证信息(可选)</string>
+    <string name="onboarding_credentials_message">给Printoid提供您登录网页界面时的认证信息，能够加强接口功能并让信息呈现得更快!这是可选的, 但是强烈推荐提供, 特别是需要终端操作以及插件列表的情况下(这是OctoPrint 1.3.10版本之后的要求).</string>
+    <string name="onboarding_credentials_login_error">请提供您的OctoPrint用户名</string>
+    <string name="onboarding_credentials_password_error">请提供您的OctoPrint密码</string>
+
+    <string name="onboarding_security_title">安全 (可选)</string>
+    <string name="onboarding_security_message_basic_auth"><![CDATA[如果您在服务器上启用了证书认证, 请提供您的基础认证信息.\n
+        更多信息, 请阅读<a href="https://printoid.net/access-octoprint-from-the-internet/">该页面</a>.]]></string>
+    <string name="onboarding_security_basic_auth_login_error">请提供您的访问用户名</string>
+    <string name="onboarding_security_basic_auth_password_error">请提供您的访问密码</string>
+    <string name="onboarding_security_message_https">仅当您的服务器开启HTTPS(SSL/TLS)通讯功能时, 启用该选项.</string>
+
+    <string name="onboarding_ssh_title">安全远程终端(可选)</string>
+    <string name="onboarding_ssh_message"><![CDATA[请提供您的SSH认证信息, 如果您想要发送SSH指令给您的服务器.\n
+        关于SSH指令的更多信息, 请阅读<a href="https://printoid.net/2017/01/12/trick-6-control-a-relay-with-printoid/">该页面</a>.\n
+        如果需要远程连接, 请提供公网端口号(默认情况下, 22端口将用于本地连接)]]></string>
+    <string name="onboarding_ssh_login">SSH用户名</string>
+    <string name="onboarding_ssh_pwd">SSH密码</string>
+    <string name="onboarding_ssh_port">公网SSH端口号(可选)</string>
+
+    <string name="onboarding_confirmation_title">确认</string>
+    <string name="onboarding_confirmation_message">您差不多完成了!\n请仔细检查您的配置以及参数是否正确.</string>
+
+
+</resources>

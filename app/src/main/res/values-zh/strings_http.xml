@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- CODES 1XX - Informational response -->
+
+    <string name="http_info_continue" translatable="false">Continue</string>
+    <string name="http_info_switching_protocols" translatable="false">Switching Protocols</string>
+    <string name="http_info_processing" translatable="false">Processing</string>
+    <string name="http_info_early_hints" translatable="false">Early Hints</string>
+
+    <!-- CODES 2XX - Success -->
+
+    <string name="http_success_ok" translatable="false">OK</string>
+    <string name="http_success_created" translatable="false">Created</string>
+    <string name="http_success_accepted" translatable="false">Accepted</string>
+    <string name="http_success_non_authoritative" translatable="false">Non-Authoritative Information</string>
+    <string name="http_success_no_content" translatable="false">No Content</string>
+    <string name="http_success_reset_content" translatable="false">Reset Content</string>
+    <string name="http_success_partial_content" translatable="false">Partial Content</string>
+    <string name="http_success_multi_status" translatable="false">Multi-Status</string>
+    <string name="http_success_already_reported" translatable="false">Already Reported</string>
+    <string name="http_success_im_used" translatable="false">IM Used</string>
+
+    <!-- CODES 3XX - Redirection -->
+
+    <string name="http_redirection_multiple_choices" translatable="false">Multiple Choices</string>
+    <string name="http_redirection_moved_permanantly" translatable="false">Moved Permanently</string>
+    <string name="http_redirection_found" translatable="false">Found</string>
+    <string name="http_redirection_see_other" translatable="false">See Other</string>
+    <string name="http_redirection_not_modified" translatable="false">Not Modified</string>
+    <string name="http_redirection_use_proxy" translatable="false">Use Proxy</string>
+    <string name="http_redirection_switch_proxy" translatable="false">Switch Proxy</string>
+    <string name="http_redirection_temporary_redirect" translatable="false">Temporary Redirect</string>
+    <string name="http_redirection_permanant_redirect" translatable="false">Permanent Redirect</string>
+
+    <!-- CODES 4XX - Client errors -->
+
+    <string name="http_client_error_bad_request" translatable="false">Bad Request</string>
+    <string name="http_client_error_unauthorized" translatable="false">Unauthorized</string>
+    <string name="http_client_error_payment_required" translatable="false">Payment Required</string>
+    <string name="http_client_error_forbidden" translatable="false">Forbidden</string>
+    <string name="http_client_error_not_found" translatable="false">Not found</string>
+    <string name="http_client_error_not_allowed" translatable="false">Method Not allowed</string>
+    <string name="http_client_error_not_acceptable" translatable="false">Not Acceptable</string>
+    <string name="http_client_error_authentification_required" translatable="false">Proxy Authentication Required</string>
+    <string name="http_client_error_request_timeout" translatable="false">Request Timeout</string>
+    <string name="http_client_error_conflict" translatable="false">Conflict</string>
+    <string name="http_client_error_gone" translatable="false">Gone</string>
+    <string name="http_client_error_length_required" translatable="false">Length Required</string>
+    <string name="http_client_error_precondition_failed" translatable="false">Precondition Failed</string>
+    <string name="http_client_error_request_entity_to_large" translatable="false">Payload Too Large</string>
+    <string name="http_client_error_request_uri_too_long" translatable="false">URI Too Long</string>
+    <string name="http_client_error_unsupported_media_type" translatable="false">Unsupported Media Type</string>
+    <string name="http_client_error_requested_range_not_satisfiable" translatable="false">Range Not Satisfiable</string>
+    <string name="http_client_error_expectation_failed" translatable="false">Expectation Failed</string>
+    <string name="http_client_error_teapot" translatable="false">I\'m a teapot</string>
+    <string name="http_client_error_misredirected" translatable="false">Misdirected Request</string>
+    <string name="http_client_error_uprocessable_entity" translatable="false">Unprocessable Entity</string>
+    <string name="http_client_error_locked" translatable="false">Locked</string>
+    <string name="http_client_error_failed_dependency" translatable="false">Failed Dependency</string>
+    <string name="http_client_error_too_early" translatable="false">Too Early</string>
+    <string name="http_client_error_upgrade_required" translatable="false">Upgrade Required</string>
+    <string name="http_client_error_precondition_required" translatable="false">Precondition Required</string>
+    <string name="http_client_error_too_many_requests" translatable="false">Too Many Requests</string>
+    <string name="http_client_error_request_header_fields_too_large" translatable="false">Request Header Fields Too Large</string>
+    <string name="http_client_error_legal_reasons" translatable="false">Unavailable For Legal Reasons</string>
+    <string name="http_client_error_unrecoverable" translatable="false">Unrecoverable Error</string>
+    <string name="http_client_error_ssl_certificate" translatable="false">SSL Certificate Error</string>
+    <string name="http_client_error_ssl_certificate_required" translatable="false">SSL Certificate Required</string>
+    <string name="http_client_error_http_sent_to_https_port" translatable="false">HTTP Request Sent to HTTPS Port</string>
+    <string name="http_client_error_token_expired" translatable="false">Token expired/invalid</string>
+    <string name="http_client_error_client_closed_request" translatable="false">Client Closed Request</string>
+
+    <!-- CODES 5XX - Server errors -->
+
+    <string name="http_server_error_internal_server_error" translatable="false">Internal Server Error</string>
+    <string name="http_server_error_not_implemented" translatable="false">Not Implemented</string>
+    <string name="http_server_error_bad_getaway" translatable="false">Bad Gateway</string>
+    <string name="http_server_error_service_unavailable" translatable="false">Service Unavailable</string>
+    <string name="http_server_error_gateway_timeout" translatable="false">Gateway Timeout</string>
+    <string name="http_server_error_version_not_supported" translatable="false">HTTP Version Not Supported</string>
+    <string name="http_server_error_variant_also_negotiates" translatable="false">Variant Also Negotiates</string>
+    <string name="http_server_error_insufficient_storage" translatable="false">Insufficient Storage</string>
+    <string name="http_server_error_loop_detected" translatable="false">Loop Detected</string>
+    <string name="http_server_error_not_extended" translatable="false">Not Extended</string>
+    <string name="http_server_error_network_authentication_required" translatable="false">Network Authentication Required</string>
+    <string name="http_server_error_unknown" translatable="false">Web Server Returning Unknown Error</string>
+    <string name="http_server_error_down" translatable="false">Web Server Is Down</string>
+    <string name="http_server_error_timed_out" translatable="false">Connection Timed Out</string>
+    <string name="http_server_error_origin_unreachable" translatable="false">Origin Is Unreachable</string>
+    <string name="http_server_error_time_out_occured" translatable="false">A Timeout Occurred</string>
+    <string name="http_server_error_handshake_failed" translatable="false">Handshake Failed</string>
+    <string name="http_server_error_invalid_certificate" translatable="false">Invalid SSL Certificate</string>
+    <string name="http_server_error_railgun_error" translatable="false">Railgun Error</string>
+
+    <!-- UNSUPPORTED & UNOFFICIAL CODES -->
+
+    <string name="http_exception_connect" translatable="false">Connect Exception</string>
+    <string name="http_error_unknown" translatable="false">Unknown Error</string>
+
+</resources>

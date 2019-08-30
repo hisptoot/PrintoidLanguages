@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="keyboard_distant_command_toast_msg">接收到远程指令: %s</string>
+
+    <string name="keyboard_distant_gcode_command_title">发送GCODE指令</string>
+    <string name="keyboard_distant_gcode_command_msg">按下 回车键 发送, ESC键取消, 用;分隔多条指令</string>
+
+    <string name="keyboard_action_connect">连接</string>
+    <string name="keyboard_action_fullscreen">切换全屏</string>
+    <string name="keyboard_action_streaming">查看视频流</string>
+    <string name="keyboard_action_simulator">查看实时2D预览视图</string>
+    <string name="keyboard_action_commands">查看指令终端</string>
+    <string name="keyboard_action_wep_app">查看OctoPrint网页界面</string>
+    <string name="keyboard_action_wep_site">查看Printoid网址</string>
+    <string name="keyboard_action_octoprint_profiles">OctoPrint配置项</string>
+    <string name="keyboard_action_app_settings">设置</string>
+    <string name="keyboard_action_app_infos">信息</string>
+    <string name="keyboard_action_files">文件</string>
+    <string name="keyboard_action_timelapses">延时拍摄</string>
+    <string name="keyboard_action_right_panel">打开右侧面板</string>
+    <string name="keyboard_action_right_panel_close">关闭右侧面板</string>
+    <string name="keyboard_action_x">X轴</string>
+    <string name="keyboard_action_y">Y轴</string>
+    <string name="keyboard_action_z">Z轴</string>
+    <string name="keyboard_action_home_xy">XY轴归零</string>
+    <string name="keyboard_action_home_z">Z轴归零</string>
+    <string name="keyboard_action_extrude">进料</string>
+    <string name="keyboard_action_move_distance">移动距离已设置到 %.1f</string>
+    <string name="keyboard_action_retract">退料</string>
+    <string name="keyboard_action_increment_fan">增加风扇速率</string>
+    <string name="keyboard_action_decrement_fan">减小风扇速率</string>
+    <string name="keyboard_action_increment_ext">增加 打印头.%d 的温度</string>
+    <string name="keyboard_action_decrement_ext">减小 打印头.%d 的温度</string>
+    <string name="keyboard_action_increment_bed">增加热床温度</string>
+    <string name="keyboard_action_decrement_bed">减小热床温度</string>
+    <string name="keyboard_action_increment_chamber">增加加热箱温度</string>
+    <string name="keyboard_action_decrement_chamber">减小加热箱温度</string>
+    <string name="keyboard_action_select_tool">选择 打印头%d</string>
+    <string name="keyboard_action_print">打印选中的文件</string>
+    <string name="keyboard_action_pause">暂停打印</string>
+    <string name="keyboard_action_stop">终止打印</string>
+
+</resources>

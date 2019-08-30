@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- CONNECTOR BASE -->
+    <string name="connector_connection_title">连接</string>
+    <string name="connector_connection_to_title">连接至 %s</string>
+    <string name="connector_connection_to_subtitle">Printoid正在试图连接OctoPrint…</string>
+
+    <!-- CONNECTOR STEP 2 (CHECK IP) -->
+    <string name="connector_communication_failed_title">连接失败</string>
+    <string name="connector_communication_failed_msg"><![CDATA[Printoid无法通过 %1$s 与您的OctoPrint服务通讯.<br><br><b>详情:</b><br><br>%2$s]]></string>
+
+    <!-- EXTRA MSG: VPN ACTIVE-->
+    <string name="connector_failed_vpn">\n\n注意: Printoid检测到您的设备正在使用VPN, 这可能会导致连接问题.</string>
+
+    <!-- CONNECTOR STATUS -->
+    <string name="octoprint_connection_lost">丢失与OctoPrint的连接</string>
+    <string name="connector_profile_not_completed_title">OctoPrint配置信息不完整</string>
+    <string name="connector_profile_not_completed_message">您刚刚配置或者选中的OctoPrint配置信息似乎不完整.\n请在试图连接前进行修正.</string>
+    <string name="connector_communication_established_with">与 %s 的连接已建立</string>
+    <string name="connector_communication_canceled_with">与 %s 的连接已取消</string>
+
+    <!-- CONNECTOR ERRORS -->
+    <string name="connector_error_format_multiple_ip"><![CDATA[试图连接到 <b>%1$s</b><br>-> %2$s<br><br>试图连接到 <b>%3$s</b><br>-> %4$s]]></string>
+    <string name="connector_error_empty_response">空白的回复</string>
+    <string name="connector_error_none_response">没有回复</string>
+    <string name="connector_error_connectivity_response">网络未连接或者信号太差了, 请检查您当前的网络</string>
+    <string name="connector_error_invalid_api_key">无效的API密钥</string>
+    <string name="connector_error_missing_api_key">没有API密钥</string>
+    <string name="connector_error_unauthorized">认证失败, 请仔细检查您的API密钥或者基础认证信息</string>
+    <string name="connector_error_http_error">连接错误: %2$d (%1$s)</string>
+    <string name="connector_error_parsing_exception">未知的API格式, 请联系Printoid开发人员</string>
+
+    <!-- NETWORK ISSUE -->
+    <string name="alert_network_connecting_title">正在连接到网络…</string>
+    <string name="alert_network_connecting_message">您的设备正在连接到网络, 请耐心等待几秒钟再试</string>
+    <string name="alert_network_unavailable_title">设备未连接到网络</string>
+    <string name="alert_network_unavailable_message">您的设备未连接到局域网或者互联网. 因此Printoid无法与OctoPrinter通讯, 请仔细检查您的网络状态.</string>
+
+    <!-- PRINTER CONNECTION -->
+    <string name="connector_printer_connection_title">正在连接打印机…</string>
+    <string name="connector_printer_connection_msg">Printoid正在连接您的3D打印机, 请稍等…</string>
+
+    <!-- PRINTER CONNECTOR -->
+    <string name="main_printer_connected_title">打印机已连接</string>
+    <string name="main_printer_connected_msg">Printoid现在已可以和您的3D打印机通讯!</string>
+    <string name="main_printer_connection_error_title">打印机连接错误</string>
+    <string name="main_printer_connection_error_msg">Printoid无法连接到打印机.\n请仔细检查树莓派与打印机之间的线缆是否连接、串口端口号是否正确并确保打印机处于通电状态.</string>
+
+    <!-- PRINTER DISCONNECTOR -->
+    <string name="alert_disconnect_printer_title">断开打印机连接</string>
+    <string name="alert_disconnect_printer_message">Printer将要断开与OctoPrint的连接. 是否继续?</string>
+    <string name="printer_disconnected">打印机已断开</string>
+
+    <!-- PRINTER CONNECTION SETTINGS -->
+    <string name="select_tty_title">打印机连接</string>
+    <string name="select_tty_keep">Save connection settings</string>
+    <string name="select_tty">Serial port</string>
+    <string name="select_tty_profile">Printer profile</string>
+    <string name="select_tty_auto_connect">Auto connect</string>
+
+    <!-- FAKE ACKNOWLEDGMENT -->
+    <string name="fake_ack_label">发送伪造的Ack确认</string>
+    <string name="fake_ack_send">发送</string>
+    <string name="fake_ack_sent_success">伪造确认已发送</string>
+    <string name="fake_ack_sent_failure">伪造确认发送失败</string>
+
+</resources>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="sort_method">文件排序方式:</string>
+    <string name="sort_name_ascending">名称 (A - Z)</string>
+    <string name="sort_name_descending">名称 (Z - A)</string>
+    <string name="sort_oldest_first">日期 (旧的靠前)</string>
+    <string name="sort_newest_first">日期 (新的靠前)</string>
+    <string name="sort_shortest_first">打印时间 (短的靠前)</string>
+    <string name="sort_longest_first">打印时间 (长的靠前)</string>
+    <string name="sort_most_success_first">成功率 (高的在前)</string>
+    <string name="sort_less_success_first">成功率 (低的在前)</string>
+    <string name="sort_favorites_only">只显示标记为喜欢的</string>
+
+    <string name="sort_method_timelapses">延时摄影排序方式:</string>
+
+</resources>

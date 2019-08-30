@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="alert_rate_app_title">给Printoid %s评分</string>
+    <string name="alert_rate_app_message">您似乎经常使用Printoid, 十分感谢!\n如果您喜欢本应用, 请花几秒钟在Google Play中给个评分. 这是支持开发人员的好途径!\n(如果您十分喜欢本应用, 希望可以给个5星!)</string>
+
+    <string name="rate_app_button_ok">好的, 我会的!</string>
+    <string name="rate_app_button_never">不再提醒我</string>
+    <string name="rate_app_button_later">稍后</string>
+
+</resources>

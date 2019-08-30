@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="edit_config">配置项</string>
+    <string name="profile">配置项:</string>
+
+    <string name="config_octoprint_server_name">服务器配置项名称</string>
+    <string name="config_lan_ip">本地IP或者域名(LAN)</string>
+    <string name="config_wan_ip">公网IP或者域名(WAN)</string>
+    <string name="config_port">(端口号)</string>
+    <string name="config_api_key">OctoPrint API密钥</string>
+    <string name="config_baudrate">波特率</string>
+
+    <string name="config_octoprint_profile_title">OctoPrint配置项</string>
+    <string name="config_printer_first_profile_title">配置您的第一个OctoPrint配置项</string>
+    <string name="config_printer_profiles_title">OctoPrint配置项</string>
+    <string name="config_ssh">SSH参数(用于自定义指令)</string>
+    <string name="config_ssh_tip">(可选)</string>
+    <string name="config_ssh_login">SSH用户名</string>
+    <string name="config_ssh_pwd">SSH密码</string>
+    <string name="config_ssh_port">(远程访问端口)</string>
+    <string name="config_extended_settings">+ 扩展设置(可选)</string>
+    <string name="config_go_to_profiles">编辑配置项</string>
+    <string name="config_basic_auth_login">验证帐号</string>
+    <string name="config_basic_auth_password">验证密码</string>
+    <string name="config_websocket_path">Web socket路径</string>
+
+    <string name="config_websocket_detail_msg">请勿编辑此项除非您知道这是什么</string>
+
+    <string name="config_title_alert_config">OctoPrint配置项错误</string>
+    <string name="config_title_alert_saved">OctoPrint配置项已保存</string>
+    <string name="config_title_alert_saved_msg">OctoPrint配置项成功保存!</string>
+    <string name="config_title_alert_changed">配置项已编辑</string>
+    <string name="config_title_alert_changed_msg">您的OctoPrint配置项已发生改变, 您是否想要保存新的配置?</string>
+    <string name="config_error_printer_name">无效的配置项名称, 请检查您输入的值</string>
+    <string name="config_error_ip">您至少提供一个IP地址.\n\n是否需要帮助?</string>
+    <string name="config_error_inversion_ip">您在WAN IP字段输入了一个LAN IP地址.\n\n是否需要帮助?</string>
+    <string name="config_error_same_ip">您在LAN和WAN字段输入了同一个IP地址.\n\n是否需要帮助?</string>
+    <string name="config_error_port">无效的端口号.\n\n是否需要帮助?</string>
+    <string name="config_error_lan_port">无效的LAN端口号,端口号22属于SSH协议(Printoid通过HTTP与OctoPrint通讯).\n\n是否需要帮助?</string>
+    <string name="config_error_wan_port">无效的WAN端口号,端口号22属于SSH协议(Printoid通过HTTP与OctoPrint通讯).\n\n是否需要帮助?</string>
+    <string name="config_error_api_key">无效的OctoPrint API密钥.\n\n是否需要帮助?</string>
+    <string name="config_error_api_key_na">N/A不是一个有效的OctoPrint API密钥.\n\n请刷新您的OctoPrint网页界面. 如果问题仍存在,请联系开发人员.</string>
+    <string name="config_error_baudrate">无效的通讯波特率.\n\n是否需要帮助?</string>
+
+    <string name="config_error_qrcode_title">二维码扫描错误</string>
+    <string name="config_error_qrcode_msg">Printoid无法识别您的二维码. 请重试, 或者手动输入您的API密钥.</string>
+
+    <string name="commands_ssh_failed_title">缺少SSH配置信息</string>
+    <string name="commands_ssh_failed_message">当前的OctoPrint配置项似乎缺少SSH配置信息. 如果您想发生SSH指令, 请先完成配置.</string>
+
+    <string name="scanning">正在扫描OctoPrint的二维码&#8230;</string>
+
+    <string name="alert_profiles_assistance_title">配置项创建帮助</string>
+    <string name="alert_profiles_assistance_message">您正在创建一个OctoPrint配置项用于与OctoPrint服务器建立连接. 请遵循一些必要字段的填写细节.\n\n
+    [ℹ 主要参数]\n\n
+    ✏ LAN IP地址: 这是您树莓派在局域网中的IP地址(或者域名)\n\n
+    ✏ LAN端口号(可选): 如果您更改了默认端口号(80)，请填写此字段, 否则请留空\n\n
+    ✏ WAN IP(可选): 这是您路由器的公网IP(或者域名),可用于在移动网络访问OctoPrint\n\n
+    ✏ WAN端口号(可选): 这是您在路由器里配置的树莓派端口转发的公网端口号.\n\n
+    ✏ API密钥: 您可以在OctoPrint网页界面的设置界面中找到该信息\n\n
+    ✏ 波特率: 这是与您的3D打印机的通讯波特率\n\n
+    [ℹ 高级配置参数]\n\n
+    ✏ SSL(可选): 启用该功能将会通过HTTPS而不是HTTP通讯\n\n
+    ✏ 基础认证(可选): 如果您在树莓派上开启了代理认证信息, 请启用该功能\n\n
+    ✏ SSH认证(可选): 用于登录到您树莓派SSH服务的认证信息(在自定义指令界面中使用)\n\n
+    ✏ SSH端口号(可选): 这是您在路由器里配置的22端口转发的公网端口号(当Printoid通过公网连接时使用, 本地网络将使用22端口)\n\n
+    [ℹ 更多信息]\n\n您可以在Printoid官网上找到有关配置的更多信息: %s
+    </string>
+
+    <string name="alert_ssl_issues_title">启用加密连接(SSL)</string>
+    <string name="alert_ssl_issues_msg">如果服务端的证书是自签名的, 您需要在您的设备上安装对应的证书或者启用下面的选项, 否则连接将会失败.\n\n
+        如果服务端证书由可信任组织(CA)颁发, 则不需要安装证书就可以直接连接.\n\n
+        请先阅读该文章: https://printoid.net/2017/01/12/important-printoid-and-full-ssl-support/</string>
+
+    <string name="alert_auto_trust_cert_issues_title">自动信任SSL证书</string>
+    <string name="alert_auto_trust_cert_issues_msg">我的服务器使用了自签名证书. 我信任该证书并由我自己承担使用风险.\n\n
+        请先阅读该文章: https://printoid.net/2017/01/12/important-printoid-and-full-ssl-support/</string>
+
+    <string name="alert_modern_tls_title">使用modern TLS</string>
+    <string name="alert_modern_tls_msg">请勿启用该功能, 除非开发人员告诉您这么做! 取决于您的服务器配置这将造成若干连接问题.</string>
+
+    <string name="alert_profile_identifier_title" translatable="false">配置项ID</string>
+    <string name="alert_profile_identifier_msg" translatable="false">当前配置项的ID是 %1$s\n\n当前配置项ID是 %2$s</string>
+
+    <string name="unknown_profile">未知配置项</string>
+    <string name="all_available_profiles">所有可用的配置项</string>
+
+    <string name="search_wan_ip_loading_title">获取公网IP中(WAN)</string>
+    <string name="search_wan_ip_loading_message">Printoid正在获取您的公网IP(WAN), 请耐心等待几秒钟…</string>
+    <string name="search_wan_ip_dialog_title">自动获取的公网IP(WAN)</string>
+    <string name="search_wan_ip_dialog_message">请确保本设备和您的OctoPrint服务器连接在同一局域网中.\n\n
+    此外, 您还需要确保路由器已经正确配置, 您的OctoPrint服务器可以通过互联网访问(比如3G/4G网络).</string>
+
+    <string name="search_wan_ip_success_toast">已找到公网IP(WAN): %s</string>
+    <string name="search_wan_ip_error_toast">Printoid目前无法获取公网IP(WAN)</string>
+
+    <string name="search_lan_ip_dialog_title">自动获取局域网IP(LAN)</string>
+    <string name="search_lan_ip_dialog_message">请确保本设备和您的OctoPrint服务器连接在同一局域网中.\n\n
+    否则Printoid将无法找到您的OctoPrint服务器.</string>
+
+    <string name="upnp_devices_dialog_title">本局域网上的设备</string>
+    <string name="upnp_parameter_default_name">未知名称</string>
+    <string name="upnp_parameter_default_manufacturer">未知设备商</string>
+    <string name="upnp_no_device_found_message">未找到设备</string>
+    <string name="upnp_error_message">加载设备列表失败</string>
+
+    <string name="profile_last_connection">上次连接 %s 之前</string>
+
+    <string name="config_printer_name_help">为了更好的使用体验,请给该配置项一个名称</string>
+    <string name="config_lan_ip_help">局域网IP或者域名是用于在本地网络访问您的服务器. 默认端口不需要填写端口号信息</string>
+    <string name="config_wan_ip_help">公网IP或者域名是用于从公网访问您服务器的路由器公网地址. 请阅读以下教程https://printoid.net</string>
+    <string name="config_api_key_help">您的OctoPrint服务器API密钥可以在OctoPrint网页界面中找到, 位于配置界面的API选项</string>
+
+    <string name="config_ssl_help">HTTPS(使用SSL/TLS协议)可以与您的服务器加密通讯. 该功能需要事先在您的服务器上启用</string>
+    <string name="config_basic_auth_help">您的HTTP代理认证信息.该功能需要事先在您的服务器上启用</string>
+    <string name="config_octoprint_credentials_help">您用于登录OctoPrint网页界面的认证信息.将用于终端和集成的插件</string>
+    <string name="config_ssh_credentials_help">您用于登录SSH服务的认证信息, 将用于自定义SSH指令功能. 如果需要远程访问, 请定义一个公网SSH端口号</string>
+
+</resources>

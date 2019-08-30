@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="account_introduction_message">Printoid帐号将会使用云技术,让您的配置文件在多个设备之间同步.</string>
+    <string name="account_introduction_signed_as">以 %s 登录</string>
+    <string name="account_introduction_read_more"><u>使用条款 &amp; 隐私策略</u></string>
+
+    <string name="account_sign_up_introduction">使用邮箱地址创建您的Printoid账号:</string>
+    <string name="account_i_have_an_account">已经有帐号了</string>
+    <string name="account_sign_up">注册</string>
+    <string name="account_confirm_password">确认密码</string>
+    <string name="account_email_invalid">请提供一个有效的邮箱地址</string>
+    <string name="account_password_error_empty">请提供一个密码</string>
+    <string name="account_password_error_size">密码的最小长度是8</string>
+    <string name="account_password_error_lower">密码至少包含一个小写字母</string>
+    <string name="account_password_error_upper">密码至少包含一个大写字母</string>
+    <string name="account_password_error_digit">密码至少包含一个数字</string>
+    <string name="account_password_confirm_does_not_match">两次输入的密码不一致</string>
+
+    <string name="account_password_lost"><u>我忘记密码了</u></string>
+    <string name="account_password_lost_email_sent">已向 %s 发送了密码重置邮件</string>
+    <string name="account_password_lost_email_error">无法为 %s 重置密码, 请稍后再试.</string>
+
+    <string name="account_sign_in_with_email">用邮箱地址登录</string>
+    <string name="account_sign_in_with_google">用Google帐号登录</string>
+    <string name="account_sign_out">退出登录</string>
+
+    <string name="account_backup">备份配置文件到帐号中</string>
+    <string name="account_restore">从账号中恢复配置文件</string>
+    <string name="account_automatic_backup">自动备份</string>
+    <string name="account_automatic_restore">当帐号中的配置文件改动时进行提醒</string>
+
+    <string name="account_backup_success">您的Printoid配置文件已经备份到帐号中!</string>
+    <string name="account_backup_failure">备份配置文件失败, 请稍后再试!</string>
+    <string name="account_restore_success">您的Printoid配置文件已从帐号中恢复, 应用将要重启!</string>
+    <string name="account_restore_failure">恢复Printoid配置文件失败, 请稍后再试!</string>
+    <string name="account_restore_not_needed">您的配置文件已经是最新, 无需进行恢复</string>
+
+    <string name="account_created_with_success">创建帐号成功! 欢迎您, %s!</string>
+    <string name="account_created_with_failure">创建帐号失败, 请稍后再试!</string>
+
+    <string name="account_logged_with_success">帐号登录成功! 欢迎回来, %s</string>
+    <string name="account_logged_with_failure">帐号登录失败, 请稍后再试!</string>
+
+    <string name="account_alert_settings_changed_title">帐号中的配置文件有改动</string>
+    <string name="account_alert_settings_changed_message">您的Printoid帐号中的配置文件似乎发生了变化. 是否需要恢复到本设备上?\n\n在应用这些变动后, Printoid将需要重启.</string>
+
+    <string name="account_alert_settings_too_modern_title">配置文件版本号不一致</string>
+    <string name="account_alert_settings_too_modern_message">您的Printoid帐号中的配置文件似乎来自一个更高版本的Printoid. 请在本设备上升级本应用.</string>
+
+</resources>

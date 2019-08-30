@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="update_available_title">可用的更新</string>
+    <string name="update_available_message">Printoid %1$s的新版本已在Google Play上发布! (%2$s)\n\更新日志:\n\n%3$s</string>
+
+</resources>

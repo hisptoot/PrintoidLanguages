@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="menu_title_partners">合作伙伴</string>
+    <string name="menu_title_configuration">配置</string>
+    <string name="menu_title_help">帮助与支持</string>
+
+    <string name="menu_account">Printoid帐号</string>
+    <string name="menu_psu_plugin_on" translatable="false">电源开</string>
+    <string name="menu_psu_plugin_off" translatable="false">电源关</string>
+    <string name="menu_tplink_plugin_on" translatable="false">TPLink插座开</string>
+    <string name="menu_tplink_plugin_off" translatable="false">TPLink插座关</string>
+    <string name="menu_wemo_plugin_on" translatable="false">Wemo插座开</string>
+    <string name="menu_wemo_plugin_off" translatable="false">Wemo插座关</string>
+    <string name="menu_connect_server">连接到OctoPrint</string>
+    <string name="menu_connect_printer">连接到打印机</string>
+    <string name="menu_connecting_printer">正在连接打印机</string>
+    <string name="menu_disconnect_printer">断开打印机连接</string>
+    <string name="menu_video_streaming">视频监控</string>
+    <string name="menu_commands">命令终端</string>
+    <string name="menu_full_screen">全屏视图</string>
+    <string name="menu_full_screen_streaming">全屏视频监控</string>
+    <string name="menu_full_screen_realtime_visualizer">全屏预览器</string>
+    <string name="menu_full_screen_commands">全屏命令终端</string>
+    <string name="menu_full_screen_slicer">全屏切片操作</string>
+    <string name="menu_full_screen_more_tools">全屏打印头操作</string>
+    <string name="menu_minimize">最小化视图</string>
+    <string name="menu_printer_profiles_settings">OctoPrint服务器</string>
+    <string name="menu_app_settings">应用参数</string>
+    <string name="menu_profile_settings">服务器参数</string>
+    <string name="menu_alarms">提醒管理器</string>
+    <string name="menu_plugins">OctoPrint插件</string>
+    <string name="menu_spools">耗材管理器</string>
+    <string name="menu_app_infos">帮助</string>
+    <string name="menu_octoprint_web">OctoPrint网页界面</string>
+    <string name="menu_files">文件</string>
+    <string name="menu_cults" translatable="false">Cults</string>
+    <string name="menu_myminifactory" translatable="false">MyMiniFactory</string>
+    <string name="menu_printoid_web">Printoid网站</string>
+    <string name="menu_timelapse">延时摄影</string>
+    <string name="menu_contact_developer">联系开发人员</string>
+    <string name="menu_tos">服务协议</string>
+    <string name="menu_printer_tools">打印头</string>
+    <string name="menu_gcode_scripts">Gcode脚本</string>
+    <string name="menu_debug" translatable="false">Printoid调试通道</string>
+
+    <string name="menu_lite_label_promote">你是否喜欢Printoid精简版?</string>
+    <string name="menu_lite_text_promote">快来支持开发人员并享用功能完整的旗舰版!</string>
+
+    <string name="menu_profiles_create">添加配置项</string>
+    <string name="menu_profiles_edit">管理配置项</string>
+
+</resources>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="head_current_temperature_label">打印头</string>
+    <string name="headX_current_temperature_label">打印头%d</string>
+    <string name="head_target_temperature_label">打印头 (目标)</string>
+    <string name="headX_target_temperature_label">打印头%d (目标)</string>
+    <string name="bed_current_temperature_label">热床</string>
+    <string name="bed_target_temperature_label">热床 (目标)</string>
+    <string name="current_temperature_none" translatable="false">&#8212;</string>
+    <string name="target_temperature_none" translatable="false">&#8212;</string>
+    <string name="current_hot_bed_none" translatable="false">&#8212;</string>
+    <string name="current_temperature">%.1f°</string>
+    <string name="target_temperature">%.1f°</string>
+    <string name="current_bed">%.1f°</string>
+
+    <string name="move_01mm" translatable="false">0.1</string>
+    <string name="move_1mm" translatable="false">1</string>
+    <string name="move_10mm" translatable="false">10</string>
+    <string name="move_100mm" translatable="false">100</string>
+
+    <string name="baby_move_001mm" translatable="false">0.01</string>
+    <string name="baby_move_005mm" translatable="false">0.05</string>
+    <string name="baby_move_01mm" translatable="false">0.1</string>
+
+    <string name="extrude_1mm" translatable="false">1</string>
+    <string name="extrude_5mm" translatable="false">5</string>
+    <string name="extrude_10mm" translatable="false">10</string>
+    <string name="extrude_100mm" translatable="false">100</string>
+
+    <string name="tool_0" translatable="false">T0</string>
+    <string name="tool_1" translatable="false">T1</string>
+    <string name="tool_2" translatable="false">T2</string>
+    <string name="tool_3" translatable="false">T3</string>
+    <string name="tool_4" translatable="false">T4</string>
+    <string name="tool_5" translatable="false">T5</string>
+    <string name="tool_6" translatable="false">T6</string>
+    <string name="tool_7" translatable="false">T7</string>
+    <string name="tool_8" translatable="false">T8</string>
+    <string name="tool_9" translatable="false">T9</string>
+
+    <string name="printer_head_level">打印头\n%d°</string>
+    <string name="printer_headX_level">打印头 %1$d\n%2$d°</string>
+    <string name="hot_bed_level">热床\n%d°</string>
+    <string name="chamber_level">加热箱\n%d°</string>
+    <string name="fan_level">风扇速率\n%d%%</string>
+    <string name="fan_level_index">风扇%1$d速率\n%2$d%%</string>
+
+    <string name="printer_head_level_off">打印头\n关闭</string>
+    <string name="printer_headX_level_off">打印头%d\n关闭</string>
+    <string name="hot_bed_level_off">热床\n关闭</string>
+    <string name="chamber_level_off">加热箱\n关闭</string>
+    <string name="fan_level_off">风扇\n关闭</string>
+    <string name="fan_level_index_off">风扇%d\n关闭</string>
+
+    <string name="input_headX_level">打印头%d (°)</string>
+    <string name="input_bed_level">热床 (°)</string>
+    <string name="input_chamber_level">加热箱 (°)</string>
+    <string name="input_fan_level">风扇 %d (%%)</string>
+
+    <string name="input_feedrate">打印速率 (%)</string>
+    <string name="input_flowrate">流量倍率 (%)</string>
+    <string name="input_travel">移动距离 (mm)</string>
+    <string name="input_extruder">挤出长度 (mm)</string>
+    <string name="input_baby_stepping">微量调整(BabyStep)距离 (/100 mm)</string>
+
+    <string name="tool_plot_click_message">长按曲线图\n打开高级工具</string>
+
+</resources>

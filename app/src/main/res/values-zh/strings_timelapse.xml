@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="timelapse_title">延时摄影</string>
+
+    <string name="timelapse_status_rendered">延时摄影渲染完毕</string>
+    <string name="timelapse_status_processing">延时摄影处理中…</string>
+    <string name="timelapse_status_recording">延时摄影录制中…</string>
+    <string name="timelapse_status_rendering">延时摄影渲染中…</string>
+
+    <string name="timelapse_no_file">没有可用的延时摄影</string>
+
+    <string name="timelapse_deleted">延时摄影已从OctoPrint删除</string>
+
+    <string name="download_timelapse_dialog_title">正在下载延时摄影</string>
+    <string name="download_timelapse_dialog_msg">Printoid正在下载您的延时摄影文件, 请稍等…</string>
+
+    <string name="download_timelapse_done">延时摄影已下载到您的内部存储中 (%s)</string>
+
+    <string name="download_timelapse_alert_title">下载失败</string>
+    <string name="download_timelapse_alert_msg">下载已失败, %s</string>
+    <string name="download_timelapse_alert_error_url">URL中发现错误</string>
+    <string name="download_timelapse_alert_error_fnf">延时摄影无法在您的OctoPrint服务器上找到</string>
+    <string name="download_timelapse_alert_error_io">延时摄影无法写入到存储中</string>
+    <string name="download_timelapse_alert_error_unknown">发生了未知错误</string>
+
+    <string name="timelapse_config_type">延时摄影类型</string>
+    <string name="timelapse_config_fps">帧率(fps)</string>
+    <string name="timelapse_config_post_roll">尾帧延长(秒)</string>
+    <string name="timelapse_config_cap_post_roll">Capture post roll</string>
+    <string name="timelapse_config_interval">拍摄间隔(秒)</string>
+    <string name="timelapse_config_zhop">Z轴抬升回抽量(mm)</string>
+    <string name="timelapse_config_sort">排序方式</string>
+
+    <string name="timelapse_render_succeed_command_title">渲染已开始</string>
+    <string name="timelapse_render_succeed_command_msg">延时摄影已经在OctoPrint服务上开始渲染.\n\n请注意Printoid无法获取到渲染处理的状态. 如果渲染成功, 新的延时摄影将会出现在延时摄影列表中.</string>
+
+    <string name="alert_delete_timelapse_title">删除延时摄影</string>
+    <string name="alert_delete_timelapse_msg">您真的想要删除延时摄影文件 <b>%s</b> 吗? 该操作无法被撤销.</string>
+
+    <string name="alert_timelapse_inner_player_title">内部视频播放器错误</string>
+    <string name="alert_timelapse_inner_player_msg">Printoid无法使用内部播放器播放您的延时摄影.\n\n您是否想要用第三方应用打开该视频文件?</string>
+
+    <string name="alert_video_player_permission_title">权限问题</string>
+    <string name="alert_video_player_permission_msg">您选择的视频播放器没有读取外部存储的权限.</string>
+
+    <string name="alert_vlc_title">安装VLC™</string>
+    <string name="alert_vlc_msg">安卓系统无法原生播放MJEG视频. 幸运的是 VideoLAN Client™ (VLC™ 媒体播放器) 能够播放!\n\n
+        请在您的手机上安装该应用, 此外别忘了打开"读取外部存储"的权限.</string>
+
+</resources>

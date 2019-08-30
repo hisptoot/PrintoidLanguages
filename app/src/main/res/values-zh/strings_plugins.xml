@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="plugins_title">OctoPrint插件</string>
+
+    <string name="plugins_help_title">OctoPrint插件</string>
+    <string name="plugins_help_message">这是目前集成在Printoid中的插件列表.\n\n并不是所有的OctoPrint插件都在Printoid中有支持, 并且我作为开发者无法把它们全部集成进去.\n\n如果您想要Printoid支持一个新的插件, 请联系contact@printoid.net. 我会考虑集成它的(当然在能够实现的情况下).</string>
+
+    <string name="plugin_name_psu" translatable="false">PSU Control</string>
+    <string name="plugin_name_autoshutdown" translatable="false">Automatic Shutdown</string>
+    <string name="plugin_name_tp_link" translatable="false">TP-Link SmartPlug</string>
+    <string name="plugin_name_wemo" translatable="false">WemoSwitch</string>
+    <string name="plugin_name_enclosure" translatable="false">OctoPrint Enclosure</string>
+    <string name="plugin_name_navbartemp" translatable="false">Navbar Temp</string>
+    <string name="plugin_name_octolapse" translatable="false">Octolapse</string>
+
+    <string name="plugin_desc_psu">该OctoPrint插件可以控制ATX/AUX电源模块, 可以在打印机闲置时降低功耗和噪音.</string>
+    <string name="plugin_desc_autoshutdown">该插件可以在打印完成后自动关机.仅在服务器运行时才能配置.</string>
+    <string name="plugin_desc_tp_link">受到OctoPrint-PSUControl及TP-Link WiFi SmartPlug Client两个插件启发, 该插件可以通过OctoPrint导航栏控制TP-Link智能插座.</string>
+    <string name="plugin_desc_wemo">该插件允许通过导航栏按钮和GCODE指令来控制贝尔金Wemo智能插座.</string>
+    <string name="plugin_desc_enclosure">支持几乎所有您想对树莓派/OctoPrint/保温箱进行的操作.</string>
+    <string name="plugin_desc_navbartemp">在OctoPrint导航栏显示温度信息. 对于树莓派用户, 该插件自动会在应用导航栏显示树莓派CPU温度.</string>
+    <string name="plugin_desc_octolapse">Octolapse被设计成用于制作稳定的3D打印延时摄影, 同时操作尽可能保存简单, 此外它还可以进行高度配置. 现在您不需要改装摄像头或者自定义GCODE就能够制作出丝滑流畅的延时摄影.</string>
+
+    <string name="plugin_author_psu" translatable="false">Shawn Bruce (@kantlivelong)</string>
+    <string name="plugin_author_autoshutdown" translatable="false">Nicanor Romero Venier(@octoprint)</string>
+    <string name="plugin_author_tp_link" translatable="false">(@jneilliii)</string>
+    <string name="plugin_author_wemo" translatable="false">(@jneilliii)</string>
+    <string name="plugin_author_enclosure" translatable="false">Vitor de M. Henrique (@vitormhenrique)</string>
+    <string name="plugin_author_navbartemp" translatable="false">Jarek Szczepanski (@imrahil)</string>
+    <string name="plugin_author_octolapse" translatable="false">Brad Hochgesang (@FormerLurker)</string>
+
+    <string name="plugin_url_psu" translatable="false">https://github.com/kantlivelong/OctoPrint-PSUControl</string>
+    <string name="plugin_url_autoshutdown" translatable="false">https://github.com/OctoPrint/OctoPrint-AutomaticShutdown</string>
+    <string name="plugin_url_tp_link" translatable="false">https://github.com/jneilliii/OctoPrint-TPLinkSmartplug</string>
+    <string name="plugin_url_wemo" translatable="false">https://github.com/jneilliii/OctoPrint-WemoSwitch</string>
+    <string name="plugin_url_enclosure" translatable="false">https://github.com/vitormhenrique/OctoPrint-Enclosure</string>
+    <string name="plugin_url_navbartemp" translatable="false">https://github.com/imrahil/OctoPrint-NavbarTemp</string>
+    <string name="plugin_url_octolapse" translatable="false">https://github.com/FormerLurker/Octolapse</string>
+
+    <string name="plugin_message_psu">PSU Control插件应当被安装在您的OctoPrint服务器上. 然后它就会自动出现在应用的左侧菜单中.</string>
+    <string name="plugin_message_tp_link">TP-Link SmartPlug插件应当被安装在您的OctoPrint服务器上. 然后它就会自动出现在应用的左侧菜单中.</string>
+    <string name="plugin_message_wemo">WemoSwitch plugin插件应当被安装在您的OctoPrint服务器上. 然后它就会自动出现在应用的左侧菜单中.</string>
+    <string name="plugin_message_enclosure">该插件很快就会被集成到Printoid中, 请耐心等待:) 当功能可用时,您将第一时间得到通知.</string>
+    <string name="plugin_message_navbartemp">Navbar Temp插件应当被安装在您的OctoPrint服务器上.\n\n如果您使用的是树莓派, 那么它的CPU温度将会自动出现在应用标题栏中.</string>
+    <string name="plugin_message_octolapse" translatable="false">无</string>
+
+    <string name="plugin_not_available">该插件似乎不可用(或者未安装在您的OctoPrint服务器上). 请检查它在您OctoPrint服务设置中的状态.</string>
+
+    <string name="plugin_not_in_this_version_title">插件不可用</string>
+    <string name="plugin_not_in_this_version_msg">该插件在Printoid当前版本中不可用. 请考虑升级Printoid已享受该功能! (访问https://printoid.net获取各个版本可用插件列表)</string>
+
+    <!-- AUTOMATIC SHUTDOWN PLUGIN -->
+    <string name="plugin_autoshutdown_enable">在打印完成后关闭服务器</string>
+    <string name="plugin_autoshutdown_type">类型</string>
+
+    <!-- PSU CONTROL PLUGIN -->
+    <string name="plugin_psu_enable">打开电源</string>
+
+    <!-- TPLINK SMARTPLUG PLUGIN -->
+    <string name="plugin_tplink_enable">打开TP-Link智能插座</string>
+    <string name="plugin_tplink_state">当前状态:</string>
+    <string name="plugin_tplink_ip">智能插座IP:</string>
+
+    <!-- WEMO SWITCH PLUGIN -->
+    <string name="plugin_wemo_enable">打开Wemo智能插座</string>
+    <string name="plugin_wemo_state">当前状态:</string>
+    <string name="plugin_wemo_ip">Wemo智能插座IP:</string>
+
+    <!-- NAVBARTEMP PLUGIN -->
+    <string name="plugin_navbartemp_temperature">系统SoC温度</string>
+
+    <!-- OCTOLAPSE PLUGIN -->
+    <string name="plugin_octolapse_enable">启用Octolapse</string>
+    <string name="plugin_octolapse_status">状态:</string>
+    <string name="plugin_octolapse_printer">打印机类型:</string>
+    <string name="plugin_octolapse_stabilization">喷头停靠方式:</string>
+    <string name="plugin_octolapse_snapshot">快照方式:</string>
+    <string name="plugin_octolapse_rendering">渲染方式:</string>
+    <string name="plugin_octolapse_camera">摄像头:</string>
+    <string name="plugin_octolapse_debug">调试信息:</string>
+    <string name="plugin_octolapse_trigger_state">触发器\n状态</string>
+    <string name="plugin_octolapse_extruder_state">喷头\n状态</string>
+    <string name="plugin_octolapse_position_state">位置\n状态</string>
+    <string name="plugin_octolapse_position_change">位置\n改变</string>
+
+    <!-- ENCLOSURE PLUGIN -->
+    <string name="plugin_enclosure_rpi_output_enable">打开:</string>
+    <string name="plugin_enclosure_rpi_output_auto_startup">自动启动脚本:</string>
+    <string name="plugin_enclosure_rpi_output_auto_shutdown">自动关闭脚本:</string>
+    <string name="plugin_enclosure_rpi_output_execute_script">执行脚本</string>
+    <string name="plugin_enclosure_rpi_output_send_gcode">发送GCODE</string>
+    <string name="plugin_enclosure_rpi_output_pwm_hint" translatable="false">0%</string>
+    <string name="plugin_enclosure_rpi_input_temperature">温度: %s</string>
+    <string name="plugin_enclosure_rpi_input_humidity">湿度: %s</string>
+    <string name="plugin_enclosure_rpi_input_target_hint">目标</string>
+
+</resources>

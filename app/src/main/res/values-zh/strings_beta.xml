@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="alert_beta_program_title">测试版程序</string>
+    <string name="alert_beta_program_msg">您可以对测试版程序进行测试做出贡献来改进Printoid!\n\nPrintoid仅需要您的邮箱地址, 用于发送测试版的资讯和操作步骤. 当然这是基于自愿的, 将不会影响您的隐私并不会泄漏个人信息.\n\n您是否想要马上启用测试版程序?</string>
+
+    <string name="alert_beta_infos_title">您的信息</string>
+    <string name="alert_beta_infos_msg">Printoid仅需要您的邮箱地址, 用于给您发送测试版的资讯和操作步骤!</string>
+
+    <string name="notification_printoid_beta_program_title">Printoid测试版</string>
+
+</resources>

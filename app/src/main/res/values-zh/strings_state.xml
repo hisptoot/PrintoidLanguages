@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="printer_state_octo_disconnected">服务未连接</string>
+    <string name="printer_state_disconnected">打印机已断开</string>
+    <string name="printer_state_connecting">正在连接打印机&#8230;</string>
+    <string name="printer_state_sending_file">正在发送文件</string>
+    <string name="printer_state_ready">准备打印</string>
+    <string name="printer_state_paused">打印已暂停</string>
+    <string name="printer_state_printing">打印中&#8230;</string>
+    <string name="printer_state_error">打印机连接错误</string>
+
+    <string name="empty" translatable="false">&#8212;</string>
+    <string name="dimensions_format" translatable="false">%1$.1fmm Ă %2$.1fmm Ă %3$.1fmm</string>
+    <string name="dimensions_reduced_format" translatable="false">%1$.1fĂ%2$.1fĂ%3$.1f mm</string>
+    <string name="remaining_time_none" translatable="false">&#8212; : &#8212;</string>
+    <string name="remaining_time_label">剩余时间:</string>
+    <string name="file">文件: %s</string>
+    <string name="file_label">文件:</string>
+    <string name="file_empty">未加载文件</string>
+    <string name="end_time_empty">&#8212;</string>
+    <string name="end_time_label">结束时间:</string>
+    <string name="end_time_label_no_column">结束时间</string>
+    <string name="end_time">结束时间: %s</string>
+    <string name="printed_empty">&#8212;</string>
+    <string name="printed_label">已打印:</string>
+    <string name="current_z">Z:</string>
+    <string name="current_z_value" translatable="false">%.2f mm</string>
+    <string name="current_z_empty" translatable="false">&#8212; mm</string>
+    <string name="printed">%1$s/%2$s</string>
+    <string name="printed_time">已打印时间: %s</string>
+    <string name="printed_time_empty">&#8212; : &#8212;</string>
+    <string name="printed_time_label">已打印时间:</string>
+    <string name="file_type_stl">文件类型: 模型</string>
+    <string name="file_type_gcode">文件类型: 机器指令</string>
+    <string name="file_size">%s</string>
+    <string name="filament">%1$.2fm / %2$.2fcm\u00B3</string>
+    <string name="estimated_print_time">%s</string>
+    <string name="uploaded_date">%s 之前</string>
+    <string name="file_size_label">文件大小:</string>
+    <string name="filament_label">耗材:</string>
+    <string name="estimated_print_time_label">预估时间:</string>
+    <string name="average_print_time_label">平均时间:</string>
+    <string name="last_print_time_label">上次打印时间:</string>
+    <string name="uploaded_date_label">上传日期:</string>
+    <string name="filament_empty">&#8212;</string>
+    <string name="file_name_empty">在列表中选择一个文件</string>
+    <string name="model_size">尺寸:</string>
+    <string name="origin">原点:</string>
+    <string name="failures">失败:</string>
+    <string name="success">成功:</string>
+    <string name="cost">费用:</string>
+
+    <string name="size_label">大小:</string>
+    <string name="time_label">时间:</string>
+    <string name="end_label">结束:</string>
+
+    <string name="date_few_seconds">几秒钟</string>
+    <string name="date_second">%d 秒</string>
+    <string name="date_seconds">%d 秒</string>
+    <string name="date_minute">%d 分钟</string>
+    <string name="date_minutes">%d 分钟</string>
+    <string name="date_hour">%d 小时</string>
+    <string name="date_hours">%d 小时</string>
+    <string name="date_day">%d 天</string>
+    <string name="date_days">%d 天</string>
+    <string name="date_month">%d 月</string>
+    <string name="date_months">%d 月</string>
+    <string name="date_year">%d 年</string>
+    <string name="date_years">%d 年</string>
+
+    <string name="progress">进度:</string>
+    <string name="progress_label_time">预期进度</string>
+    <string name="progress_label_gcode">实际进度</string>
+    <string name="progress_label_time_percent"><![CDATA[预期 [<b>%.1f%%</b>]]]></string>
+    <string name="progress_label_gcode_percent"><![CDATA[实际 [<b>%.1f%%</b>]]]></string>
+
+    <string name="printing_completed_success_title">打印已结束</string>
+    <string name="printing_completed_success_message">打印成功结束!</string>
+
+</resources>
